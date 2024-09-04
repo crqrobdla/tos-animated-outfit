@@ -6,16 +6,54 @@
     <title>Video.js Example</title>
     <link href="//vjs.zencdn.net/8.17.3/video-js.min.css" rel="stylesheet">
     <script src="//vjs.zencdn.net/8.17.3/video.min.js"></script>
+    <script type="module">
+        import videoData from './videoData.js';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const categorySelect = document.getElementById('category-select');
+            const videoContainer = document.getElementById('video-container');
+
+            categorySelect.addEventListener('change', () => {
+                const selectedCategory = categorySelect.value;
+                videoContainer.innerHTML = ''; // 清空影片容器
+
+                if (videoData[selectedCategory]) {
+                    videoData[selectedCategory].forEach(video => {
+                        const p = document.createElement('p');
+                        p.textContent = video.title;
+                        videoContainer.appendChild(p);
+
+                        const videoElement = document.createElement('video');
+                        videoElement.className = 'video-js';
+                        videoElement.controls = true;
+                        videoElement.preload = 'auto';
+                        videoElement.loop = true;
+                        videoElement.autoplay = true;
+                        videoElement.muted = true;
+                        videoElement.dataset.setup = '{}';
+
+                        const source = document.createElement('source');
+                        source.src = video.url;
+                        source.type = 'video/mp4';
+                        videoElement.appendChild(source);
+
+                        videoContainer.appendChild(videoElement);
+                        videoContainer.appendChild(document.createElement('br'));
+                    });
+                }
+            });
+        });
+    </script>
     <style>
         /* 預設播放器大小 */
-        #my-video, #my-video2 {
+        .video-js {
             width: 593px;
             height: 383px;
         }
 
         /* 手機端播放器大小 */
         @media (max-width: 768px) {
-            #my-video, #my-video2 {
+            .video-js {
                 width: 360px;
                 height: 233px;
             }
@@ -23,24 +61,13 @@
     </style>
 </head>
 <body>
-    <p>Vatican1_idle</p>
-    <video id="my-video" class="video-js" controls preload="auto" loop autoplay muted data-setup="{}">
-        <source src="https://files.catbox.moe/wlmldl.mp4" type="video/mp4">
-        <p class="vjs-no-js">
-            To view this video please enable JavaScript, and consider upgrading to a web browser that
-            <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-        </p>
-    </video>
+    <label for="category-select">選擇影片類別:</label>
+    <select id="category-select">
+        <option value="">--請選擇--</option>
+        <option value="Vatican">Vatican</option>
+        <option value="lindauyu">lindauyu</option>
+    </select>
 
-    <br> <!-- 新增這行來換行 -->
-
-    <p>Vatican1_attack</p>
-    <video id="my-video2" class="video-js" controls preload="auto" loop autoplay muted data-setup="{}">
-        <source src="https://files.catbox.moe/3t6gyy.mp4" type="video/mp4">
-        <p class="vjs-no-js">
-            To view this video please enable JavaScript, and consider upgrading to a web browser that
-            <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-        </p>
-    </video>
+    <div id="video-container"></div>
 </body>
 </html>
