@@ -10,15 +10,15 @@
         import videoData from './videoData.js';
 
         document.addEventListener('DOMContentLoaded', () => {
-            const categorySelect = document.getElementById('category-select');
             const videoContainer = document.getElementById('video-container');
+            const imageContainer = document.getElementById('image-container');
 
-            categorySelect.addEventListener('change', () => {
-                const selectedCategory = categorySelect.value;
-                videoContainer.innerHTML = ''; // 清空影片容器
+            imageContainer.addEventListener('click', (event) => {
+                const category = event.target.dataset.category;
+                if (category && videoData[category]) {
+                    videoContainer.innerHTML = ''; // 清空影片容器
 
-                if (videoData[selectedCategory]) {
-                    videoData[selectedCategory].forEach(video => {
+                    videoData[category].forEach(video => {
                         const p = document.createElement('p');
                         p.textContent = video.title;
                         videoContainer.appendChild(p);
@@ -58,15 +58,21 @@
                 height: 233px;
             }
         }
+
+        /* 圖片樣式 */
+        .category-image {
+            width: 200px;
+            height: 150px;
+            cursor: pointer;
+            margin: 10px;
+        }
     </style>
 </head>
 <body>
-    <label for="category-select">選擇影片類別:</label>
-    <select id="category-select">
-        <option value="">--請選擇--</option>
-        <option value="Vatican">Vatican</option>
-        <option value="lindauyu">lindauyu</option>
-    </select>
+    <div id="image-container">
+        <img src="https://web-assets.tosconfig.com/gallery/icons/10726.jpg" alt="Vatican" class="category-image" data-category="Vatican">
+        <img src="https://web-assets.tosconfig.com/gallery/icons/10622.jpg" alt="lindauyu" class="category-image" data-category="lindauyu">
+    </div>
 
     <div id="video-container"></div>
 </body>
