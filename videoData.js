@@ -99,7 +99,7 @@ const videoData = {
                 url: "https://files.catbox.moe/kqx6ej.gif"
             },
             {
-                title: "BlackGaGa_edit_Touch1,
+                title: "BlackGaGa_edit_Touch1",
                 url: "https://files.catbox.moe/ls8g8z.gif"
             },
             {
