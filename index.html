@@ -12,13 +12,20 @@
         document.addEventListener('DOMContentLoaded', () => {
             const videoContainer = document.getElementById('video-container');
             const imageContainer = document.getElementById('image-container');
+            const menuToggle = document.getElementById('menu-toggle');
+            const sidebar = document.getElementById('sidebar');
+
+            menuToggle.addEventListener('click', () => {
+                sidebar.classList.toggle('open');
+            });
 
             imageContainer.addEventListener('click', (event) => {
                 const category = event.target.dataset.category;
-                if (category && videoData[category]) {
+                const type = event.target.dataset.type;
+                if (category && type && videoData[type] && videoData[type][category]) {
                     videoContainer.innerHTML = ''; // 清空影片容器
 
-                    videoData[category].forEach(video => {
+                    videoData[type][category].forEach(video => {
                         const p = document.createElement('p');
                         p.textContent = video.title;
                         videoContainer.appendChild(p);
@@ -66,12 +73,72 @@
             cursor: pointer;
             margin: 10px;
         }
+
+        /* 側邊選單樣式 */
+        #sidebar {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+        }
+
+        #sidebar a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+
+        #sidebar a:hover {
+            color: #f1f1f1;
+        }
+
+        #sidebar .closebtn {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+
+        #menu-toggle {
+            font-size: 30px;
+            cursor: pointer;
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            color: #111;
+        }
+
+        .open {
+            width: 250px;
+        }
+
+        /* 調整 image-container 位置 */
+        #image-container {
+            position: absolute;
+            top: 70px; /* 向下移動 */
+            left: 60px; /* 向右移動 */
+        }
     </style>
 </head>
 <body>
+    <div id="menu-toggle">☰</div>
+    <div id="sidebar">
+        <a href="baseroom.html" class="closebtn">基地人物</a>
+        <a href="index.html" class="closebtn">角色</a>
+    </div>
+
     <div id="image-container">
-        <img src="https://web-assets.tosconfig.com/gallery/icons/10726.jpg" alt="Vatican" class="category-image" data-category="Vatican">
-        <img src="https://web-assets.tosconfig.com/gallery/icons/10622.jpg" alt="lindauyu" class="category-image" data-category="lindauyu">
+        <img src="https://web-assets.tosconfig.com/gallery/icons/10726.jpg" alt="Vatican" class="category-image" data-category="Vatican" data-type="character">
+        <img src="https://web-assets.tosconfig.com/gallery/icons/10622.jpg" alt="lindauyu" class="category-image" data-category="lindauyu" data-type="character">
     </div>
 
     <div id="video-container"></div>
