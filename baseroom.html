@@ -79,9 +79,13 @@
             left: 0;
             background-color: rgba(17, 17, 17, 0.95); /* 添加透明度 */
             overflow-x: hidden;
-            transition: 0.5s;
-            padding-top: 60px;
-            z-index: 2; /* 保證選單在最上層 */
+            transition: width 0.5s; /* 寬度過渡效果 */
+            padding-top: 20px;
+            z-index: 999; /* 確保側邊欄在最上層 */
+        }
+
+        #sidebar.open {
+            width: 250px; /* 側邊欄打開時的寬度 */
         }
 
         #sidebar a {
@@ -90,6 +94,7 @@
             font-size: 25px;
             color: #818181;
             display: block;
+            white-space: nowrap; /* 防止文字換行 */
             transition: 0.3s;
         }
 
