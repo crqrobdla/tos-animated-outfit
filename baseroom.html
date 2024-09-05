@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseroom Character</title>
+    <link href="//vjs.zencdn.net/8.17.3/video-js.min.css" rel="stylesheet">
+    <script type="module">
+        import videoData from './videoData.js';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const imageContainer = document.getElementById('image-container');
+            const gifContainer = document.getElementById('gif-container');
+
+            imageContainer.addEventListener('click', (event) => {
+                const category = event.target.dataset.category;
+                const type = event.target.dataset.type;
+                if (category && type && videoData[type] && videoData[type][category]) {
+                    gifContainer.innerHTML = ''; // 清空 gif 容器
+
+                    videoData[type][category].forEach(gif => {
+                        const p = document.createElement('p');
+                        p.textContent = gif.title;
+                        gifContainer.appendChild(p);
+
+                        const imgElement = document.createElement('img');
+                        imgElement.src = gif.url;
+                        imgElement.alt = gif.title;
+                        imgElement.style.width = '200px'; // 可以調整寬度
+                        imgElement.style.marginBottom = '10px';
+
+                        gifContainer.appendChild(imgElement);
+                        gifContainer.appendChild(document.createElement('br'));
+                    });
+                }
+            });
+        });
+    </script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
+
+        /* 圖片樣式 */
+        .category-image {
+            width: 80px;
+            height: 80px;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        /* gif 容器樣式 */
+        #gif-container {
+            margin-top: 20px;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Baseroom Character</h1>
+    
+    <!-- 圖片區域 -->
+    <div id="image-container">
+        <img src="https://files.catbox.moe/gehxeh.png" alt="Nocturne0318B" class="category-image" data-category="Nocturne0318B" data-type="baseroomcharacter">
+		<img src="https://files.catbox.moe/0ev0ij.png" alt="LIN_edit" class="category-image" data-category="LIN_edit" data-type="baseroomcharacter">
+    </div>
+
+    <!-- GIF 展示區域 -->
+    <div id="gif-container"></div>
+</body>
+</html>
