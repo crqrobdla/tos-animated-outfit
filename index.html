@@ -90,7 +90,7 @@
             position: fixed;
             top: 0;
             left: 0;
-            background-color: #111;
+            background-color: rgba(17, 17, 17, 0.8); /* 添加透明度 */
             overflow-x: hidden;
             transition: width 0.5s; /* 寬度過渡效果 */
             padding-top: 60px;
@@ -121,7 +121,7 @@
             top: 15px;
             left: 15px;
             color: #111;
-            z-index: 1000; /* 確保菜單按鈕位於側邊欄上方 */
+            z-index: 1001; /* 提高 z-index，確保 "☰" 按鈕位於側邊欄上方 */
         }
 
         /* 調整 image-container 位置 */
