@@ -88,12 +88,12 @@
             height: 100%;
             width: 0;
             position: fixed;
-            top: 0;
+            top: 50px; /* 將側邊欄移到 "☰" 按鈕下方 */
             left: 0;
             background-color: rgba(17, 17, 17, 0.8); /* 添加透明度 */
             overflow-x: hidden;
             transition: width 0.5s; /* 寬度過渡效果 */
-            padding-top: 60px;
+            padding-top: 20px;
             z-index: 999; /* 確保側邊欄在最上層 */
         }
 
@@ -107,6 +107,7 @@
             font-size: 25px;
             color: #818181;
             display: block;
+            white-space: nowrap; /* 防止文字換行 */
             transition: 0.3s;
         }
 
