@@ -26,16 +26,23 @@
                     gifContainer.innerHTML = ''; // 清空 GIF 容器
 
                     videoData[type][category].forEach(gif => {
+                        // 創建 GIF 顯示容器
+                        const gifItem = document.createElement('div');
+                        gifItem.classList.add('gif-item');
+
+                        // 添加 GIF 標題
                         const p = document.createElement('p');
                         p.textContent = gif.title;
-                        gifContainer.appendChild(p);
+                        gifItem.appendChild(p);
 
+                        // 添加 GIF 圖片
                         const imgElement = document.createElement('img');
                         imgElement.src = gif.url;
                         imgElement.alt = gif.title;
                         imgElement.classList.add('gif-image');
 
-                        gifContainer.appendChild(imgElement);
+                        gifItem.appendChild(imgElement);
+                        gifContainer.appendChild(gifItem);
                     });
                 }
             });
@@ -64,6 +71,20 @@
             flex-wrap: wrap;
             justify-content: center;
             gap: 20px;
+        }
+
+        /* gif 容器內單個項目的樣式，讓標題在圖片上方 */
+        .gif-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .gif-item p {
+            margin: 0;
+            padding: 5px;
+            font-size: 16px;
+            text-align: center;
         }
 
         .gif-image {
@@ -139,7 +160,7 @@
     <!-- 側邊選單 -->
     <div id="sidebar">
         <a href="baseroom.html">基地人物</a>
-        <a href="index.html">角色</a>
+        <a href="">角色</a>
     </div>
 
     <!-- 頁面標題 -->
