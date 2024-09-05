@@ -16,7 +16,7 @@
             const sidebar = document.getElementById('sidebar');
 
             menuToggle.addEventListener('click', () => {
-                sidebar.classList.toggle('open');
+                sidebar.classList.toggle('open'); // 切換 open 類別
             });
 
             imageContainer.addEventListener('click', (event) => {
@@ -90,8 +90,12 @@
             left: 0;
             background-color: #111;
             overflow-x: hidden;
-            transition: 0.5s;
+            transition: width 0.5s; /* 添加寬度過渡 */
             padding-top: 60px;
+        }
+
+        #sidebar.open {
+            width: 250px; /* 添加當 open 類別生效時寬度變化 */
         }
 
         #sidebar a {
@@ -107,14 +111,6 @@
             color: #f1f1f1;
         }
 
-        #sidebar .closebtn {
-            position: absolute;
-            top: 0;
-            right: 25px;
-            font-size: 36px;
-            margin-left: 50px;
-        }
-
         #menu-toggle {
             font-size: 30px;
             cursor: pointer;
@@ -122,10 +118,6 @@
             top: 15px;
             left: 15px;
             color: #111;
-        }
-
-        .open {
-            width: 250px;
         }
 
         /* 調整 image-container 位置 */
