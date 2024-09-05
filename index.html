@@ -15,8 +15,9 @@
             const menuToggle = document.getElementById('menu-toggle');
             const sidebar = document.getElementById('sidebar');
 
+            // 點擊菜單按鈕開啟或關閉側邊欄
             menuToggle.addEventListener('click', () => {
-                sidebar.classList.toggle('open'); // 切換 open 類別
+                sidebar.classList.toggle('open');
             });
 
             imageContainer.addEventListener('click', (event) => {
@@ -57,6 +58,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
+            position: relative;
         }
 
         /* 預設播放器大小 */
@@ -90,12 +92,13 @@
             left: 0;
             background-color: #111;
             overflow-x: hidden;
-            transition: width 0.5s; /* 添加寬度過渡 */
+            transition: width 0.5s; /* 寬度過渡效果 */
             padding-top: 60px;
+            z-index: 999; /* 確保側邊欄在最上層 */
         }
 
         #sidebar.open {
-            width: 250px; /* 添加當 open 類別生效時寬度變化 */
+            width: 250px; /* 側邊欄打開時的寬度 */
         }
 
         #sidebar a {
@@ -118,6 +121,7 @@
             top: 15px;
             left: 15px;
             color: #111;
+            z-index: 1000; /* 確保菜單按鈕位於側邊欄上方 */
         }
 
         /* 調整 image-container 位置 */
@@ -130,14 +134,15 @@
             margin-top: 20px;
             width: 100%;
             text-align: center;
+            z-index: 1; /* 設置影片容器層次，確保在側邊欄之下 */
         }
     </style>
 </head>
 <body>
     <div id="menu-toggle">☰</div>
     <div id="sidebar">
-        <a href="baseroom.html" class="closebtn">基地人物</a>
         <a href="" class="closebtn">角色</a>
+        <a href="baseroom.html" class="closebtn">基地人物</a>
     </div>
 
     <div id="image-container">
