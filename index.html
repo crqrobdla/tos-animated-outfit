@@ -19,12 +19,6 @@
                 sidebar.classList.toggle('open');
             });
 
-            sidebar.addEventListener('click', (event) => {
-                if (event.target.classList.contains('closebtn')) {
-                    sidebar.classList.toggle('open');
-                }
-            });
-
             imageContainer.addEventListener('click', (event) => {
                 const category = event.target.dataset.category;
                 const type = event.target.dataset.type;
@@ -58,6 +52,13 @@
         });
     </script>
     <style>
+        /* 影片與圖片的佈局 */
+        body {
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+        }
+
         /* 預設播放器大小 */
         .video-js {
             width: 593px;
@@ -129,9 +130,15 @@
 
         /* 調整 image-container 位置 */
         #image-container {
-            position: absolute;
+            position: relative;
             top: 70px; /* 向下移動 */
-            left: 60px; /* 向右移動 */
+            left: 20px; /* 向右移動 */
+        }
+
+        /* 固定影片容器的寬度 */
+        #video-container {
+            margin-left: 20px;
+            flex-grow: 1;
         }
     </style>
 </head>
