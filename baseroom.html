@@ -4,19 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baseroom Character</title>
-    <link href="//vjs.zencdn.net/8.17.3/video-js.min.css" rel="stylesheet">
     <script type="module">
         import videoData from './videoData.js';
 
         document.addEventListener('DOMContentLoaded', () => {
             const imageContainer = document.getElementById('image-container');
             const gifContainer = document.getElementById('gif-container');
+            const menuToggle = document.getElementById('menu-toggle');
+            const sidebar = document.getElementById('sidebar');
 
+            // 側邊選單開關
+            menuToggle.addEventListener('click', () => {
+                sidebar.classList.toggle('open');
+            });
+
+            // 點擊圖片顯示對應 GIF
             imageContainer.addEventListener('click', (event) => {
                 const category = event.target.dataset.category;
                 const type = event.target.dataset.type;
                 if (category && type && videoData[type] && videoData[type][category]) {
-                    gifContainer.innerHTML = ''; // 清空 gif 容器
+                    gifContainer.innerHTML = ''; // 清空 GIF 容器
 
                     videoData[type][category].forEach(gif => {
                         const p = document.createElement('p');
@@ -26,11 +33,9 @@
                         const imgElement = document.createElement('img');
                         imgElement.src = gif.url;
                         imgElement.alt = gif.title;
-                        imgElement.style.width = '200px'; // 可以調整寬度
-                        imgElement.style.marginBottom = '10px';
+                        imgElement.classList.add('gif-image');
 
                         gifContainer.appendChild(imgElement);
-                        gifContainer.appendChild(document.createElement('br'));
                     });
                 }
             });
@@ -52,15 +57,87 @@
             margin: 10px;
         }
 
-        /* gif 容器樣式 */
+        /* gif 容器樣式，讓 GIF 自動併排顯示並根據瀏覽器寬度換行 */
         #gif-container {
             margin-top: 20px;
-            width: 100%;
-            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .gif-image {
+            width: 200px;
+        }
+
+        /* 側邊選單樣式 */
+        #sidebar {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            top: 56px; /* 將側邊欄移到 "☰" 按鈕下方 */
+            left: 0;
+            background-color: rgba(17, 17, 17, 0.95); /* 添加透明度 */
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+            z-index: 2; /* 保證選單在最上層 */
+        }
+
+        #sidebar a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+
+        #sidebar a:hover {
+            color: #f1f1f1;
+        }
+
+        #sidebar .closebtn {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+
+        #menu-toggle {
+            font-size: 30px;
+            cursor: pointer;
+            position: absolute;
+            top: 10px;
+            left: 15px;
+            color: #111;
+            z-index: 3; /* 保證在選單之上 */
+        }
+
+        .open {
+            width: 250px;
+        }
+        
+        /* 手機端調整 GIF 大小 */
+        @media (max-width: 768px) {
+            .gif-image {
+                width: 150px;
+            }
         }
     </style>
 </head>
 <body>
+    <!-- 側邊選單按鈕 -->
+    <div id="menu-toggle">☰</div>
+
+    <!-- 側邊選單 -->
+    <div id="sidebar">
+        <a href="baseroom.html">基地人物</a>
+        <a href="index.html">角色</a>
+    </div>
+
+    <!-- 頁面標題 -->
     <h1>Baseroom Character</h1>
     
     <!-- 圖片區域 -->
