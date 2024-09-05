@@ -19,6 +19,12 @@
                 sidebar.classList.toggle('open');
             });
 
+            sidebar.addEventListener('click', (event) => {
+                if (event.target.classList.contains('closebtn')) {
+                    sidebar.classList.toggle('open');
+                }
+            });
+
             imageContainer.addEventListener('click', (event) => {
                 const category = event.target.dataset.category;
                 const type = event.target.dataset.type;
