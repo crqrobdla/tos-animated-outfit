@@ -84,7 +84,33 @@ const videoData = {
                 title: "Nocturne0318B_Walk",
                 url: "https://files.catbox.moe/kq726v.gif"
             }
-        ]
+        ],
+		BlackGaGa_edit: [
+			{
+				title: "BlackGaGa_edit_Idle1",
+                url: "https://files.catbox.moe/fi5miw.gif"
+			},
+			{
+				title: "BlackGaGa_edit_Idle2",
+                url: "https://files.catbox.moe/r8odf5.gif"
+			},
+			{
+				title: "BlackGaGa_edit_PickUp",
+                url: "https://files.catbox.moe/kqx6ej.gif"
+			},
+			{
+				title: "BlackGaGa_edit_Touch1,
+                url: "https://files.catbox.moe/ls8g8z.gif"
+			},
+			{
+				title: "BlackGaGa_edit_Touch2",
+                url: "https://files.catbox.moe/cgcgw6.gif"
+			},
+			{
+				title: "BlackGaGa_edit_Walk",
+                url: "https://files.catbox.moe/zuj420.gif"
+			}
+		]
     }
 };
 
