@@ -45,6 +45,11 @@
                         source.type = 'video/mp4';
                         videoElement.appendChild(source);
 
+                        videoElement.addEventListener('loadedmetadata', () => {
+                            const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
+                            videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
+                        });
+
                         videoContainer.appendChild(videoElement);
                         videoContainer.appendChild(document.createElement('br'));
                     });
@@ -63,15 +68,15 @@
 
         /* 預設播放器大小 */
         .video-js {
-            width: 593px;
-            height: 383px;
+            width: 600px;
+            height: auto;
         }
 
         /* 手機端播放器大小 */
         @media (max-width: 768px) {
             .video-js {
                 width: 360px;
-                height: 233px;
+                height: auto;
             }
         }
 
