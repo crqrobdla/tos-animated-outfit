@@ -21,7 +21,7 @@ const videoData = {
                 url: "https://files.catbox.moe/cj87za.mov"
             }, {
                 title: "nero_attack",
-                url: "https://files.catbox.moe/1qd2cn.mov"
+                url: "https://files.catbox.moe/c70kkt.mov"
             }
         ]
     },
