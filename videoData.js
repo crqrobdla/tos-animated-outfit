@@ -15,6 +15,14 @@ const videoData = {
                 title: "lindaiyu_attack",
                 url: "https://files.catbox.moe/ldu5y1.mp4"
             }
+        ],
+        nero: [{
+                title: "nero_idle",
+                url: "https://files.catbox.moe/cj87za.mov"
+            }, {
+                title: "nero_attack",
+                url: "https://files.catbox.moe/1qd2cn.mov"
+            }
         ]
     },
     baseroomcharacter: {

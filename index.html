@@ -40,10 +40,20 @@
                         videoElement.muted = true;
                         videoElement.dataset.setup = '{}';
 
-                        const source = document.createElement('source');
-                        source.src = video.url;
-                        source.type = 'video/mp4';
-                        videoElement.appendChild(source);
+                        // 添加多個 source 以支持多種格式
+                        if (video.urlMp4) {
+                            const sourceMp4 = document.createElement('source');
+                            sourceMp4.src = video.urlMp4;
+                            sourceMp4.type = 'video/mp4';
+                            videoElement.appendChild(sourceMp4);
+                        }
+
+                        if (video.urlMov) {
+                            const sourceMov = document.createElement('source');
+                            sourceMov.src = video.urlMov;
+                            sourceMov.type = 'video/quicktime';
+                            videoElement.appendChild(sourceMov);
+                        }
 
                         videoElement.addEventListener('loadedmetadata', () => {
                             const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
@@ -152,6 +162,7 @@
     </div>
 
     <div id="image-container">
+        <img src="https://web-assets.tosconfig.com/gallery/icons/10617.jpg" alt="nero" class="category-image" data-category="nero" data-type="character">
         <img src="https://web-assets.tosconfig.com/gallery/icons/10726.jpg" alt="Vatican" class="category-image" data-category="Vatican" data-type="character">
         <img src="https://web-assets.tosconfig.com/gallery/icons/10622.jpg" alt="lindauyu" class="category-image" data-category="lindauyu" data-type="character">
     </div>
