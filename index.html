@@ -40,20 +40,10 @@
                         videoElement.muted = true;
                         videoElement.dataset.setup = '{}';
 
-                        // 添加多個 source 以支持多種格式
-                        if (video.urlMp4) {
-                            const sourceMp4 = document.createElement('source');
-                            sourceMp4.src = video.urlMp4;
-                            sourceMp4.type = 'video/mp4';
-                            videoElement.appendChild(sourceMp4);
-                        }
-
-                        if (video.urlMov) {
-                            const sourceMov = document.createElement('source');
-                            sourceMov.src = video.urlMov;
-                            sourceMov.type = 'video/quicktime';
-                            videoElement.appendChild(sourceMov);
-                        }
+                        const source = document.createElement('source');
+                        source.src = video.url;
+                        source.type = 'video/quicktime';
+                        videoElement.appendChild(source);
 
                         videoElement.addEventListener('loadedmetadata', () => {
                             const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
