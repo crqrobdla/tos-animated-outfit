@@ -10,10 +10,10 @@ const videoData = {
         ],
         lindauyu: [{
                 title: "lindaiyu_idle",
-                url: "https://files.catbox.moe/k6zoxl.mp4"
+                url: "https://files.catbox.moe/08gm82.mov"
             }, {
                 title: "lindaiyu_attack",
-                url: "https://files.catbox.moe/ldu5y1.mp4"
+                url: "https://files.catbox.moe/s7r5lt.mov"
             }
         ],
         nero: [{
