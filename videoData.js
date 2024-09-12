@@ -13,7 +13,7 @@ const videoData = {
                 url: "https://files.catbox.moe/08gm82.mov"
             }, {
                 title: "lindaiyu_attack",
-                url: "https://files.catbox.moe/ke9uye.mov"
+                url: "https://files.catbox.moe/7kpvy7.mov"
             }
         ],
         nero: [{
