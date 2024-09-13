@@ -1,188 +1,186 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baseroom Character</title>
-    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
-    <script type="module">
-        import videoData from './videoData.js';
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseroom Character</title>
+    <script type="module">
+        import videoData from './videoData.js';
 
-        document.addEventListener('DOMContentLoaded', () => {
-            const imageContainer = document.getElementById('image-container');
-            const gifContainer = document.getElementById('gif-container');
-            const menuToggle = document.getElementById('menu-toggle');
-            const sidebar = document.getElementById('sidebar');
+        document.addEventListener('DOMContentLoaded', () => {
+            const imageContainer = document.getElementById('image-container');
+            const gifContainer = document.getElementById('gif-container');
+            const menuToggle = document.getElementById('menu-toggle');
+            const sidebar = document.getElementById('sidebar');
 
-            // 側邊選單開關
-            menuToggle.addEventListener('click', () => {
-                sidebar.classList.toggle('open');
-            });
+            // 側邊選單開關
+            menuToggle.addEventListener('click', () => {
+                sidebar.classList.toggle('open');
+            });
 
-            // 點擊圖片顯示對應 GIF
-            imageContainer.addEventListener('click', (event) => {
-                const category = event.target.dataset.category;
-                const type = event.target.dataset.type;
-                if (category && type && videoData[type] && videoData[type][category]) {
-                    gifContainer.innerHTML = ''; // 清空 GIF 容器
+            // 點擊圖片顯示對應的標題
+            imageContainer.addEventListener('click', (event) => {
+                const category = event.target.dataset.category;
+                const type = event.target.dataset.type;
+                if (category && type && videoData[type] && videoData[type][category]) {
+                    gifContainer.innerHTML = ''; // 清空 GIF 容器
 
-                    videoData[type][category].forEach(gif => {
-                        // 創建 GIF 顯示容器
-                        const gifItem = document.createElement('div');
-                        gifItem.classList.add('gif-item');
+                    videoData[type][category].forEach(gif => {
+                        // 創建 GIF 顯示容器
+                        const gifItem = document.createElement('div');
+                        gifItem.classList.add('gif-item');
 
-                        // 添加 GIF 標題
-                        const p = document.createElement('p');
-                        p.textContent = gif.title;
-                        gifItem.appendChild(p);
+                        // 添加 GIF 標題
+                        const p = document.createElement('p');
+                        p.textContent = gif.title;
+                        p.classList.add('gif-title');
+                        gifItem.appendChild(p);
 
-                        // 添加 GIF 圖片，使用 data-src 進行懶加載
-                        const imgElement = document.createElement('img');
-                        imgElement.setAttribute('data-src', gif.url); // 使用 data-src 而不是 src
-                        imgElement.alt = gif.title;
-                        imgElement.classList.add('gif-image', 'lazy'); // 添加 lazy class
+                        // 隱藏 GIF 圖片，直到點擊標題才顯示
+                        const imgElement = document.createElement('img');
+                        imgElement.src = gif.url;
+                        imgElement.alt = gif.title;
+                        imgElement.classList.add('gif-image');
+                        imgElement.style.display = 'none'; // 初始隱藏
 
-                        gifItem.appendChild(imgElement);
-                        gifContainer.appendChild(gifItem);
-                    });
+                        gifItem.appendChild(imgElement);
+                        gifContainer.appendChild(gifItem);
 
-                    // 初始化 LazyLoad
-                    new LazyLoad({
-                        elements_selector: ".lazy" // 設置選擇器
-                    });
-                }
-            });
-        });
-    </script>
-    <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            position: relative;
-        }
+                        // 點擊標題顯示或隱藏 GIF
+                        p.addEventListener('click', () => {
+                            if (imgElement.style.display === 'none') {
+                                imgElement.style.display = 'block';
+                            } else {
+                                imgElement.style.display = 'none';
+                            }
+                        });
+                    });
+                }
+            });
+        });
+    </script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
 
-        /* 圖片樣式 */
-        .category-image {
-            width: 80px;
-            height: 80px;
-            cursor: pointer;
-            margin: 10px;
-        }
+        /* 圖片樣式 */
+        .category-image {
+            width: 80px;
+            height: 80px;
+            cursor: pointer;
+            margin: 10px;
+        }
 
-        /* gif 容器樣式，讓 GIF 自動併排顯示並根據瀏覽器寬度換行 */
-        #gif-container {
-            margin-top: 20px;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
-        }
+        /* gif 容器樣式，讓 GIF 自動併排顯示並根據瀏覽器寬度換行 */
+        #gif-container {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
 
-        /* gif 容器內單個項目的樣式，讓標題在圖片上方 */
-        .gif-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
+        /* gif 容器內單個項目的樣式，讓標題在圖片上方 */
+        .gif-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 
-        .gif-item p {
-            margin: 0;
-            padding: 5px;
-            font-size: 16px;
-            text-align: center;
-        }
+        .gif-item p {
+            margin: 0;
+            padding: 5px;
+            font-size: 16px;
+            text-align: center;
+            cursor: pointer; /* 添加指針，表示可以點擊 */
+        }
 
-        .gif-image {
-            max-height: 400px;
-            width: auto;
-        }
+        .gif-image {
+            max-height: 400px;
+            width: auto;
+        }
 
-        /* 側邊選單樣式 */
-        #sidebar {
-            height: 100%;
-            width: 0;
-            position: fixed;
-            top: 56px; /* 將側邊欄移到 "☰" 按鈕下方 */
-            left: 0;
-            background-color: rgba(17, 17, 17, 0.95); /* 添加透明度 */
-            overflow-x: hidden;
-            transition: width 0.5s; /* 寬度過渡效果 */
-            padding-top: 20px;
-            z-index: 999; /* 確保側邊欄在最上層 */
-        }
+        /* 側邊選單樣式 */
+        #sidebar {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            top: 56px;
+            left: 0;
+            background-color: rgba(17, 17, 17, 0.95);
+            overflow-x: hidden;
+            transition: width 0.5s;
+            padding-top: 20px;
+            z-index: 999;
+        }
 
-        #sidebar.open {
-            width: 250px; /* 側邊欄打開時的寬度 */
-        }
+        #sidebar.open {
+            width: 250px;
+        }
 
-        #sidebar a {
-            padding: 8px 8px 8px 32px;
-            text-decoration: none;
-            font-size: 25px;
-            color: #818181;
-            display: block;
-            white-space: nowrap; /* 防止文字換行 */
-            transition: 0.3s;
-        }
+        #sidebar a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+            white-space: nowrap;
+            transition: 0.3s;
+        }
 
-        #sidebar a:hover {
-            color: #f1f1f1;
-        }
+        #sidebar a:hover {
+            color: #f1f1f1;
+        }
 
-        #sidebar .closebtn {
-            position: absolute;
-            top: 0;
-            right: 25px;
-            font-size: 36px;
-            margin-left: 50px;
-        }
+        #menu-toggle {
+            font-size: 30px;
+            cursor: pointer;
+            position: fixed;
+            top: 10px;
+            left: 15px;
+            color: #111;
+            z-index: 3;
+        }
 
-        #menu-toggle {
-            font-size: 30px;
-            cursor: pointer;
-            position: fixed;
-            top: 10px;
-            left: 15px;
-            color: #111;
-            z-index: 3; /* 保證在選單之上 */
-        }
+        .open {
+            width: 250px;
+        }
 
-        .open {
-            width: 250px;
-        }
-		
-		/* 調整 image-container 位置 */
-        #image-container {
-            margin-top: 70px; /* 向下移動 */
-        }
-        
-        /* 手機端調整 GIF 大小 */
-        @media (max-width: 768px) {
-            .gif-image {
-                max-height: 300px;
-            }
-        }
-    </style>
+        /* 調整 image-container 位置 */
+        #image-container {
+            margin-top: 70px;
+        }
+
+        /* 手機端調整 GIF 大小 */
+        @media (max-width: 768px) {
+            .gif-image {
+                max-height: 300px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <!-- 側邊選單按鈕 -->
-    <div id="menu-toggle">☰</div>
+    <!-- 側邊選單按鈕 -->
+    <div id="menu-toggle">☰</div>
 
-    <!-- 側邊選單 -->
-    <div id="sidebar">
-        <a href="baseroom.html">基地人物</a>
-        <a href="index.html">角色</a>
-    </div>
-    
-    <!-- 圖片區域 -->
-    <div id="image-container">
-        <img src="https://files.catbox.moe/z1wqei.png" alt="BlackGaGa_edit" class="category-image" data-category="BlackGaGa_edit" data-type="baseroomcharacter">
-        <img src="https://files.catbox.moe/gehxeh.png" alt="Nocturne0318B" class="category-image" data-category="Nocturne0318B" data-type="baseroomcharacter">
-        <img src="https://files.catbox.moe/0ev0ij.png" alt="LIN_edit" class="category-image" data-category="LIN_edit" data-type="baseroomcharacter">
-    </div>
+    <!-- 側邊選單 -->
+    <div id="sidebar">
+        <a href="baseroom.html">基地人物</a>
+        <a href="index.html">角色</a>
+    </div>
+    
+    <!-- 圖片區域 -->
+    <div id="image-container">
+        <img src="https://files.catbox.moe/z1wqei.png" alt="BlackGaGa_edit" class="category-image" data-category="BlackGaGa_edit" data-type="baseroomcharacter">
+        <img src="https://files.catbox.moe/gehxeh.png" alt="Nocturne0318B" class="category-image" data-category="Nocturne0318B" data-type="baseroomcharacter">
+        <img src="https://files.catbox.moe/0ev0ij.png" alt="LIN_edit" class="category-image" data-category="LIN_edit" data-type="baseroomcharacter">
+    </div>
 
-    <!-- GIF 展示區域 -->
-    <div id="gif-container"></div>
+    <!-- GIF 展示區域 -->
+    <div id="gif-container"></div>
 </body>
 </html>
