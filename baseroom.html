@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baseroom Character</title>
+    
+    <!-- 引入 lazyload 庫 -->
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.6.1/dist/lazyload.min.js"></script>
+    
     <script type="module">
         import videoData from './videoData.js';
 
@@ -12,6 +16,11 @@
             const gifContainer = document.getElementById('gif-container');
             const menuToggle = document.getElementById('menu-toggle');
             const sidebar = document.getElementById('sidebar');
+
+            // 初始化 LazyLoad
+            const lazyLoadInstance = new LazyLoad({
+                elements_selector: ".lazy"
+            });
 
             // 側邊選單開關
             menuToggle.addEventListener('click', () => {
@@ -38,18 +47,19 @@
 
                         // 隱藏 GIF 圖片，直到點擊標題才顯示
                         const imgElement = document.createElement('img');
-                        imgElement.src = gif.url;
+                        imgElement.setAttribute('data-src', gif.url);  // 使用 data-src 進行懶加載
                         imgElement.alt = gif.title;
-                        imgElement.classList.add('gif-image');
+                        imgElement.classList.add('gif-image', 'lazy');  // 加入 lazy 類
                         imgElement.style.display = 'none'; // 初始隱藏
 
                         gifItem.appendChild(imgElement);
                         gifContainer.appendChild(gifItem);
 
-                        // 點擊標題顯示或隱藏 GIF
+                        // 點擊標題顯示或隱藏 GIF 並觸發懶加載
                         p.addEventListener('click', () => {
                             if (imgElement.style.display === 'none') {
                                 imgElement.style.display = 'block';
+                                lazyLoadInstance.update(); // 懶加載更新，觸發加載
                             } else {
                                 imgElement.style.display = 'none';
                             }
