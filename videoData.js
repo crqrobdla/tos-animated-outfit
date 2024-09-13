@@ -2,10 +2,10 @@ const videoData = {
     character: {
         Vatican: [{
                 title: "Vatican1_idle",
-                url: "https://files.catbox.moe/wlmldl.mp4"
+                url: "https://files.catbox.moe/uax92q.mov"
             }, {
                 title: "Vatican1_attack",
-                url: "https://files.catbox.moe/3t6gyy.mp4"
+                url: "https://files.catbox.moe/dfvv0l.mov"
             }
         ],
         lindauyu: [{
