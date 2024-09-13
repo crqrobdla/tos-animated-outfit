@@ -2,7 +2,7 @@ const videoData = {
     character: {
         Vatican: [{
                 title: "Vatican1_idle",
-                url: "https://files.catbox.moe/sqr991.mov"
+                url: "https://files.catbox.moe/gtzn8q.mov"
             }, {
                 title: "Vatican1_attack",
                 url: "https://files.catbox.moe/dfvv0l.mov"
