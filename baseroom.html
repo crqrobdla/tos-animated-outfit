@@ -59,9 +59,11 @@
                         p.addEventListener('click', () => {
                             if (imgElement.style.display === 'none') {
                                 imgElement.style.display = 'block';
+                                p.classList.add('title-active');  // 顯示時添加淡藍色背景
                                 lazyLoadInstance.update(); // 懶加載更新，觸發加載
                             } else {
                                 imgElement.style.display = 'none';
+                                p.classList.remove('title-active');  // 隱藏時移除背景
                             }
                         });
                     });
@@ -163,6 +165,11 @@
         /* 調整 image-container 位置 */
         #image-container {
             margin-top: 70px;
+        }
+
+        /* 新增的 class，點擊時變成淡藍色 */
+        .title-active {
+            background-color: #add8e6; /* 淡藍色 */
         }
     </style>
 </head>
