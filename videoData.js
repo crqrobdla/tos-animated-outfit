@@ -28,25 +28,25 @@ const videoData = {
     baseroomcharacter: {
         LIN_edit: [{
                 title: "LIN_edit_Idle1",
-                url: "https://files.catbox.moe/5hc1x7.webp"
+                url: "https://files.catbox.moe/wfidjs.gif"
             }, {
                 title: "LIN_edit_Idle2",
-                url: "https://files.catbox.moe/q5sg04.webp"
+                url: "https://files.catbox.moe/kvuxkc.gif"
             }, {
                 title: "LIN_edit_PickUp",
-                url: "https://files.catbox.moe/dq23z4.webp"
+                url: "https://files.catbox.moe/vmazjc.gif"
             }, {
                 title: "LIN_edit_Reaction",
-                url: "https://files.catbox.moe/5by0kx.webp"
+                url: "https://files.catbox.moe/fbosdg.gif"
             }, {
                 title: "LIN_edit_Touch1",
-                url: "https://files.catbox.moe/667loe.webp"
+                url: "https://files.catbox.moe/jb9awe.gif"
             }, {
                 title: "LIN_edit_Touch2",
-                url: "https://files.catbox.moe/a1fog1.webp"
+                url: "https://files.catbox.moe/9kt59o.gif"
             }, {
                 title: "LIN_edit_Walk",
-                url: "https://files.catbox.moe/8g5rmy.webp"
+                url: "https://files.catbox.moe/v0c6hx.gif"
             }
         ],
         Nocturne0318B: [{
