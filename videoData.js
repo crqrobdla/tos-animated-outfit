@@ -1,5 +1,19 @@
 const videoData = {
     character: {
+        categories: [{
+                category: "nero",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10617.jpg",
+                alt: "nero"
+            }, {
+                category: "lindauyu",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
+                alt: "lindauyu"
+            }, {
+                category: "Vatican",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
+                alt: "Vatican"
+            }
+        ],
         Vatican: [{
                 title: "Vatican1_idle",
                 url: "https://files.catbox.moe/gtzn8q.mov"
@@ -26,6 +40,20 @@ const videoData = {
         ]
     },
     baseroomcharacter: {
+        categories: [{
+                category: "BlackGaGa_edit",
+                src: "https://files.catbox.moe/z1wqei.png",
+                alt: "BlackGaGa_edit"
+            }, {
+                category: "Nocturne0318B",
+                src: "https://files.catbox.moe/gehxeh.png",
+                alt: "Nocturne0318B"
+            }, {
+                category: "LIN_edit",
+                src: "https://files.catbox.moe/0ev0ij.png",
+                alt: "LIN_edit"
+            }
+        ],
         LIN_edit: [{
                 title: "LIN_edit_Idle1",
                 url: "https://files.catbox.moe/wfidjs.gif"

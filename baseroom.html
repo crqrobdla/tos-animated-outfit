@@ -27,19 +27,32 @@
                 sidebar.classList.toggle('open');
             });
 
-            // 點擊圖片顯示對應的標題
+            // 動態生成圖片
+            const baseroomCategories = videoData.baseroomcharacter.categories;
+            baseroomCategories.forEach(categoryData => {
+                const imgElement = document.createElement('img');
+                imgElement.src = categoryData.src;
+                imgElement.alt = categoryData.alt;
+                imgElement.classList.add('category-image');
+                imgElement.dataset.category = categoryData.category;
+                imgElement.dataset.type = "baseroomcharacter";
+                
+                imageContainer.appendChild(imgElement);
+            });
+
+            // 點擊圖片顯示對應的標題和動態內容
             imageContainer.addEventListener('click', (event) => {
                 const category = event.target.dataset.category;
                 const type = event.target.dataset.type;
                 if (category && type && videoData[type] && videoData[type][category]) {
-                    gifContainer.innerHTML = ''; // 清空 GIF 容器
+                    gifContainer.innerHTML = ''; // 清空容器
 
                     videoData[type][category].forEach(gif => {
-                        // 創建 GIF 顯示容器
+                        // 創建顯示容器
                         const gifItem = document.createElement('div');
                         gifItem.classList.add('gif-item');
 
-                        // 添加 GIF 標題
+                        // 顯示標題
                         const p = document.createElement('p');
                         p.textContent = gif.title;
                         p.classList.add('gif-title');
@@ -47,23 +60,23 @@
 
                         // 隱藏 GIF 圖片，直到點擊標題才顯示
                         const imgElement = document.createElement('img');
-                        imgElement.setAttribute('data-src', gif.url);  // 使用 data-src 進行懶加載
+                        imgElement.setAttribute('data-src', gif.url);  // 懶加載的圖片路徑
                         imgElement.alt = gif.title;
-                        imgElement.classList.add('gif-image', 'lazy');  // 加入 lazy 類
-                        imgElement.style.display = 'none'; // 初始隱藏
+                        imgElement.classList.add('gif-image', 'lazy');
+                        imgElement.style.display = 'none';
 
                         gifItem.appendChild(imgElement);
                         gifContainer.appendChild(gifItem);
 
-                        // 點擊標題顯示或隱藏 GIF 並觸發懶加載
+                        // 點擊標題展開圖片
                         p.addEventListener('click', () => {
                             if (imgElement.style.display === 'none') {
                                 imgElement.style.display = 'block';
-                                p.classList.add('title-active');  // 顯示時添加淡藍色背景
-                                lazyLoadInstance.update(); // 懶加載更新，觸發加載
+                                p.classList.add('title-active');  // 添加背景色
+                                lazyLoadInstance.update();  // 懶加載更新
                             } else {
                                 imgElement.style.display = 'none';
-                                p.classList.remove('title-active');  // 隱藏時移除背景
+                                p.classList.remove('title-active');
                             }
                         });
                     });
@@ -87,7 +100,7 @@
             margin: 10px;
         }
 
-        /* gif 容器樣式，讓 GIF 自動併排顯示並根據瀏覽器寬度換行 */
+        /* gif 容器樣式 */
         #gif-container {
             margin-top: 20px;
             display: flex;
@@ -96,7 +109,7 @@
             gap: 20px;
         }
 
-        /* gif 容器內單個項目的樣式，讓標題在圖片上方 */
+        /* gif 項目 */
         .gif-item {
             display: flex;
             flex-direction: column;
@@ -108,7 +121,7 @@
             padding: 5px;
             font-size: 16px;
             text-align: center;
-            cursor: pointer; /* 添加指針，表示可以點擊 */
+            cursor: pointer; /* 點擊效果 */
         }
 
         .gif-image {
@@ -116,7 +129,7 @@
             width: auto;
         }
 
-        /* 側邊選單樣式 */
+        /* 側邊選單 */
         #sidebar {
             height: 100%;
             width: 0;
@@ -163,13 +176,13 @@
         }
 
         /* 調整 image-container 位置 */
-        #image-container {
+       #image-container {
             margin-top: 70px;
         }
 
-        /* 新增的 class，點擊時變成淡藍色 */
+        /* 點擊時背景變淡藍色 */
         .title-active {
-            background-color: #add8e6; /* 淡藍色 */
+            background-color: #add8e6;
         }
     </style>
 </head>
@@ -184,11 +197,7 @@
     </div>
     
     <!-- 圖片區域 -->
-    <div id="image-container">
-        <img src="https://files.catbox.moe/z1wqei.png" alt="BlackGaGa_edit" class="category-image" data-category="BlackGaGa_edit" data-type="baseroomcharacter">
-        <img src="https://files.catbox.moe/gehxeh.png" alt="Nocturne0318B" class="category-image" data-category="Nocturne0318B" data-type="baseroomcharacter">
-        <img src="https://files.catbox.moe/0ev0ij.png" alt="LIN_edit" class="category-image" data-category="LIN_edit" data-type="baseroomcharacter">
-    </div>
+    <div id="image-container"></div>
 
     <!-- GIF 展示區域 -->
     <div id="gif-container"></div>
