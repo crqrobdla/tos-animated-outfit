@@ -20,10 +20,10 @@ const videoData = {
         ],
         skeleton: [{
                 title: "Idle",
-                url: "../main/animation/video/skeleton/Idle.mov"
+                url: "/tos-animated-outfit/animation/video/skeleton/Idle.mov"
             }, {
                 title: "Attack",
-                url: "../main/animation/video/skeleton/Attack.mov"
+                url: "/tos-animated-outfit/animation/video/skeleton/Attack.mov"
             }
         ],
         Vatican1: [{
