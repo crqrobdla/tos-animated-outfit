@@ -1,6 +1,10 @@
 const videoData = {
     character: {
         categories: [{
+                category: "skeleton",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10560.jpg",
+                alt: "skeleton"
+            }, {
                 category: "nero",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10617.jpg",
                 alt: "nero"
@@ -9,32 +13,40 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
                 alt: "lindauyu"
             }, {
-                category: "Vatican",
+                category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
-                alt: "Vatican"
+                alt: "Vatican1"
             }
         ],
-        Vatican: [{
-                title: "Vatican1_idle",
+        skeleton: [{
+                title: "Idle",
+                url: "../animation/video/skeleton/Idle.mov"
+            }, {
+                title: "Attack",
+                url: "../animation/video/skeleton/Attack.mov"
+            }
+        ],
+        Vatican1: [{
+                title: "idle",
                 url: "https://files.catbox.moe/gtzn8q.mov"
             }, {
-                title: "Vatican1_attack",
+                title: "attack",
                 url: "https://files.catbox.moe/dfvv0l.mov"
             }
         ],
         lindauyu: [{
-                title: "lindaiyu_idle",
+                title: "idle",
                 url: "https://files.catbox.moe/08gm82.mov"
             }, {
-                title: "lindaiyu_attack",
+                title: "attack",
                 url: "https://files.catbox.moe/7kpvy7.mov"
             }
         ],
         nero: [{
-                title: "nero_idle",
+                title: "idle",
                 url: "https://files.catbox.moe/cj87za.mov"
             }, {
-                title: "nero_attack",
+                title: "attack",
                 url: "https://files.catbox.moe/elzff5.mov"
             }
         ]
