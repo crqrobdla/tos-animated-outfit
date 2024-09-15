@@ -70,7 +70,7 @@ const videoData = {
                 alt: "LIN_edit"
             }
         ],
-		Shroy_sep: [{
+        Shroy_sep: [{
                 title: "Idle1",
                 url: "https://files.catbox.moe/gjxmff.gif"
             }, {
@@ -93,7 +93,7 @@ const videoData = {
                 url: "https://files.catbox.moe/001ksb.gif"
             }
         ],
-		OureaV2_test: [{
+        OureaV2_test: [{
                 title: "Idle1",
                 url: "https://files.catbox.moe/omx0qf.gif"
             }, {
@@ -122,7 +122,7 @@ const videoData = {
                 url: "https://files.catbox.moe/rsz9mt.gif"
             }
         ],
-		Melody0802merge: [{
+        Melody0802merge: [{
                 title: "Idle1",
                 url: "https://files.catbox.moe/1k5hp9.gif"
             }, {
@@ -142,7 +142,7 @@ const videoData = {
                 url: "https://files.catbox.moe/5m0ht9.gif"
             }
         ],
-		Snow_0727: [{
+        Snow_0727: [{
                 title: "Idle1",
                 url: "https://files.catbox.moe/mqb6wc.gif"
             }, {

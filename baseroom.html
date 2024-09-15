@@ -92,12 +92,23 @@
             position: relative;
         }
 
+        /* 調整 image-container 位置，並啟用橫向滾動 */
+        #image-container {
+            margin-top: 70px;
+            display: flex;
+            overflow-x: auto;  /* 啟用橫向滾動 */
+            white-space: nowrap;  /* 禁止換行，讓圖片都保持在同一行 */
+            padding: 10px;
+            gap: 10px; /* 調整圖片之間的距離 */
+        }
+
         /* 圖片樣式 */
         .category-image {
+            flex-shrink: 0;  /* 防止圖片縮小 */
             width: 80px;
             height: 80px;
             cursor: pointer;
-            margin: 10px;
+            margin: 0 10px; /* 每張圖片水平的間距 */
         }
 
         /* gif 容器樣式 */
@@ -173,11 +184,6 @@
 
         .open {
             width: 250px;
-        }
-
-        /* 調整 image-container 位置 */
-       #image-container {
-            margin-top: 70px;
         }
 
         /* 點擊時背景變淡藍色 */
