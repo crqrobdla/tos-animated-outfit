@@ -5,6 +5,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10560.jpg",
                 alt: "skeleton"
             }, {
+                category: "PROMETHEUS",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10616.jpg",
+                alt: "PROMETHEUS"
+            }, {
                 category: "nero",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10617.jpg",
                 alt: "nero"
@@ -24,6 +28,14 @@ const videoData = {
             }, {
                 title: "Attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/skeleton/Attack.mov"
+            }
+        ],
+        PROMETHEUS: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/PROMETHEUS/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/PROMETHEUS/attack.mov"
             }
         ],
         Vatican1: [{
