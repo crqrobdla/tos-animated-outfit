@@ -83,10 +83,19 @@ body {
     z-index: 1001;
 }
 
-/* 固定影片容器的寬度 */
-#video-container {
-    margin-top: 20px;
+#video-wrapper {
     width: 100%;
-    text-align: center;
-    z-index: 1;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+}
+
+#video-container {
+    transform-origin: center;
+    transition: transform 0.1s ease;
+    cursor: grab;
+}
+
+#video-container:active {
+    cursor: grabbing;
 }
