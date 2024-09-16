@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageContainer = document.getElementById('image-container');
     const menuToggle = document.getElementById('menu-toggle');
     const sidebar = document.getElementById('sidebar');
-
     const loadImages = (type) => {
         const categories = videoData[type].categories;
         imageContainer.innerHTML = '';
@@ -18,13 +17,10 @@ document.addEventListener('DOMContentLoaded', () => {
             imageContainer.appendChild(imgElement);
         });
     };
-
     loadImages('character');
-
     menuToggle.addEventListener('click', () => {
         sidebar.classList.toggle('open');
     });
-
     imageContainer.addEventListener('click', (event) => {
         const category = event.target.dataset.category;
         const type = event.target.dataset.type;
@@ -34,7 +30,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 const p = document.createElement('p');
                 p.textContent = video.title;
                 videoContainer.appendChild(p);
-
                 const videoElement = document.createElement('video');
                 videoElement.className = 'video-js';
                 videoElement.controls = true;
@@ -43,26 +38,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.autoplay = true;
                 videoElement.muted = true;
                 videoElement.dataset.setup = '{}';
-
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
                 videoElement.appendChild(source);
-
                 videoElement.addEventListener('loadedmetadata', () => {
                     const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
-                    videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
+                    videoElement.style.height = ${videoElement.offsetWidth * videoRatio}px;
                 });
-
                 videoContainer.appendChild(videoElement);
                 videoContainer.appendChild(document.createElement('br'));
-				
-				// 初始化 Panzoom.js 在影片容器內
-                Panzoom(videoElement, {
-                    maxScale: 3, // 設置最大縮放比例
-                    minScale: 1, // 設置最小縮放比例
-                    contain: 'outside' // 保證縮放效果在容器內
-                });
             });
         }
     });
