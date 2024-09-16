@@ -48,14 +48,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 videoContainer.appendChild(videoElement);
                 videoContainer.appendChild(document.createElement('br'));
-				
-				// 初始化 Video.js 播放器
-                const player = videojs(videoElement, {});
-
-                // 初始化 Zoom 插件
-                const zoomPlugin = player.zoomPlugin();
-                zoomPlugin.listen('change', data => {
-                    console.log(data);
                 });
             });
         }
