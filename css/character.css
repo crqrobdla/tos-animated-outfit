@@ -10,7 +10,6 @@ body {
 .video-js {
     width: 600px;
     height: auto;
-	object-fit: contain;
 }
 
 /* 手機端播放器大小 */
@@ -18,7 +17,6 @@ body {
     .video-js {
         width: 360px;
         height: auto;
-		object-fit: contain;
     }
 }
 
