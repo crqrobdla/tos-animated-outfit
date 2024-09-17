@@ -87,6 +87,14 @@ body {
 #video-container {
     margin-top: 20px;
     width: 100%;
+	max-width: 100%;
     text-align: center;
     z-index: 1;
+}
+
+/* 確保影片不會超出容器 */
+.video-js {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
 }
