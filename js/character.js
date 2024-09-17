@@ -45,8 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoContainer.appendChild(document.createElement('br'));
 				const player = videojs(videoElement);
                 videoElement.addEventListener('loadedmetadata', () => {
-                    const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
-                    videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
                 });
             });
         }
