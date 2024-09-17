@@ -27,9 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (category && type && videoData[type] && videoData[type][category]) {
             videoContainer.innerHTML = '';
             videoData[type][category].forEach((video, index) => {
+                const videoWrapper = document.createElement('div');
+                videoWrapper.classList.add('video-wrapper');
                 const p = document.createElement('p');
                 p.textContent = video.title;
-                videoContainer.appendChild(p);
+                videoWrapper.appendChild(p);
                 const videoElement = document.createElement('video');
                 videoElement.className = 'video-js';
                 videoElement.setAttribute('controls', '');
@@ -37,13 +39,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
-				videoElement.id = `video-${index}`;
+                videoElement.id = `video-${index}`;
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
                 videoElement.appendChild(source);
-                videoContainer.appendChild(videoElement);
-                videoContainer.appendChild(document.createElement('br'));
+                videoWrapper.appendChild(videoElement);
+                videoContainer.appendChild(videoWrapper);
                 const player = videojs(videoElement);
                 videoElement.addEventListener('loadedmetadata', () => {
                     const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
