@@ -10,7 +10,6 @@ body {
 .video-js {
     width: 600px;
     height: auto;
-	display: block; /* 確保影片是區塊元素 */
     margin-bottom: 20px; /* 增加影片之間的間距 */
 }
 
@@ -90,5 +89,8 @@ body {
     margin-top: 20px;
     width: 100%;
     text-align: center;
+	display: flex;
+    flex-direction: column;
+    gap: 20px; /* 保持影片之間的間距 */
     z-index: 1;
 }
