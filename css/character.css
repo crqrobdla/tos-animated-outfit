@@ -86,7 +86,7 @@ body {
 
 /* 固定影片容器的寬度 */
 #video-container {
-    margin-top: 20px;
+    margin-bottom: 20px;
     width: 100%;
     text-align: center;
 	display: flex;
