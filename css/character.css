@@ -6,6 +6,20 @@ body {
     position: relative;
 }
 
+/* 預設播放器大小 */
+.video-js {
+    width: 600px;
+    height: auto;
+}
+
+/* 手機端播放器大小 */
+@media (max-width: 768px) {
+    .video-js {
+        width: 360px;
+        height: auto;
+    }
+}
+
 /* 調整 image-container 位置，並啟用橫向滾動 */
 #image-container {
     margin-top: 70px;

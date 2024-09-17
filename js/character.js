@@ -4,22 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageContainer = document.getElementById('image-container');
     const menuToggle = document.getElementById('menu-toggle');
     const sidebar = document.getElementById('sidebar');
-    const updateVideoDimensions = () => {
-        const videoElements = document.querySelectorAll('.video-js');
-        videoElements.forEach(videoElement => {
-            const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
-            let width,
-            height;
-            if (window.innerWidth <= 768) {
-                width = 360;
-            } else {
-                width = 600;
-            }
-            height = width / aspectRatio;
-            videoElement.style.width = `${width}px`;
-            videoElement.style.height = `${height}px`;
-        });
-    };
     const loadImages = (type) => {
         const categories = videoData[type].categories;
         imageContainer.innerHTML = '';
@@ -53,7 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
-                updateVideoDimensions();
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
