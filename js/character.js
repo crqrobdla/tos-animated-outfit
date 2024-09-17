@@ -37,17 +37,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
+                videoElement.width = 640;
+                videoElement.height = 264;
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
                 videoElement.appendChild(source);
-                videoElement.addEventListener('loadedmetadata', () => {
-                    const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
-                    videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
-                });
                 videoContainer.appendChild(videoElement);
                 videoContainer.appendChild(document.createElement('br'));
-				const player = videojs(videoElement);
+                const player = videojs(videoElement);
             });
         }
     });
