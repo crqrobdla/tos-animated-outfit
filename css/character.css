@@ -87,14 +87,10 @@ body {
 #video-container {
     margin-top: 20px;
     width: 100%;
-	max-width: 100%;
+    max-width: 100%; /* 確保容器不會超過視口 */
     text-align: center;
     z-index: 1;
-}
-
-/* 確保影片不會超出容器 */
-.video-js {
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
+    display: flex; /* 使用 flexbox 以水平排列影片 */
+    flex-direction: column; /* 確保影片上下排列 */
+    gap: 10px; /* 影片之間的間距 */
 }
