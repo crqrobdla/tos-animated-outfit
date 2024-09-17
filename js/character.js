@@ -4,6 +4,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageContainer = document.getElementById('image-container');
     const menuToggle = document.getElementById('menu-toggle');
     const sidebar = document.getElementById('sidebar');
+    const updateVideoWidth = () => {
+        const videoElements = document.querySelectorAll('.video-js');
+        videoElements.forEach(videoElement => {
+            if (window.innerWidth <= 768) {
+                videoElement.style.maxWidth = '360px';
+            } else {
+                videoElement.style.maxWidth = '600px';
+            }
+            videoElement.style.width = '100%';
+        });
+    };
     const loadImages = (type) => {
         const categories = videoData[type].categories;
         imageContainer.innerHTML = '';
@@ -37,8 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
-                videoElement.width = 640;
-                videoElement.height = 264;
+                updateVideoWidth();
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
