@@ -41,10 +41,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 source.src = video.url;
                 source.type = 'video/mp4';
                 videoElement.appendChild(source);
-				videoContainer.appendChild(videoElement);
+                videoContainer.appendChild(videoElement);
                 videoContainer.appendChild(document.createElement('br'));
-				const player = videojs(videoElement);
+                const player = videojs(videoElement);
                 videoElement.addEventListener('loadedmetadata', () => {
+                    const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
+                    videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
                 });
             });
         }

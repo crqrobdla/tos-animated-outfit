@@ -10,6 +10,8 @@ body {
 .video-js {
     width: 600px;
     height: auto;
+	display: block; /* 確保影片是區塊元素 */
+    margin-bottom: 20px; /* 增加影片之間的間距 */
 }
 
 /* 手機端播放器大小 */
@@ -87,10 +89,6 @@ body {
 #video-container {
     margin-top: 20px;
     width: 100%;
-    max-width: 100%; /* 確保容器不會超過視口 */
     text-align: center;
     z-index: 1;
-    display: flex; /* 使用 flexbox 以水平排列影片 */
-    flex-direction: column; /* 確保影片上下排列 */
-    gap: 10px; /* 影片之間的間距 */
 }
