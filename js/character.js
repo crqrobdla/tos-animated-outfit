@@ -44,6 +44,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoContainer.appendChild(videoElement);
                 videoContainer.appendChild(document.createElement('br'));
                 const player = videojs(videoElement);
+                const zoomPlugin = player.zoomPlugin({
+                    showZoom: true,
+                    showMove: true,
+                    showRotate: false,
+                    gestureHandler: true
+                });
+                player.el().addEventListener('wheel', (event) => {
+                    event.preventDefault();
+                });
+                zoomPlugin.listen('change', data => {
+                    console.log(`Zoom level changed for ${video.title}:`, data);
+                });
             });
         }
     });
