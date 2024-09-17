@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
-                updateVideoWidth();
+                updateVideoDimensions();
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
