@@ -8,16 +8,8 @@ body {
 
 /* 預設播放器大小 */
 .video-js {
-    width: 600px;
-    height: auto;
-}
-
-/* 手機端播放器大小 */
-@media (max-width: 768px) {
-    .video-js {
-        width: 360px;
-        height: auto;
-    }
+    width: 100% ;
+    height: 100% ;
 }
 
 /* 調整 image-container 位置，並啟用橫向滾動 */
@@ -86,7 +78,9 @@ body {
 /* 固定影片容器的寬度 */
 #video-container {
     margin-top: 20px;
-    width: 100%;
+    width: 600vw;
+	height: 100%;
+	position: relative;
     text-align: center;
     z-index: 1;
 }
