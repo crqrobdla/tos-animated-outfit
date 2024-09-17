@@ -57,10 +57,12 @@ document.addEventListener('DOMContentLoaded', () => {
         container.appendChild(videoTitle);
         container.appendChild(videoElement);
         videoElement.addEventListener('loadedmetadata', () => {
-            const videoWidth = videoElement.clientWidth;
-            const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
-            const videoHeight = videoWidth / aspectRatio;
-            videoElement.style.height = `${videoHeight}px`;
+            requestAnimationFrame(() => {
+                const videoWidth = videoElement.clientWidth;
+                const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
+                const videoHeight = videoWidth / aspectRatio;
+                videoElement.style.height = `${videoHeight}px`;
+            });
         });
         return container;
     };
