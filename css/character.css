@@ -8,13 +8,15 @@ body {
 
 /* 預設播放器大小 */
 .video-js {
-    width: 600px;
+    width: 800px;
+	height: 640px ;
 }
 
 /* 手機端播放器大小 */
 @media (max-width: 768px) {
     .video-js {
         width: 360px;
+		height: 450px ;
     }
 }
 
