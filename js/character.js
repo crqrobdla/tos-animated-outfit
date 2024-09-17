@@ -57,8 +57,10 @@ document.addEventListener('DOMContentLoaded', () => {
         container.appendChild(videoTitle);
         container.appendChild(videoElement);
         videoElement.addEventListener('loadedmetadata', () => {
-            const videoRatio = videoElement.videoHeight / videoElement.videoWidth;
-            videoElement.style.height = `${videoElement.offsetWidth * videoRatio}px`;
+            const videoWidth = videoElement.clientWidth;
+            const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
+            const videoHeight = videoWidth / aspectRatio;
+            videoElement.style.height = `${videoHeight}px`;
         });
         return container;
     };
