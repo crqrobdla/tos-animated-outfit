@@ -4,15 +4,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageContainer = document.getElementById('image-container');
     const menuToggle = document.getElementById('menu-toggle');
     const sidebar = document.getElementById('sidebar');
-    const updateVideoWidth = () => {
+    const updateVideoDimensions = () => {
         const videoElements = document.querySelectorAll('.video-js');
         videoElements.forEach(videoElement => {
+            const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
+            let width,
+            height;
             if (window.innerWidth <= 768) {
-                videoElement.style.maxWidth = '360px';
+                width = 360;
             } else {
-                videoElement.style.maxWidth = '600px';
+                width = 600;
             }
-            videoElement.style.width = '100%';
+            height = width / aspectRatio;
+            videoElement.style.width = `${width}px`;
+            videoElement.style.height = `${height}px`;
         });
     };
     const loadImages = (type) => {
