@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const type = event.target.dataset.type;
         if (category && type && videoData[type] && videoData[type][category]) {
             videoContainer.innerHTML = '';
-            videoData[type][category].forEach(video => {
+            videoData[type][category].forEach((video, index) => {
                 const p = document.createElement('p');
                 p.textContent = video.title;
                 videoContainer.appendChild(p);
@@ -37,6 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoElement.setAttribute('loop', '');
                 videoElement.setAttribute('autoplay', '');
                 videoElement.setAttribute('muted', '');
+				videoElement.id = `video-${index}`;
                 const source = document.createElement('source');
                 source.src = video.url;
                 source.type = 'video/mp4';
