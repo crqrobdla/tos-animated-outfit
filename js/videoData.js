@@ -13,6 +13,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10617.jpg",
                 alt: "nero"
             }, {
+                category: "ChiYou",
+                src: "https://web-assets.tosconfig.com/gallery/icons/2863.jpg",
+                alt: "ChiYou"
+            }, {
                 category: "lindauyu",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
                 alt: "lindauyu"
@@ -36,6 +40,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/PROMETHEUS/attack.mov"
+            }
+        ],
+        ChiYou: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/ChiYou/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/ChiYou/attack.mov"
             }
         ],
         Vatican1: [{
