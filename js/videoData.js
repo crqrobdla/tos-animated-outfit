@@ -21,6 +21,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
                 alt: "lindauyu"
             }, {
+                category: "QingGui",
+                src: "https://web-assets.tosconfig.com/gallery/icons/2865.jpg",
+                alt: "QingGui"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -48,6 +52,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/ChiYou/attack.mov"
+            }
+        ],
+        QingGui: [{
+                title: "Idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/QingGui/Idle.mov"
+            }, {
+                title: "Attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/QingGui/Attack.mov"
             }
         ],
         Vatican1: [{
