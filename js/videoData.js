@@ -29,6 +29,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/2865.jpg",
                 alt: "QingGui"
             }, {
+                category: "Montana",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10659.jpg",
+                alt: "Montana"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -72,6 +76,14 @@ const videoData = {
             }, {
                 title: "Attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/QingGui/Attack.mov"
+            }
+        ],
+        Montana: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Montana/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Montana/attack_crop.mov"
             }
         ],
         Vatican1: [{
