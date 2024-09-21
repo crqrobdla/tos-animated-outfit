@@ -17,6 +17,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/2863.jpg",
                 alt: "ChiYou"
             }, {
+                category: "poon",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10620.jpg",
+                alt: "poon"
+            }, {
                 category: "lindauyu",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
                 alt: "lindauyu"
@@ -52,6 +56,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/ChiYou/attack.mov"
+            }
+        ],
+        poon: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/poon/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/poon/attack.mov"
             }
         ],
         QingGui: [{
