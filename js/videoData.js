@@ -33,6 +33,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10659.jpg",
                 alt: "Montana"
             }, {
+                category: "Scáthach",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10660.jpg",
+                alt: "Scáthach"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -84,6 +88,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Montana/attack_crop.mov"
+            }
+        ],
+        Scáthach: [{
+                title: "Idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Scáthach/Idle.mov"
+            }, {
+                title: "Attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Scáthach/Attack.mov"
             }
         ],
         Vatican1: [{
