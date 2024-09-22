@@ -37,6 +37,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10660.jpg",
                 alt: "Scáthach"
             }, {
+                category: "HJJ",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10683.jpg",
+                alt: "HJJ"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -96,6 +100,14 @@ const videoData = {
             }, {
                 title: "Attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Scáthach/Attack.mov"
+            }
+        ],
+        HJJ: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/HJJ/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/HJJ/attack.mov"
             }
         ],
         Vatican1: [{
