@@ -41,6 +41,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10683.jpg",
                 alt: "HJJ"
             }, {
+                category: "pandora",
+                src: "https://web-assets.tosconfig.com/gallery/icons/2860.jpg",
+                alt: "pandora"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -108,6 +112,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/HJJ/attack.mov"
+            }
+        ],
+        pandora: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/pandora/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/pandora/attack.mov"
             }
         ],
         Vatican1: [{
