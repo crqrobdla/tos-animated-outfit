@@ -45,6 +45,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/2860.jpg",
                 alt: "pandora"
             }, {
+                category: "sodom",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10714.jpg",
+                alt: "sodom"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -120,6 +124,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/pandora/attack.mov"
+            }
+        ],
+        sodom: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/sodom/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/sodom/attack_crop.mov"
             }
         ],
         Vatican1: [{
