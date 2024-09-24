@@ -49,6 +49,10 @@ const videoData = {
                 src: "https://web-assets.tosconfig.com/gallery/icons/10714.jpg",
                 alt: "sodom"
             }, {
+                category: "Luker",
+                src: "https://web-assets.tosconfig.com/gallery/icons/10715.jpg",
+                alt: "Luker"
+            }, {
                 category: "Vatican1",
                 src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
                 alt: "Vatican1"
@@ -132,6 +136,14 @@ const videoData = {
             }, {
                 title: "attack",
                 url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/sodom/attack_crop.mov"
+            }
+        ],
+        Luker: [{
+                title: "idle",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Luker/idle.mov"
+            }, {
+                title: "attack",
+                url: "https://crqrobdla.github.io/tos-animated-outfit/animation/video/Luker/attack_crop.mov"
             }
         ],
         Vatican1: [{
