@@ -73,6 +73,10 @@ body {
     color: #f1f1f1;
 }
 
+#sidebar a[href="character-2024.html"] {
+	font-size: 10px; 
+}
+
 #menu-toggle {
     font-size: 30px;
     cursor: pointer;
