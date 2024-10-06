@@ -1,0 +1,69 @@
+
+katel.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_effect
+  rotate: false
+  xy: 29, 41
+  size: 756, 597
+  orig: 756, 597
+  offset: 0, 0
+  index: -1
+back_ice
+  rotate: true
+  xy: 1, 467
+  size: 1240, 670
+  orig: 1240, 670
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 670, 1522
+  size: 239, 185
+  orig: 239, 185
+  offset: 0, 0
+  index: -1
+bubble_effect
+  rotate: false
+  xy: 665, 1359
+  size: 67, 223
+  orig: 67, 223
+  offset: 0, 0
+  index: -1
+front_effect
+  rotate: 270
+  xy: 664, 499
+  size: 1209, 614
+  orig: 1209, 614
+  offset: 0, 0
+  index: -1
+front_effect2
+  rotate: 180
+  xy: 768, 3
+  size: 1202, 358
+  orig: 1202, 358
+  offset: 0, 0
+  index: -1
+ice
+  rotate: true
+  xy: 1871, 483
+  size: 1162, 176
+  orig: 1162, 176
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 1254, 972
+  size: 628, 735
+  orig: 628, 735
+  offset: 0, 0
+  index: -1
+piano
+  rotate: true
+  xy: 1280, 172
+  size: 817, 573
+  orig: 817, 573
+  offset: 0, 0
+  index: -1

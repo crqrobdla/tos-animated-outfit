@@ -1,0 +1,426 @@
+
+Shennong export.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abs
+  rotate: true
+  xy: 1642, 193
+  size: 253, 234
+  orig: 253, 234
+  offset: 0, 0
+  index: -1
+arm up
+  rotate: true
+  xy: 1843, 1047
+  size: 126, 180
+  orig: 126, 180
+  offset: 0, 0
+  index: -1
+b arm
+  rotate: true
+  xy: 1333, 1037
+  size: 144, 395
+  orig: 144, 395
+  offset: 0, 0
+  index: -1
+b dust
+  rotate: false
+  xy: 785, 849
+  size: 449, 193
+  orig: 449, 193
+  offset: 0, 0
+  index: -1
+b hair
+  rotate: false
+  xy: 1430, 1429
+  size: 516, 243
+  orig: 516, 243
+  offset: 0, 0
+  index: -1
+b hand glow
+  rotate: true
+  xy: 1797, 457
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+b horn
+  rotate: true
+  xy: 1032, 12
+  size: 146, 137
+  orig: 146, 137
+  offset: 0, 0
+  index: -1
+b leg down
+  rotate: true
+  xy: 783, 493
+  size: 95, 383
+  orig: 95, 383
+  offset: 0, 0
+  index: -1
+b leg up
+  rotate: true
+  xy: 508, 154
+  size: 335, 258
+  orig: 335, 258
+  offset: 0, 0
+  index: -1
+b sholder armor
+  rotate: true
+  xy: 1628, 700
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+b sleeve
+  rotate: false
+  xy: 1438, 142
+  size: 202, 301
+  orig: 202, 301
+  offset: 0, 0
+  index: -1
+b stick
+  rotate: false
+  xy: 1797, 533
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+b waist cloth
+  rotate: false
+  xy: 1011, 160
+  size: 160, 331
+  orig: 160, 331
+  offset: 0, 0
+  index: -1
+b wood A
+  rotate: true
+  xy: 871, 1044
+  size: 173, 460
+  orig: 173, 460
+  offset: 0, 0
+  index: -1
+b wood B
+  rotate: true
+  xy: 256, 490
+  size: 454, 235
+  orig: 454, 235
+  offset: 0, 0
+  index: -1
+bb sleeve
+  rotate: true
+  xy: 493, 491
+  size: 164, 288
+  orig: 164, 288
+  offset: 0, 0
+  index: -1
+body hand glow
+  rotate: true
+  xy: 1171, 2
+  size: 109, 132
+  orig: 109, 132
+  offset: 0, 0
+  index: -1
+body up
+  rotate: false
+  xy: 768, 155
+  size: 241, 334
+  orig: 241, 334
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 2, 408
+  size: 536, 252
+  orig: 536, 252
+  offset: 0, 0
+  index: -1
+crosslight
+  rotate: false
+  xy: 1869, 678
+  size: 154, 163
+  orig: 154, 163
+  offset: 0, 0
+  index: -1
+ef_03
+  rotate: false
+  xy: 1373, 1446
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+f arm
+  rotate: false
+  xy: 1236, 811
+  size: 380, 224
+  orig: 380, 224
+  offset: 0, 0
+  index: -1
+f arm stick
+  rotate: true
+  xy: 1893, 859
+  size: 186, 121
+  orig: 186, 121
+  offset: 0, 0
+  index: -1
+f arm up
+  rotate: false
+  xy: 1214, 445
+  size: 324, 252
+  orig: 324, 252
+  offset: 0, 0
+  index: -1
+f dust
+  rotate: false
+  xy: 1173, 188
+  size: 263, 255
+  orig: 263, 255
+  offset: 0, 0
+  index: -1
+f hair
+  rotate: false
+  xy: 785, 686
+  size: 427, 161
+  orig: 427, 161
+  offset: 0, 0
+  index: -1
+f hand glow
+  rotate: true
+  xy: 1305, 15
+  size: 96, 131
+  orig: 96, 131
+  offset: 0, 0
+  index: -1
+f horn
+  rotate: false
+  xy: 1642, 59
+  size: 212, 132
+  orig: 212, 132
+  offset: 0, 0
+  index: -1
+f leg down
+  rotate: false
+  xy: 1214, 699
+  size: 412, 110
+  orig: 412, 110
+  offset: 0, 0
+  index: -1
+f leg up
+  rotate: true
+  xy: 493, 657
+  size: 408, 290
+  orig: 408, 290
+  offset: 0, 0
+  index: -1
+f sholder armor
+  rotate: false
+  xy: 1618, 814
+  size: 129, 221
+  orig: 129, 221
+  offset: 0, 0
+  index: -1
+f sleeve
+  rotate: true
+  xy: 2, 47
+  size: 359, 252
+  orig: 359, 252
+  offset: 0, 0
+  index: -1
+f waist cloth
+  rotate: true
+  xy: 508, 14
+  size: 138, 348
+  orig: 138, 348
+  offset: 0, 0
+  index: -1
+ff hair
+  rotate: true
+  xy: 2, 2
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+ff sleeve
+  rotate: false
+  xy: 1373, 1183
+  size: 474, 244
+  orig: 474, 244
+  offset: 0, 0
+  index: -1
+ff waist cloth
+  rotate: true
+  xy: 871, 1219
+  size: 253, 500
+  orig: 253, 500
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1849, 1175
+  size: 117, 252
+  orig: 117, 252
+  offset: 0, 0
+  index: -1
+head glow
+  rotate: true
+  xy: 1983, 1723
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+leafA
+  rotate: false
+  xy: 1430, 1674
+  size: 490, 372
+  orig: 490, 372
+  offset: 0, 0
+  index: -1
+leafB
+  rotate: false
+  xy: 1438, 28
+  size: 155, 112
+  orig: 155, 112
+  offset: 0, 0
+  index: -1
+leafC
+  rotate: false
+  xy: 1540, 448
+  size: 255, 249
+  orig: 255, 249
+  offset: 0, 0
+  index: -1
+lighting 1
+  rotate: false
+  xy: 1856, 39
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+lighting 2
+  rotate: true
+  xy: 1983, 1887
+  size: 159, 48
+  orig: 159, 48
+  offset: 0, 0
+  index: -1
+lighting 3
+  rotate: true
+  xy: 858, 12
+  size: 141, 172
+  orig: 141, 172
+  offset: 0, 0
+  index: -1
+piano A
+  rotate: false
+  xy: 2, 946
+  size: 384, 417
+  orig: 384, 417
+  offset: 0, 0
+  index: -1
+piano B
+  rotate: false
+  xy: 2, 1474
+  size: 1426, 572
+  orig: 1426, 572
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 388, 1067
+  size: 481, 296
+  orig: 481, 296
+  offset: 0, 0
+  index: -1
+string
+  rotate: false
+  xy: 2, 1365
+  size: 855, 107
+  orig: 855, 107
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 1595, 52
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+vfxA 1
+  rotate: false
+  xy: 1776, 702
+  size: 77, 139
+  orig: 77, 139
+  offset: 0, 0
+  index: -1
+vfxA 2
+  rotate: true
+  xy: 1173, 113
+  size: 73, 258
+  orig: 73, 258
+  offset: 0, 0
+  index: -1
+vfxA 3
+  rotate: false
+  xy: 785, 590
+  size: 395, 94
+  orig: 395, 94
+  offset: 0, 0
+  index: -1
+vfxA 4
+  rotate: true
+  xy: 1922, 1723
+  size: 323, 59
+  orig: 323, 59
+  offset: 0, 0
+  index: -1
+vfxB 1
+  rotate: true
+  xy: 1730, 1043
+  size: 138, 111
+  orig: 138, 111
+  offset: 0, 0
+  index: -1
+vfxB 2
+  rotate: false
+  xy: 1749, 843
+  size: 142, 198
+  orig: 142, 198
+  offset: 0, 0
+  index: -1
+vfxB 3
+  rotate: true
+  xy: 1983, 1763
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+vfxB 4
+  rotate: false
+  xy: 1948, 1564
+  size: 96, 157
+  orig: 96, 157
+  offset: 0, 0
+  index: -1
+vfxB 5
+  rotate: false
+  xy: 388, 1018
+  size: 98, 47
+  orig: 98, 47
+  offset: 0, 0
+  index: -1
+vfxB 6
+  rotate: false
+  xy: 388, 963
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+wave
+  rotate: true
+  xy: 256, 39
+  size: 449, 250
+  orig: 449, 250
+  offset: 0, 0
+  index: -1

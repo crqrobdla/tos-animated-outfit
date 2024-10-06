@@ -1,0 +1,517 @@
+
+1372.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b blake
+  rotate: true
+  xy: 1536, 173
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+b car fan
+  rotate: false
+  xy: 730, 317
+  size: 392, 86
+  orig: 392, 86
+  offset: 0, 0
+  index: -1
+b foot
+  rotate: true
+  xy: 1508, 1089
+  size: 130, 269
+  orig: 130, 269
+  offset: 0, 0
+  index: -1
+b hair
+  rotate: true
+  xy: 1157, 393
+  size: 107, 212
+  orig: 107, 212
+  offset: 0, 0
+  index: -1
+b hand
+  rotate: false
+  xy: 1788, 346
+  size: 83, 133
+  orig: 83, 133
+  offset: 0, 0
+  index: -1
+b handle
+  rotate: false
+  xy: 1993, 1664
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+b head
+  rotate: true
+  xy: 2, 2
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+b head prop
+  rotate: true
+  xy: 1747, 1221
+  size: 48, 175
+  orig: 48, 175
+  offset: 0, 0
+  index: -1
+b helmet
+  rotate: false
+  xy: 730, 502
+  size: 122, 30
+  orig: 122, 30
+  offset: 0, 0
+  index: -1
+b low arm
+  rotate: false
+  xy: 1844, 576
+  size: 108, 237
+  orig: 108, 237
+  offset: 0, 0
+  index: -1
+b low arm vfx
+  rotate: true
+  xy: 121, 16
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+b low leg
+  rotate: true
+  xy: 884, 582
+  size: 125, 407
+  orig: 125, 407
+  offset: 0, 0
+  index: -1
+b neck
+  rotate: true
+  xy: 2021, 745
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1
+b plane
+  rotate: false
+  xy: 1829, 815
+  size: 121, 281
+  orig: 121, 281
+  offset: 0, 0
+  index: -1
+b plane vfxA
+  rotate: true
+  xy: 1952, 830
+  size: 266, 83
+  orig: 266, 83
+  offset: 0, 0
+  index: -1
+b plane vfxB
+  rotate: false
+  xy: 1702, 539
+  size: 140, 207
+  orig: 140, 207
+  offset: 0, 0
+  index: -1
+b tail vfx
+  rotate: true
+  xy: 884, 502
+  size: 78, 435
+  orig: 78, 435
+  offset: 0, 0
+  index: -1
+b up arm
+  rotate: true
+  xy: 1536, 211
+  size: 240, 99
+  orig: 240, 99
+  offset: 0, 0
+  index: -1
+b up leg
+  rotate: true
+  xy: 1806, 1586
+  size: 457, 185
+  orig: 457, 185
+  offset: 0, 0
+  index: -1
+b upper leg
+  rotate: false
+  xy: 2017, 429
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+back pack
+  rotate: true
+  xy: 1293, 595
+  size: 132, 229
+  orig: 132, 229
+  offset: 0, 0
+  index: -1
+bb hair
+  rotate: false
+  xy: 1414, 165
+  size: 120, 231
+  orig: 120, 231
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 164, 392
+  size: 249, 567
+  orig: 249, 567
+  offset: 0, 0
+  index: -1
+car ext
+  rotate: false
+  xy: 2, 1603
+  size: 1802, 440
+  orig: 1802, 440
+  offset: 0, 0
+  index: -1
+car int
+  rotate: false
+  xy: 2, 1170
+  size: 1504, 431
+  orig: 1504, 431
+  offset: 0, 0
+  index: -1
+car vfxA
+  rotate: false
+  xy: 906, 933
+  size: 536, 101
+  orig: 536, 101
+  offset: 0, 0
+  index: -1
+car vfxB
+  rotate: true
+  xy: 1414, 49
+  size: 114, 121
+  orig: 114, 121
+  offset: 0, 0
+  index: -1
+car vfxC
+  rotate: false
+  xy: 1712, 219
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+car vfxD
+  rotate: true
+  xy: 1873, 408
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+car vfxE
+  rotate: false
+  xy: 1950, 497
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+circle vfx
+  rotate: false
+  xy: 415, 534
+  size: 318, 425
+  orig: 318, 425
+  offset: 0, 0
+  index: -1
+ef02
+  rotate: false
+  xy: 933, 62
+  size: 228, 253
+  orig: 228, 253
+  offset: 0, 0
+  index: -1
+ef03
+  rotate: false
+  xy: 408, 78
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eyes close
+  rotate: false
+  xy: 1844, 500
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+f arm
+  rotate: false
+  xy: 906, 1036
+  size: 565, 132
+  orig: 565, 132
+  offset: 0, 0
+  index: -1
+f arm vfx
+  rotate: true
+  xy: 1924, 1226
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+f blake
+  rotate: false
+  xy: 1321, 538
+  size: 199, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+f boot vfx
+  rotate: false
+  xy: 1280, 729
+  size: 231, 202
+  orig: 231, 202
+  offset: 0, 0
+  index: -1
+f car
+  rotate: false
+  xy: 2, 961
+  size: 902, 207
+  orig: 902, 207
+  offset: 0, 0
+  index: -1
+f car fan
+  rotate: false
+  xy: 730, 405
+  size: 425, 95
+  orig: 425, 95
+  offset: 0, 0
+  index: -1
+f foot
+  rotate: true
+  xy: 1779, 1098
+  size: 121, 241
+  orig: 121, 241
+  offset: 0, 0
+  index: -1
+f foot prop
+  rotate: false
+  xy: 1993, 1775
+  size: 50, 268
+  orig: 50, 268
+  offset: 0, 0
+  index: -1
+f hair
+  rotate: false
+  xy: 1637, 236
+  size: 73, 215
+  orig: 73, 215
+  offset: 0, 0
+  index: -1
+f hand
+  rotate: false
+  xy: 454, 3
+  size: 193, 73
+  orig: 193, 73
+  offset: 0, 0
+  index: -1
+f handle
+  rotate: true
+  xy: 1712, 306
+  size: 173, 74
+  orig: 173, 74
+  offset: 0, 0
+  index: -1
+f head prop
+  rotate: false
+  xy: 164, 2
+  size: 288, 72
+  orig: 288, 72
+  offset: 0, 0
+  index: -1
+f head prop vfx
+  rotate: false
+  xy: 1993, 1586
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+f helmet
+  rotate: false
+  xy: 917, 8
+  size: 248, 52
+  orig: 248, 52
+  offset: 0, 0
+  index: -1
+f helmet vfx
+  rotate: false
+  xy: 1321, 517
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+f leg
+  rotate: false
+  xy: 2, 58
+  size: 160, 901
+  orig: 160, 901
+  offset: 0, 0
+  index: -1
+f plane
+  rotate: true
+  xy: 1508, 1221
+  size: 380, 237
+  orig: 380, 237
+  offset: 0, 0
+  index: -1
+f plane vfxA
+  rotate: true
+  xy: 1710, 748
+  size: 339, 117
+  orig: 339, 117
+  offset: 0, 0
+  index: -1
+f plane vfxB
+  rotate: false
+  xy: 1513, 793
+  size: 195, 294
+  orig: 195, 294
+  offset: 0, 0
+  index: -1
+f prop
+  rotate: false
+  xy: 1338, 45
+  size: 74, 346
+  orig: 74, 346
+  offset: 0, 0
+  index: -1
+f prop vfx
+  rotate: false
+  xy: 1993, 1596
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+f tail vfx
+  rotate: false
+  xy: 1976, 1263
+  size: 67, 321
+  orig: 67, 321
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1371, 398
+  size: 138, 162
+  orig: 138, 162
+  offset: 0, 0
+  index: -1
+foot handle
+  rotate: false
+  xy: 1644, 481
+  size: 197, 56
+  orig: 197, 56
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 666, 76
+  size: 239, 265
+  orig: 239, 265
+  offset: 0, 0
+  index: -1
+head vfxA
+  rotate: false
+  xy: 1473, 1069
+  size: 18, 99
+  orig: 18, 99
+  offset: 0, 0
+  index: -1
+head vfxB
+  rotate: false
+  xy: 1167, 24
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+jet vfx
+  rotate: false
+  xy: 1524, 565
+  size: 176, 226
+  orig: 176, 226
+  offset: 0, 0
+  index: -1
+m plane
+  rotate: false
+  xy: 884, 709
+  size: 394, 222
+  orig: 394, 222
+  offset: 0, 0
+  index: -1
+m plane vfxA
+  rotate: false
+  xy: 649, 6
+  size: 266, 68
+  orig: 266, 68
+  offset: 0, 0
+  index: -1
+m plane vfxB
+  rotate: false
+  xy: 415, 336
+  size: 313, 196
+  orig: 313, 196
+  offset: 0, 0
+  index: -1
+mask close
+  rotate: false
+  xy: 164, 76
+  size: 242, 314
+  orig: 242, 314
+  offset: 0, 0
+  index: -1
+mask open
+  rotate: false
+  xy: 1747, 1271
+  size: 227, 313
+  orig: 227, 313
+  offset: 0, 0
+  index: -1
+prop
+  rotate: true
+  xy: 1954, 568
+  size: 260, 65
+  orig: 260, 65
+  offset: 0, 0
+  index: -1
+small plane A
+  rotate: true
+  xy: 735, 567
+  size: 392, 147
+  orig: 392, 147
+  offset: 0, 0
+  index: -1
+small plane B
+  rotate: false
+  xy: 1163, 107
+  size: 173, 284
+  orig: 173, 284
+  offset: 0, 0
+  index: -1
+targetA
+  rotate: false
+  xy: 1535, 453
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+targetB
+  rotate: false
+  xy: 1873, 361
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+targetC
+  rotate: false
+  xy: 1944, 424
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1

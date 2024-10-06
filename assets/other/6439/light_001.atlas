@@ -1,0 +1,251 @@
+
+light_001.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect
+  rotate: false
+  xy: 1, 1289
+  size: 525, 443
+  orig: 525, 443
+  offset: 0, 0
+  index: -1
+core_down
+  rotate: false
+  xy: 301, 624
+  size: 131, 206
+  orig: 131, 206
+  offset: 0, 0
+  index: -1
+core_down_bright
+  rotate: true
+  xy: 334, 171
+  size: 131, 206
+  orig: 131, 206
+  offset: 0, 0
+  index: -1
+core_up
+  rotate: false
+  xy: 332, 1031
+  size: 221, 256
+  orig: 230, 257
+  offset: 9, 1
+  index: -1
+core_up_bright
+  rotate: false
+  xy: 613, 358
+  size: 221, 256
+  orig: 230, 257
+  offset: 9, 1
+  index: -1
+light_effect
+  rotate: false
+  xy: 1801, 447
+  size: 244, 242
+  orig: 350, 350
+  offset: 53, 54
+  index: -1
+light_effect_02
+  rotate: false
+  xy: 301, 304
+  size: 310, 310
+  orig: 350, 378
+  offset: 20, 34
+  index: -1
+tentacle_01
+  rotate: true
+  xy: 956, 1117
+  size: 200, 238
+  orig: 200, 238
+  offset: 0, 0
+  index: -1
+tentacle_01_bright
+  rotate: 270
+  xy: 967, 70
+  size: 200, 238
+  orig: 200, 238
+  offset: 0, 0
+  index: -1
+tentacle_02
+  rotate: true
+  xy: 1124, 272
+  size: 118, 433
+  orig: 118, 433
+  offset: 0, 0
+  index: -1
+tentacle_02_bright
+  rotate: 270
+  xy: 684, 211
+  size: 118, 433
+  orig: 118, 433
+  offset: 0, 0
+  index: -1
+tentacle_03
+  rotate: 270
+  xy: 1350, 44
+  size: 187, 237
+  orig: 667, 1135
+  offset: 0, 0
+  index: -1
+tentacle_03_bright
+  rotate: 270
+  xy: 1011, 2
+  size: 187, 237
+  orig: 667, 1135
+  offset: 0, 0
+  index: -1
+tentacle_04
+  rotate: true
+  xy: 1223, 136
+  size: 161, 309
+  orig: 161, 309
+  offset: 0, 0
+  index: -1
+tentacle_04_bright
+  rotate: 270
+  xy: 1, 84
+  size: 161, 309
+  orig: 161, 309
+  offset: 0, 0
+  index: -1
+tentacle_05
+  rotate: 270
+  xy: 1, 178
+  size: 240, 332
+  orig: 240, 332
+  offset: 0, 0
+  index: -1
+tentacle_05_bright
+  rotate: 270
+  xy: 1560, 107
+  size: 240, 332
+  orig: 240, 332
+  offset: 0, 0
+  index: -1
+tentacle_06
+  rotate: 270
+  xy: 593, 101
+  size: 144, 371
+  orig: 144, 371
+  offset: 0, 0
+  index: -1
+tentacle_06_bright
+  rotate: 180
+  xy: 1900, 74
+  size: 144, 371
+  orig: 144, 371
+  offset: 0, 0
+  index: -1
+wing_l_0
+  rotate: false
+  xy: 1040, 331
+  size: 206, 270
+  orig: 206, 270
+  offset: 0, 0
+  index: -1
+wing_l_0_bright
+  rotate: 270
+  xy: 1659, 265
+  size: 206, 270
+  orig: 206, 270
+  offset: 0, 0
+  index: -1
+wing_l_1
+  rotate: 270
+  xy: 993, 905
+  size: 450, 441
+  orig: 450, 441
+  offset: 0, 0
+  index: -1
+wing_l_1_bright
+  rotate: false
+  xy: 1, 877
+  size: 450, 441
+  orig: 450, 441
+  offset: 0, 0
+  index: -1
+wing_l_2
+  rotate: false
+  xy: 1260, 391
+  size: 539, 298
+  orig: 539, 298
+  offset: 0, 0
+  index: -1
+wing_l_2_bright
+  rotate: 270
+  xy: 1, 389
+  size: 539, 298
+  orig: 539, 298
+  offset: 0, 0
+  index: -1
+wing_l_3
+  rotate: 180
+  xy: 1436, 1117
+  size: 439, 615
+  orig: 439, 615
+  offset: 0, 0
+  index: -1
+wing_l_3_bright
+  rotate: false
+  xy: 1608, 1000
+  size: 439, 615
+  orig: 439, 615
+  offset: 0, 0
+  index: -1
+wing_r_0
+  rotate: false
+  xy: 1794, 707
+  size: 202, 291
+  orig: 202, 291
+  offset: 0, 0
+  index: -1
+wing_r_0_bright
+  rotate: false
+  xy: 836, 324
+  size: 202, 291
+  orig: 202, 291
+  offset: 0, 0
+  index: -1
+wing_r_1
+  rotate: false
+  xy: 533, 919
+  size: 415, 425
+  orig: 415, 425
+  offset: 0, 0
+  index: -1
+wing_r_1_bright
+  rotate: true
+  xy: 1436, 692
+  size: 415, 425
+  orig: 415, 425
+  offset: 0, 0
+  index: -1
+wing_r_2
+  rotate: false
+  xy: 433, 617
+  size: 494, 301
+  orig: 494, 301
+  offset: 0, 0
+  index: -1
+wing_r_2_bright
+  rotate: false
+  xy: 882, 602
+  size: 494, 301
+  orig: 494, 301
+  offset: 0, 0
+  index: -1
+wing_r_3
+  rotate: true
+  xy: 528, 1318
+  size: 414, 623
+  orig: 414, 623
+  offset: 0, 0
+  index: -1
+wing_r_3_bright
+  rotate: 270
+  xy: 889, 1318
+  size: 414, 623
+  orig: 414, 623
+  offset: 0, 0
+  index: -1

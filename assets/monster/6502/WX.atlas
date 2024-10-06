@@ -1,0 +1,713 @@
+
+WX.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1811, 1588
+  size: 235, 227
+  orig: 235, 227
+  offset: 0, 0
+  index: -1
+Dust_A(Vfx)
+  rotate: true
+  xy: 202, 73
+  size: 177, 192
+  orig: 177, 192
+  offset: 0, 0
+  index: -1
+Dust_B(Vfx)
+  rotate: false
+  xy: 1504, 458
+  size: 150, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+Dust_C(Vfx)
+  rotate: false
+  xy: 450, 411
+  size: 235, 231
+  orig: 235, 231
+  offset: 0, 0
+  index: -1
+Dust_D(Vfx)
+  rotate: false
+  xy: 1370, 1461
+  size: 146, 135
+  orig: 146, 135
+  offset: 0, 0
+  index: -1
+Dust_E(Vfx)
+  rotate: false
+  xy: 1867, 307
+  size: 179, 199
+  orig: 179, 199
+  offset: 0, 0
+  index: -1
+Slash(Vfx)
+  rotate: false
+  xy: 1077, 915
+  size: 657, 403
+  orig: 657, 403
+  offset: 0, 0
+  index: -1
+SlashDustA(Vfx)
+  rotate: false
+  xy: 1293, 1018
+  size: 275, 68
+  orig: 275, 68
+  offset: 0, 0
+  index: -1
+SlashDustB(Vfx)
+  rotate: false
+  xy: 1488, 1294
+  size: 165, 52
+  orig: 165, 52
+  offset: 0, 0
+  index: -1
+SlashDustC(Vfx)
+  rotate: false
+  xy: 697, 65
+  size: 293, 162
+  orig: 293, 162
+  offset: 0, 0
+  index: -1
+SlashDustD(Vfx)
+  rotate: false
+  xy: 1323, 1468
+  size: 288, 251
+  orig: 288, 251
+  offset: 0, 0
+  index: -1
+StoneA(Vfx)
+  rotate: 180
+  xy: 1648, 197
+  size: 220, 261
+  orig: 220, 261
+  offset: 0, 0
+  index: -1
+StoneB(Vfx)
+  rotate: true
+  xy: 1202, 378
+  size: 253, 292
+  orig: 264, 314
+  offset: 11, 0
+  index: -1
+StoneC(Vfx)
+  rotate: 270
+  xy: 988, 433
+  size: 302, 378
+  orig: 302, 378
+  offset: 0, 0
+  index: -1
+StoneD(Vfx)
+  rotate: false
+  xy: 1326, 1703
+  size: 179, 208
+  orig: 195, 233
+  offset: 16, 0
+  index: -1
+StoneE(Vfx)
+  rotate: 270
+  xy: 2, 147
+  size: 196, 274
+  orig: 196, 274
+  offset: 0, 0
+  index: -1
+StoneF(Vfx)
+  rotate: true
+  xy: 687, 366
+  size: 235, 440
+  orig: 235, 440
+  offset: 0, 0
+  index: -1
+arm(Dragon)
+  rotate: true
+  xy: 775, 1683
+  size: 104, 207
+  orig: 104, 207
+  offset: 0, 0
+  index: -1
+arm(L)
+  rotate: false
+  xy: 454, 1799
+  size: 149, 111
+  orig: 149, 111
+  offset: 0, 0
+  index: -1
+arm(R)
+  rotate: false
+  xy: 1617, 28
+  size: 111, 167
+  orig: 111, 167
+  offset: 0, 0
+  index: -1
+armUp(Dragon)
+  rotate: false
+  xy: 665, 581
+  size: 320, 182
+  orig: 320, 182
+  offset: 0, 0
+  index: -1
+armUp(L)
+  rotate: false
+  xy: 659, 191
+  size: 231, 98
+  orig: 231, 98
+  offset: 0, 0
+  index: -1
+armUp(R)
+  rotate: false
+  xy: 1123, 1810
+  size: 201, 101
+  orig: 201, 105
+  offset: 0, 0
+  index: -1
+armorA(Dragon)
+  rotate: false
+  xy: 881, 222
+  size: 221, 167
+  orig: 221, 167
+  offset: 0, 0
+  index: -1
+armorB(Dragon)
+  rotate: false
+  xy: 603, 352
+  size: 242, 199
+  orig: 242, 199
+  offset: 0, 0
+  index: -1
+armorC(Dragon)
+  rotate: false
+  xy: 1934, 715
+  size: 112, 193
+  orig: 112, 193
+  offset: 0, 0
+  index: -1
+armorFront
+  rotate: false
+  xy: 1478, 1328
+  size: 173, 131
+  orig: 178, 131
+  offset: 5, 0
+  index: -1
+bamboo
+  rotate: false
+  xy: 1314, 868
+  size: 253, 131
+  orig: 253, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1698, 685
+  size: 290, 265
+  orig: 290, 265
+  offset: 0, 0
+  index: -1
+bodyBack(Dragon)
+  rotate: 180
+  xy: 888, 1272
+  size: 876, 334
+  orig: 876, 334
+  offset: 0, 0
+  index: -1
+bodyMainA(Dragon)
+  rotate: 180
+  xy: 635, 1329
+  size: 686, 330
+  orig: 686, 330
+  offset: 0, 0
+  index: -1
+bodyMainB(Dragon)
+  rotate: false
+  xy: 454, 1438
+  size: 917, 472
+  orig: 917, 476
+  offset: 0, 0
+  index: -1
+bowA
+  rotate: false
+  xy: 669, 1662
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+bowB
+  rotate: false
+  xy: 1744, 105
+  size: 302, 48
+  orig: 302, 48
+  offset: 0, 0
+  index: -1
+bowC
+  rotate: false
+  xy: 935, 1595
+  size: 300, 113
+  orig: 300, 113
+  offset: 0, 0
+  index: -1
+cloth(R)
+  rotate: 180
+  xy: 1298, 311
+  size: 400, 123
+  orig: 400, 132
+  offset: 0, 9
+  index: -1
+clothDark
+  rotate: 180
+  xy: 1331, 173
+  size: 358, 159
+  orig: 358, 159
+  offset: 0, 0
+  index: -1
+clothDarkBack
+  rotate: 180
+  xy: 1442, 1079
+  size: 247, 174
+  orig: 247, 174
+  offset: 0, 0
+  index: -1
+clothWaist(L)
+  rotate: false
+  xy: 1036, 985
+  size: 106, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+clothWaist(R)
+  rotate: false
+  xy: 992, 162
+  size: 338, 71
+  orig: 363, 71
+  offset: 0, 0
+  index: -1
+clothWaistBack(L)
+  rotate: false
+  xy: 1648, 1144
+  size: 398, 356
+  orig: 398, 356
+  offset: 0, 0
+  index: -1
+clothWaistBack(R)
+  rotate: false
+  xy: 1569, 935
+  size: 463, 225
+  orig: 463, 225
+  offset: 0, 0
+  index: -1
+eyeClose
+  rotate: false
+  xy: 1046, 1886
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+finger1(Dragon)
+  rotate: false
+  xy: 598, 1365
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+finger2(Dragon)
+  rotate: false
+  xy: 2016, 1335
+  size: 30, 104
+  orig: 30, 104
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 501, 644
+  size: 428, 545
+  orig: 484, 545
+  offset: 56, 0
+  index: -1
+foot(L)
+  rotate: false
+  xy: 508, 1419
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+foot(R)
+  rotate: false
+  xy: 1908, 1082
+  size: 138, 89
+  orig: 138, 89
+  offset: 0, 0
+  index: -1
+hairA
+  rotate: false
+  xy: 650, 1651
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 10, 1181
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+hairBack
+  rotate: false
+  xy: 1692, 1180
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+hairSide
+  rotate: false
+  xy: 2, 783
+  size: 69, 158
+  orig: 69, 158
+  offset: 0, 0
+  index: -1
+hairSide(R)
+  rotate: false
+  xy: 1704, 1503
+  size: 149, 192
+  orig: 149, 192
+  offset: 0, 0
+  index: -1
+hand(Dragon)
+  rotate: 180
+  xy: 978, 67
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+hand(L)
+  rotate: false
+  xy: 783, 1364
+  size: 77, 121
+  orig: 77, 121
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 507, 148
+  size: 167, 191
+  orig: 167, 191
+  offset: 0, 0
+  index: -1
+head(Dragon)
+  rotate: 180
+  xy: 359, 878
+  size: 464, 218
+  orig: 464, 218
+  offset: 0, 0
+  index: -1
+headBack(Dragon)
+  rotate: false
+  xy: 267, 470
+  size: 175, 114
+  orig: 175, 114
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 1330, 16
+  size: 90, 162
+  orig: 90, 162
+  offset: 0, 0
+  index: -1
+jaw(Dragon)
+  rotate: false
+  xy: 45, 1044
+  size: 482, 266
+  orig: 482, 266
+  offset: 0, 0
+  index: -1
+jawBack(Dragon)
+  rotate: false
+  xy: 563, 1112
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+leg(L)
+  rotate: false
+  xy: 113, 348
+  size: 268, 324
+  orig: 297, 342
+  offset: 29, 0
+  index: -1
+leg(R)
+  rotate: 180
+  xy: 1874, 1420
+  size: 166, 167
+  orig: 194, 179
+  offset: 28, 12
+  index: -1
+neck
+  rotate: false
+  xy: 241, 917
+  size: 149, 128
+  orig: 149, 128
+  offset: 0, 0
+  index: -1
+neckLaceA
+  rotate: false
+  xy: 2, 3
+  size: 230, 196
+  orig: 230, 196
+  offset: 0, 0
+  index: -1
+neckLaceB
+  rotate: false
+  xy: 1261, 70
+  size: 100, 90
+  orig: 157, 90
+  offset: 57, 0
+  index: -1
+neckLaceC
+  rotate: false
+  xy: 376, 385
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+necklaceA(Dragon)
+  rotate: false
+  xy: 1147, 751
+  size: 91, 162
+  orig: 91, 162
+  offset: 0, 0
+  index: -1
+necklaceB(Dragon)
+  rotate: false
+  xy: 9, 197
+  size: 455, 223
+  orig: 455, 268
+  offset: 0, 0
+  index: -1
+necklaceC(Dragon)
+  rotate: 180
+  xy: 1735, 145
+  size: 311, 196
+  orig: 311, 196
+  offset: 0, 0
+  index: -1
+necklaceD(Dragon)
+  rotate: false
+  xy: 343, 1216
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+pantBack(L)
+  rotate: 270
+  xy: 1583, 506
+  size: 272, 270
+  orig: 272, 270
+  offset: 0, 0
+  index: -1
+pantFront(L)
+  rotate: 270
+  xy: 2, 575
+  size: 295, 296
+  orig: 358, 406
+  offset: 0, 110
+  index: -1
+propsArm(Dragon)
+  rotate: false
+  xy: 1847, 1835
+  size: 121, 75
+  orig: 121, 75
+  offset: 0, 0
+  index: -1
+ribbonA(L)
+  rotate: false
+  xy: 868, 519
+  size: 187, 77
+  orig: 187, 77
+  offset: 0, 0
+  index: -1
+ribbonAA(L)
+  rotate: false
+  xy: 2, 1422
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+ribbonB(L)
+  rotate: false
+  xy: 797, 57
+  size: 209, 68
+  orig: 209, 68
+  offset: 0, 0
+  index: -1
+ribbonC(L)
+  rotate: false
+  xy: 1732, 1699
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 1460
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+ropeY
+  rotate: false
+  xy: 850, 1000
+  size: 149, 75
+  orig: 149, 75
+  offset: 0, 0
+  index: -1
+scarfBack
+  rotate: true
+  xy: 247, 259
+  size: 222, 404
+  orig: 222, 404
+  offset: 0, 0
+  index: -1
+sleeve(L)
+  rotate: false
+  xy: 1597, 434
+  size: 135, 97
+  orig: 135, 97
+  offset: 0, 0
+  index: -1
+smokeA
+  rotate: true
+  xy: 1728, 343
+  size: 387, 318
+  orig: 387, 333
+  offset: 0, 0
+  index: -1
+smokeB
+  rotate: false
+  xy: 557, 1116
+  size: 251, 113
+  orig: 261, 113
+  offset: 0, 0
+  index: -1
+smokeC
+  rotate: false
+  xy: 1128, 83
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+smokeD
+  rotate: false
+  xy: 1129, 227
+  size: 252, 217
+  orig: 252, 217
+  offset: 0, 0
+  index: -1
+smokeE
+  rotate: false
+  xy: 2, 789
+  size: 412, 319
+  orig: 455, 330
+  offset: 21, 0
+  index: -1
+smokeF
+  rotate: false
+  xy: 380, 586
+  size: 251, 290
+  orig: 262, 290
+  offset: 0, 0
+  index: -1
+stone(L)
+  rotate: false
+  xy: 1170, 593
+  size: 405, 170
+  orig: 437, 213
+  offset: 23, 0
+  index: -1
+stone(R)
+  rotate: false
+  xy: 1359, 1610
+  size: 486, 300
+  orig: 520, 300
+  offset: 34, 0
+  index: -1
+sword
+  rotate: false
+  xy: 510, 1028
+  size: 982, 306
+  orig: 989, 336
+  offset: 0, 18
+  index: -1
+swordAir
+  rotate: false
+  xy: 1251, 764
+  size: 492, 199
+  orig: 492, 199
+  offset: 0, 0
+  index: -1
+swordPaper
+  rotate: false
+  xy: 2, 427
+  size: 118, 168
+  orig: 118, 168
+  offset: 0, 0
+  index: -1
+tail(Dragon)
+  rotate: false
+  xy: 2, 1174
+  size: 926, 268
+  orig: 926, 268
+  offset: 0, 0
+  index: -1
+thigh(R)
+  rotate: false
+  xy: 885, 709
+  size: 329, 255
+  orig: 329, 255
+  offset: 0, 0
+  index: -1
+tongue(Dragon)
+  rotate: false
+  xy: 1437, 280
+  size: 156, 58
+  orig: 156, 58
+  offset: 0, 0
+  index: -1
+unknown
+  rotate: false
+  xy: 1970, 1847
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+windA
+  rotate: false
+  xy: 382, 51
+  size: 151, 171
+  orig: 168, 189
+  offset: 17, 0
+  index: -1
+windB
+  rotate: false
+  xy: 1376, 102
+  size: 241, 129
+  orig: 241, 138
+  offset: 0, 9
+  index: -1
+windC
+  rotate: false
+  xy: 877, 1138
+  size: 257, 131
+  orig: 269, 131
+  offset: 0, 0
+  index: -1
+windD
+  rotate: 180
+  xy: 667, 290
+  size: 256, 171
+  orig: 256, 171
+  offset: 0, 0
+  index: -1

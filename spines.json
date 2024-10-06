@@ -1,0 +1,2386 @@
+[
+    {
+        "category": "monster",
+        "folder": "6081",
+        "monsterid": "1572",
+        "name": "烈陽赤炎 ‧ 草薙京",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6082",
+        "monsterid": "1575",
+        "name": "紫藍之月 ‧ 八神庵",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6083",
+        "monsterid": "1576",
+        "name": "忍術的傳承 ‧ 不知火舞",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6089",
+        "monsterid": "1579",
+        "name": "萬物之念 ‧ 大蛇",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6097",
+        "monsterid": "1602",
+        "name": "綻放榮耀 ‧ 矢車菊",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6098",
+        "monsterid": "1604",
+        "name": "閉鎖心蕾 ‧ 櫻",
+        "spinename": "Sakura",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6099",
+        "monsterid": "1610",
+        "name": "戀慕瀰漫 ‧ 薔薇",
+        "spinename": "tos_char",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6100",
+        "monsterid": "1617",
+        "name": "捕食惡意 ‧ 食人花",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6101",
+        "monsterid": "1618",
+        "name": "枯旱遺志 ‧ 含羞草",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6102",
+        "monsterid": "1619",
+        "name": "憎恨蓬勃 ‧ 罌粟",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6103",
+        "monsterid": "1506",
+        "name": "清香白蓮 ‧ 素還真",
+        "spinename": "white",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6104",
+        "monsterid": "1509",
+        "name": "百世經綸 ‧ 一頁書",
+        "spinename": "one_page",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6105",
+        "monsterid": "1510",
+        "name": "刀狂劍痴 ‧ 葉小釵",
+        "spinename": "YipSiuCha",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6106",
+        "monsterid": "1518",
+        "name": "毀滅之神 ‧ 棄天帝",
+        "spinename": "black",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6107",
+        "monsterid": "1639",
+        "name": "瘋癲夢界度 ‧ 格赫羅斯",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6108",
+        "monsterid": "1643",
+        "name": "悖論創造 ‧ 道羅斯",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6109",
+        "monsterid": "1645",
+        "name": "因果破壞 ‧ 阿撒托斯",
+        "spinename": "char02",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6110",
+        "monsterid": "1652",
+        "name": "存留的火舌 ‧ 弗塔古亞",
+        "spinename": "fire_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6111",
+        "monsterid": "1653",
+        "name": "容納侵蝕 ‧ 阿爾瓦撒",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6112",
+        "monsterid": "1654",
+        "name": "敗德的散播 ‧ 伊戈隆納克",
+        "spinename": "monster",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6125",
+        "monsterid": "703",
+        "name": "噬日誅天 ‧ 噬日狼",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6126",
+        "monsterid": "704",
+        "name": "蝕月毀天 ‧ 喰月狼",
+        "spinename": "char",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6127",
+        "monsterid": "1310",
+        "name": "眾生天命 ‧ 主神奧丁",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6128",
+        "monsterid": "742",
+        "name": "噩耗元素噬者 ‧ 迪亞布羅",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6129",
+        "monsterid": "850",
+        "name": "末日屍龍 ‧ 尼德霍格",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6130",
+        "monsterid": "998",
+        "name": "混沌之翼 ‧ 路西法",
+        "spinename": "6130",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6131",
+        "monsterid": "1188",
+        "name": "世界的平衡 ‧ 法神姬氏",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6132",
+        "monsterid": "1716",
+        "name": "全知的支配者 ‧ 猶格索托斯",
+        "spinename": "dream",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6134",
+        "monsterid": "1672",
+        "name": "耿直理想家 ‧ 孫策",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6135",
+        "monsterid": "1674",
+        "name": "蟄伏魍魎 ‧ 祝融",
+        "spinename": "fire_char",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6136",
+        "monsterid": "1680",
+        "name": "獨眼戰鬼 ‧ 夏侯惇",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6137",
+        "monsterid": "1687",
+        "name": "匠氣興霸 ‧ 甘寧",
+        "spinename": "kim",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6138",
+        "monsterid": "1688",
+        "name": "號令羊駝 ‧ 馬超",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6139",
+        "monsterid": "1689",
+        "name": "離經叛道 ‧ 張角",
+        "spinename": "cheung_kok",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6150",
+        "monsterid": "1699",
+        "name": "黝光萬丈 · 神皇宙斯",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6153",
+        "monsterid": "1404",
+        "name": "鐵扇公主 ‧ 羅剎女",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6154",
+        "monsterid": "1405",
+        "name": "聖賢哲者 ‧ 唐三藏",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6155",
+        "monsterid": "1703",
+        "name": "血植異足 ‧ 鐵拐李",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6156",
+        "monsterid": "1704",
+        "name": "菡萏香銷 ‧ 何仙姑",
+        "spinename": "1704_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6157",
+        "monsterid": "1705",
+        "name": "劍氣御神 ‧ 呂洞賓",
+        "spinename": "lui",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6158",
+        "monsterid": "1523",
+        "name": "無盡夢境 ‧ 睡魔",
+        "spinename": "Sleep",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6159",
+        "monsterid": "1710",
+        "name": "魅惑他心 ‧ 白面狐狸",
+        "spinename": "wolf_edit_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6160",
+        "monsterid": "1711",
+        "name": "磷火奪嬰 ‧ 姑獲鳥",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6161",
+        "monsterid": "1726",
+        "name": "不可能性現翼 ‧ 莫比烏斯",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6162",
+        "monsterid": "1728",
+        "name": "最終焉算之鋼砲 ‧ 圖靈",
+        "spinename": "1728",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6163",
+        "monsterid": "1729",
+        "name": "電裝烙雷芯 ‧ 法拉第",
+        "spinename": "1729 CF",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6164",
+        "monsterid": "1736",
+        "name": "萬世始皇帝 ‧ 嬴政",
+        "spinename": "1736_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6165",
+        "monsterid": "1737",
+        "name": "炎影的征討者 ‧ 織田信長",
+        "spinename": "1737 edit_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6166",
+        "monsterid": "1739",
+        "name": "艾爾芙萊姆的女王 ‧ 蘿斯",
+        "spinename": "1739",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6173",
+        "monsterid": "1745",
+        "name": "異瞳醫者 ‧ 桔梗",
+        "spinename": "Make a Wish",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6179",
+        "monsterid": "1589",
+        "name": "Terry",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6180",
+        "monsterid": "1763",
+        "name": "強制成長．小傑",
+        "spinename": "Gon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6182",
+        "monsterid": "1767",
+        "name": "神速 ‧ 奇犽",
+        "spinename": "HxH_Killua export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6183",
+        "monsterid": "1771",
+        "name": "梅路艾姆",
+        "spinename": "1771",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6185",
+        "monsterid": "1773",
+        "name": "尼飛彼多",
+        "spinename": "hunter_t3",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6191",
+        "monsterid": "1787",
+        "name": "魔人 ‧ 幽助",
+        "spinename": "yuyu_devil",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6192",
+        "monsterid": "1791",
+        "name": "妖狐 ‧ 藏馬",
+        "spinename": "001",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6193",
+        "monsterid": "1794",
+        "name": "邪眼 ‧ 飛影",
+        "spinename": "HIEI",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6194",
+        "monsterid": "1802",
+        "name": "戶愚呂弟 100%中的100%",
+        "spinename": "yuyu100",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6195",
+        "monsterid": "1804",
+        "name": "聖光氣 ‧ 仙水忍",
+        "spinename": "edit_v3_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6196",
+        "monsterid": "1816",
+        "name": "斷頭裁決 ‧ 夏爾",
+        "spinename": "1816",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6205",
+        "monsterid": "1837",
+        "name": "大自在天 ‧ 濕婆",
+        "spinename": "1837",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6206",
+        "monsterid": "1839",
+        "name": "唯識無境 ‧ 梵天",
+        "spinename": "1839",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6207",
+        "monsterid": "1845",
+        "name": "持戒苦行 ‧ 毗濕奴",
+        "spinename": "1845",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6208",
+        "monsterid": "1852",
+        "name": "畸孿共生 ‧ 派拉瓦與南迪",
+        "spinename": "1852",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6209",
+        "monsterid": "1853",
+        "name": "燃熠比翼 ‧ 迦樓羅",
+        "spinename": "1853_Galouro",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6210",
+        "monsterid": "1854",
+        "name": "脈輪師尊 ‧ 因陀羅",
+        "spinename": "1854_25k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6211",
+        "monsterid": "1818",
+        "name": "煌耀女帝 ‧ 美索不達米亞",
+        "spinename": "0824 export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6216",
+        "monsterid": "1882",
+        "name": "智障女神 ‧ 阿克婭",
+        "spinename": "Akua",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6217",
+        "monsterid": "1883",
+        "name": "華麗爆裂 ‧ 惠惠",
+        "spinename": "wai_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6218",
+        "monsterid": "1885",
+        "name": "受辱狂歡 ‧ 達克妮絲",
+        "spinename": "world",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6220",
+        "monsterid": "1891",
+        "name": "無頭騎士 ‧ 貝爾迪亞",
+        "spinename": "verdia",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6221",
+        "monsterid": "1439",
+        "name": "創曆者 ‧ 瑪雅",
+        "spinename": "1439 export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6222",
+        "monsterid": "2244",
+        "name": "冥魂判守 ‧ 阿努比斯",
+        "spinename": "blackgold_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6223",
+        "monsterid": "1626",
+        "name": "賢智泉源 ‧ 亞特蘭堤斯",
+        "spinename": "6223",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6224",
+        "monsterid": "1719",
+        "name": "燃火末日 ‧ 龐貝",
+        "spinename": "Pompeii",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6225",
+        "monsterid": "1926",
+        "name": "如煙無跡 ‧ 阿飄",
+        "spinename": "cat_wood",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6226",
+        "monsterid": "1928",
+        "name": "隨緣順心 ‧ 零",
+        "spinename": "1928",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6227",
+        "monsterid": "1930",
+        "name": "領風典範 ‧ 蜜兒",
+        "spinename": "honey",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6228",
+        "monsterid": "1937",
+        "name": "醫密祕方 ‧ 紅藥水",
+        "spinename": "cat_doctor",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6229",
+        "monsterid": "1938",
+        "name": "毛拳重擊 ‧ 鐵拳",
+        "spinename": "muscle_cat",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6230",
+        "monsterid": "1939",
+        "name": "詭譎專研 ‧ 布洛傑特",
+        "spinename": "1939_V1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6236",
+        "monsterid": "1904",
+        "name": "銅牛蒸獄 ‧ 皮爾婁",
+        "spinename": "hellpierre",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6244",
+        "monsterid": "1955",
+        "name": "星靈魔導士 ‧ 露西",
+        "spinename": "lucy",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6245",
+        "monsterid": "1956",
+        "name": "火之滅龍魔導士 ‧ 納茲",
+        "spinename": "natsu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6246",
+        "monsterid": "1958",
+        "name": "妖精女王 ‧ 艾爾莎",
+        "spinename": "Erza_Denise",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6248",
+        "monsterid": "1964",
+        "name": "炎龍王 ‧ 伊格尼爾",
+        "spinename": "Igneel export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6250",
+        "monsterid": "1983",
+        "name": "千古一帝 ‧ 秦始皇",
+        "spinename": "emperor_qin",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6251",
+        "monsterid": "1372",
+        "name": "幻影如水 ‧ 希",
+        "spinename": "1372",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6252",
+        "monsterid": "1374",
+        "name": "芍花愛戀 ‧ 妍",
+        "spinename": "1374",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6253",
+        "monsterid": "1974",
+        "name": "繯首旋舞 ‧ 莎麗娜",
+        "spinename": "Selena",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6259",
+        "monsterid": "2007",
+        "name": "時空相對論 ‧ 愛因斯坦",
+        "spinename": "einstein",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6260",
+        "monsterid": "2011",
+        "name": "生物多樣性 ‧ 達爾文",
+        "spinename": "darwin",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6261",
+        "monsterid": "2015",
+        "name": "超新星序曲 ‧ 伽利略",
+        "spinename": "Galileo",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6264",
+        "monsterid": "2024",
+        "name": "乙太紛裂 ‧ 亞里士多德",
+        "spinename": "aristotle",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6265",
+        "monsterid": "2054",
+        "name": "魔性原罪 · 夏娃",
+        "spinename": "eve",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6266",
+        "monsterid": "2058",
+        "name": "后儀天下 · 武則天",
+        "spinename": "WuZetian",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6267",
+        "monsterid": "2060",
+        "name": "艷后爭鳴 · 克麗奧",
+        "spinename": "egypt_parts",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6289",
+        "monsterid": "2130",
+        "name": "太昊八卦 ‧ 伏羲",
+        "spinename": "FuXi(Fire)",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6290",
+        "monsterid": "2131",
+        "name": "創世神女 ‧ 女媧",
+        "spinename": "NuWa(Wood)",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6291",
+        "monsterid": "2132",
+        "name": "瑤池婉妗 ‧ 西王母",
+        "spinename": "westqueen",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6292",
+        "monsterid": "2137",
+        "name": "舞干戚 ‧ 刑天",
+        "spinename": "SKY",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6293",
+        "monsterid": "2138",
+        "name": "百草藥神 ‧ 神農",
+        "spinename": "Shennong export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6294",
+        "monsterid": "2139",
+        "name": "開天闢地 ‧ 盤古",
+        "spinename": "pangu_spine",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6295",
+        "monsterid": "2099",
+        "name": "喵喵大將軍 ‧ 虹伶",
+        "spinename": "HongLingV2",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6296",
+        "monsterid": "2151",
+        "name": "超人ZERO (無限形態)",
+        "spinename": "Ultraman Zero",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6297",
+        "monsterid": "2154",
+        "name": "超人ORB",
+        "spinename": "Ultraman",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6299",
+        "monsterid": "2160",
+        "name": "宇宙恐龍 ‧ 積頓",
+        "spinename": "Ultraman_Zetton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6300",
+        "monsterid": "2161",
+        "name": "無幻魔人 ‧ 撒古拉斯 撒古拉",
+        "spinename": "Jagula",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6301",
+        "monsterid": "2163",
+        "name": "超人貝利亞 凶暴形態",
+        "spinename": "Atrocious Belial_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6302",
+        "monsterid": "2176",
+        "name": "流光祈護 ‧ 妍希",
+        "spinename": "light_arrow",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6303",
+        "monsterid": "2177",
+        "name": "瀟灑雅學 ‧ 妍希",
+        "spinename": "dark_michelle",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6310",
+        "monsterid": "2188",
+        "name": "睡前誘曲 ‧ 初音未來",
+        "spinename": "miku",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6311",
+        "monsterid": "2219",
+        "name": "蟲火浮光 ‧ 琥珀",
+        "spinename": "hupo",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6312",
+        "monsterid": "2221",
+        "name": "黛心盈透 ‧ 翡翠",
+        "spinename": "Jade",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6313",
+        "monsterid": "2223",
+        "name": "恆久閃耀 ‧ 鑽石",
+        "spinename": "Diamond",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6319",
+        "monsterid": "2232",
+        "name": "審望煉瞳 ‧ 超級七",
+        "spinename": "supper7",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6320",
+        "monsterid": "2233",
+        "name": "流彩藏妒 ‧ 孔雀石",
+        "spinename": "kongqueshi-1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6321",
+        "monsterid": "2234",
+        "name": "尊貴克拉 ‧ 極光 23",
+        "spinename": "JiGuang23",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6333",
+        "monsterid": "2214",
+        "name": "虛駭元素噬者 ‧ 迪亞布羅",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6334",
+        "monsterid": "2260",
+        "name": "靈應童將 ‧ 張飛",
+        "spinename": "zhangfei",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6335",
+        "monsterid": "2301",
+        "name": "紅影雙輝 ‧ 文曲星與武曲星",
+        "spinename": "chinese_god",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6336",
+        "monsterid": "2302",
+        "name": "祿逢吉處 ‧ 祿存星",
+        "spinename": "North_scale_rgb",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6337",
+        "monsterid": "2092",
+        "name": "初序的創造論 ‧ 卡俄斯",
+        "spinename": "NineOfLord",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6339",
+        "monsterid": "2305",
+        "name": "破陣無雙 ‧ 項羽",
+        "spinename": "XiangYu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6340",
+        "monsterid": "2306",
+        "name": "卿雲護庇 ‧ 蒼璧",
+        "spinename": "waterdragon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6341",
+        "monsterid": "2307",
+        "name": "智火解析 ‧ 恩莉兒",
+        "spinename": "enlier",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6342",
+        "monsterid": "2310",
+        "name": "冥血吞蝕 ‧ 維洛妮卡",
+        "spinename": "weiluonika",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6345",
+        "monsterid": "2337",
+        "name": "羅伊 ‧ 馬斯坦古",
+        "spinename": "Mustang",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6346",
+        "monsterid": "2338",
+        "name": "愛德華 ‧ 愛力克",
+        "spinename": "FA_edward",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6347",
+        "monsterid": "2339",
+        "name": "阿爾馮斯 ‧ 愛力克",
+        "spinename": "Alphonse",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6348",
+        "monsterid": "2172",
+        "name": "劇痛電椅 ‧ 索克拉",
+        "spinename": "chair",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6357",
+        "monsterid": "2270",
+        "name": "青鳥情繞 ‧ 曹丕",
+        "spinename": "CaoPi",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6358",
+        "monsterid": "2361",
+        "name": "瀧川凜",
+        "spinename": "CG_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6359",
+        "monsterid": "2366",
+        "name": "莉絲",
+        "spinename": "Liz",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6360",
+        "monsterid": "2380",
+        "name": "希望之盒 ‧ 潘朵拉",
+        "spinename": "Pandora",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6361",
+        "monsterid": "2381",
+        "name": "編號 8299 ‧ 南納",
+        "spinename": "Nanna",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6362",
+        "monsterid": "2383",
+        "name": "編號 6666 ‧ 依貝思",
+        "spinename": "ebis",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6363",
+        "monsterid": "2385",
+        "name": "無束天賦 ‧ 因其都",
+        "spinename": "machine",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6364",
+        "monsterid": "2389",
+        "name": "絢爛愛慾 ‧ 維蘭瑟",
+        "spinename": "Vilem",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6365",
+        "monsterid": "2390",
+        "name": "造物狂想 ‧ 金固",
+        "spinename": "golden",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6366",
+        "monsterid": "2391",
+        "name": "血紅野心 ‧ 魯利姆",
+        "spinename": "light_boy",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6367",
+        "monsterid": "2379",
+        "name": "開世的文明 ‧ 瑪雅",
+        "spinename": "maya",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6368",
+        "monsterid": "1871",
+        "name": "毀世的重生者 ‧ 夏馬西",
+        "spinename": "chamassi",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6369",
+        "monsterid": "2430",
+        "name": "楚顏殺姬 ‧ 虞姬",
+        "spinename": "YuJi",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6373",
+        "monsterid": "2212",
+        "name": "獄輪拷問 ‧ 斑點",
+        "spinename": "wheel",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6374",
+        "monsterid": "2440",
+        "name": "麝香貓果 · 榴槤",
+        "spinename": "durian",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6376",
+        "monsterid": "2451",
+        "name": "貪婪之罪 ‧ 班",
+        "spinename": "7 deadly sins - Ban",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6377",
+        "monsterid": "2452",
+        "name": "怠惰之罪 ‧ 金恩",
+        "spinename": "seven_golden",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6378",
+        "monsterid": "2454",
+        "name": "憤怒之罪 ‧ 梅里奧達斯",
+        "spinename": "Meliodas",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6379",
+        "monsterid": "2446",
+        "name": "噬日災煞 · 噬日狼",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6380",
+        "monsterid": "2448",
+        "name": "蝕月浩劫 · 喰月狼",
+        "spinename": "char",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6402",
+        "monsterid": "2497",
+        "name": "蜃樓星火 ‧ 伊斯塔",
+        "spinename": "Ishtar(Fire)",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6403",
+        "monsterid": "2498",
+        "name": "命軸剝奪 ‧ 諾索斯",
+        "spinename": "wood_mons",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6404",
+        "monsterid": "2499",
+        "name": "星辰之理 ‧ 蘇因",
+        "spinename": "nanna",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6405",
+        "monsterid": "2478",
+        "name": "魂石封印 ‧ 薛丁格",
+        "spinename": "schrodinger",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6406",
+        "monsterid": "2479",
+        "name": "制約瓦解 ‧ 米迦勒",
+        "spinename": "angel",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6407",
+        "monsterid": "2504",
+        "name": "矛盾螺旋 ‧ 沃瓦道",
+        "spinename": "fire",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6408",
+        "monsterid": "2480",
+        "name": "全知的惡魔 · 拉普拉斯",
+        "spinename": "Laplace_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6409",
+        "monsterid": "7018",
+        "name": "未窮夢魘 ‧ 許普諾斯",
+        "spinename": "hypernos",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6414",
+        "monsterid": "2541",
+        "name": "碇真嗣與渚薰與EVA13號機",
+        "spinename": "EVA_13",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6417",
+        "monsterid": "2545",
+        "name": "明悟睿濤 ‧ 亞特蘭堤斯 ",
+        "spinename": "atlantis_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6419",
+        "monsterid": "3001",
+        "name": "野望滅絕 ‧ 薩魯曼",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6420",
+        "monsterid": "3002",
+        "name": "日墜月落 ‧ 噬日狼與喰月狼",
+        "spinename": "wolf",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6421",
+        "monsterid": "3003",
+        "name": "理智失序 ‧ 奧丁",
+        "spinename": "odin",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6422",
+        "monsterid": "3004",
+        "name": "根源倒錯 ‧ 迪亞布羅",
+        "spinename": "Diabolo",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6423",
+        "monsterid": "3005",
+        "name": "生死剝離 ‧ 尼德霍格",
+        "spinename": "poisondragon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6424",
+        "monsterid": "3006",
+        "name": "存在質疑 ‧ 路西法",
+        "spinename": "Lucifer",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6425",
+        "monsterid": "3007",
+        "name": "常世否定 ‧ 姬氏",
+        "spinename": "kc_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6429",
+        "monsterid": "2567",
+        "name": "緋曦赤霞 ‧ 紅璦",
+        "spinename": "Red",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6430",
+        "monsterid": "2568",
+        "name": "比擬萬象 ‧ 達格",
+        "spinename": "Dagda (wood)_export",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6431",
+        "monsterid": "2570",
+        "name": "夢詠守望 ‧ 英格麗",
+        "spinename": "Ingrid",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6432",
+        "monsterid": "2576",
+        "name": "面紗下的微光 ‧ 塔維爾",
+        "spinename": "Tavel",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6433",
+        "monsterid": "2584",
+        "name": "魔權在握 ‧ 巴力",
+        "spinename": "baly",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6434",
+        "monsterid": "2585",
+        "name": "瀾漫勾惑 ‧ 夏娃",
+        "spinename": "eva",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6475",
+        "monsterid": "2595",
+        "name": "九黎戰神 ‧ 蚩尤",
+        "spinename": "Zeen",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6476",
+        "monsterid": "2081",
+        "name": "聖杯之永息 · 艾莉亞",
+        "spinename": "Chalice",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6477",
+        "monsterid": "2149",
+        "name": "賢者之石 ‧ 元獸賈比爾",
+        "spinename": "char",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6478",
+        "monsterid": "2208",
+        "name": "紋龍嘯息 ‧ 青圭",
+        "spinename": "HeShi",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6479",
+        "monsterid": "7019",
+        "name": "無私劍士 ‧ 皓月",
+        "spinename": "Haoyue",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6487",
+        "monsterid": "2636",
+        "name": "九尾狐．玉藻前",
+        "spinename": "0077_Tail Tamamo no Mae",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6488",
+        "monsterid": "2637",
+        "name": "寫作之神．菲呂拉",
+        "spinename": "0372_monster",
+        "pma": false
+    },
+    {
+        "category": "monster",
+        "folder": "6489",
+        "monsterid": "2638",
+        "name": "傾世妖魅．妲己",
+        "spinename": "0041_Bloody Daji",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6490",
+        "monsterid": "2639",
+        "name": "扭曲天使．亞伯汗",
+        "spinename": "0133 Chaos Angel Angela",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6491",
+        "monsterid": "2640",
+        "name": "叛逆天使．路西法",
+        "spinename": "0127_Rebel Angel Lucifer",
+        "pma": false
+    },
+    {
+        "category": "monster",
+        "folder": "6492",
+        "monsterid": "2641",
+        "name": "輝日神．天照大神",
+        "spinename": "0049_Heaven Plain Tensho",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6493",
+        "monsterid": "2642",
+        "name": "神使．八咫烏",
+        "spinename": "0083_God Messenger yatagarasu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6494",
+        "monsterid": "2643",
+        "name": "冥妃神．伊邪那美",
+        "spinename": "0055_Queen of Death Izanami",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6495",
+        "monsterid": "2634",
+        "name": "炙焰城主 ‧ 龐貝",
+        "spinename": "pompeii",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6497",
+        "monsterid": "2662",
+        "name": "火之神 ‧ 竈門炭治郎",
+        "spinename": "Tanjirou",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6498",
+        "monsterid": "2663",
+        "name": "竈門禰豆子",
+        "spinename": "Nezuko",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6502",
+        "monsterid": "2688",
+        "name": "少華鈞天 ‧ 華曦",
+        "spinename": "WX",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6503",
+        "monsterid": "2689",
+        "name": "琴息濯洗 ‧ 霏音",
+        "spinename": "second",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6504",
+        "monsterid": "2690",
+        "name": "傲志不訾 ‧ 姬臣",
+        "spinename": "JC",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6506",
+        "monsterid": "2660",
+        "name": "朔月帝女 ‧ 卑彌呼",
+        "spinename": "denise",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6509",
+        "monsterid": "10047",
+        "name": "嬌憨龍娃 ‧ 爪娃諾",
+        "spinename": "lightdragongirl",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6510",
+        "monsterid": "10048",
+        "name": "激濤獅心 ‧ 奎內塞",
+        "spinename": "lion",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6511",
+        "monsterid": "10060",
+        "name": "戰縫鬥服 ‧ 暹諾德",
+        "spinename": "Siam",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6512",
+        "monsterid": "10049",
+        "name": "導火指令 ‧ 珞答以",
+        "spinename": "LD",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6513",
+        "monsterid": "10050",
+        "name": "秉公處理 ‧ 朗羅",
+        "spinename": "Langro",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6514",
+        "monsterid": "10062",
+        "name": "環光聖戰 ‧ 涅索伊",
+        "spinename": "NSY",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6516",
+        "monsterid": "10100",
+        "name": "傲然綻光 ‧ 烏瑞亞",
+        "spinename": "uri",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6517",
+        "monsterid": "10101",
+        "name": "博愛源魔 ‧ 瓦斐森",
+        "spinename": "Waferson",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6518",
+        "monsterid": "10102",
+        "name": "專業兔醫 ‧ 比涅希",
+        "spinename": "BNX",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6519",
+        "monsterid": "10103",
+        "name": "財迷美夢 ‧ 青金石",
+        "spinename": "water_demon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6520",
+        "monsterid": "10099",
+        "name": "殘暴凶戾 ‧ 本耶普",
+        "spinename": "bunyip",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6521",
+        "monsterid": "2739",
+        "name": "女帝的銘誓 ‧ 美索不達米亞",
+        "spinename": "miso_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6523",
+        "monsterid": "10117",
+        "name": "天道炎旌 ‧ 刻琿",
+        "spinename": "fai",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6524",
+        "monsterid": "10118",
+        "name": "精確射擊 ‧ 藍德南",
+        "spinename": "MZ",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6525",
+        "monsterid": "10119",
+        "name": "辰星指導 ‧ 瑪米圖",
+        "spinename": "Mamitu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6527",
+        "monsterid": "10137",
+        "name": "夢域飛馳 ‧ 斑",
+        "spinename": "magic",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6528",
+        "monsterid": "10138",
+        "name": "雛型倒轉 ‧ 歐幾里得",
+        "spinename": "zthunder",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6536",
+        "monsterid": "10146",
+        "name": "屹立獸衛 ‧ 克洛怡",
+        "spinename": "DarkMonster",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6537",
+        "monsterid": "10147",
+        "name": "龍火爆發 ‧ 彌爾頓",
+        "spinename": "Milton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6538",
+        "monsterid": "10150",
+        "name": "最初的仿魂 ‧ 莉莉絲",
+        "spinename": "lilyC",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6539",
+        "monsterid": "10165",
+        "name": "救世主 ‧ 以諾",
+        "spinename": "Enoch_t1",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6540",
+        "monsterid": "10166",
+        "name": "流火祈夢 ‧ 英格麗",
+        "spinename": "Ingrid",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6541",
+        "monsterid": "2748",
+        "name": "末日來臨 ‧ 尼德霍格",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6543",
+        "monsterid": "10170",
+        "name": "樂韻悠揚 ‧ 梅樂蒂",
+        "spinename": "Melody",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6544",
+        "monsterid": "10171",
+        "name": "恩澤禱告 ‧ 卡西爾",
+        "spinename": "cassiel",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6545",
+        "monsterid": "10197",
+        "name": "盈蕙龍嘯 ‧ 依蓮尼亞",
+        "spinename": "water_dragon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6546",
+        "monsterid": "10198",
+        "name": "狐靈召來 ‧ 安倍悟",
+        "spinename": "Satoru",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6559",
+        "monsterid": "2770",
+        "name": "染香綺狐 ‧ 妲己",
+        "spinename": "DJ",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6560",
+        "monsterid": "10235",
+        "name": "狂傲血魔 ‧ 德古拉",
+        "spinename": "Dracula",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6561",
+        "monsterid": "10236",
+        "name": "沉潛斑翼 ‧ 約菲",
+        "spinename": "Joffe",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6564",
+        "monsterid": "10270",
+        "name": "星械造主 ‧ 奧米伽",
+        "spinename": "Omega",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6565",
+        "monsterid": "10271",
+        "name": "曦光冷瞳 ‧ 隱德萊",
+        "spinename": "lightman",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6567",
+        "monsterid": "10278",
+        "name": "遺世龍魂 ‧ 尤麗婭",
+        "spinename": "Yulia",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6568",
+        "monsterid": "10279",
+        "name": "拳破星屑 ‧ 烏圖",
+        "spinename": "Utu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6569",
+        "monsterid": "10280",
+        "name": "獸道征途 ‧ 凱撒",
+        "spinename": "Caesar",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6570",
+        "monsterid": "10284",
+        "name": "皇劍傳承 ‧ 法雷迪",
+        "spinename": "pan",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6571",
+        "monsterid": "10285",
+        "name": "皓羽疾影 ‧ 雨果",
+        "spinename": "Hugo",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6591",
+        "monsterid": "10320",
+        "name": "極限魔祭 ‧ 司路域",
+        "spinename": "SLY",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6600",
+        "monsterid": "2752",
+        "name": "霸權傾軋 ‧ 秦始皇",
+        "spinename": "emperor",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6601",
+        "monsterid": "10321",
+        "name": "星夢彈奏 ‧ 珞答以",
+        "spinename": "katel",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6602",
+        "monsterid": "10322",
+        "name": "熱音狂飆 ‧ 維珍尼亞",
+        "spinename": "veginia",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6603",
+        "monsterid": "10323",
+        "name": "嬌巧狙擊 ‧ 烏瑞亞",
+        "spinename": "ushera_v2",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6604",
+        "monsterid": "10324",
+        "name": "萌龍響樂 ‧ 卑彌呼",
+        "spinename": "himiko",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6605",
+        "monsterid": "10325",
+        "name": "魅魔奏音 ‧ 艾莉亞",
+        "spinename": "elia",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6606",
+        "monsterid": "10309",
+        "name": "幻瓏倩狐 ‧ 姜湘",
+        "spinename": "chu_ash",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6607",
+        "monsterid": "10310",
+        "name": "靈芝孢子 ‧ 奇諾",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6608",
+        "monsterid": "10370",
+        "name": "神創 ‧ 零覓",
+        "spinename": "god",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6609",
+        "monsterid": "10371",
+        "name": "魔滅 ‧ 一願",
+        "spinename": "onewish_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6612",
+        "monsterid": "10372",
+        "name": "血眷臣服 ‧ 卡蜜拉",
+        "spinename": "carmilla_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6613",
+        "monsterid": "10373",
+        "name": "爆破高手 ‧ 諾貝爾",
+        "spinename": "bike",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6614",
+        "monsterid": "10408",
+        "name": "制霸拳皇 ‧ 阿里",
+        "spinename": "ali",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6615",
+        "monsterid": "10409",
+        "name": "染血教徒 ‧ 馬克白",
+        "spinename": "Macbeth",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6618",
+        "monsterid": "10410",
+        "name": "驕陽永耀 ‧ 阿圖姆",
+        "spinename": "Atum",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6619",
+        "monsterid": "10416",
+        "name": "疏狂妖刀客 ‧ 柳生十兵衛",
+        "spinename": "blade",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6620",
+        "monsterid": "10417",
+        "name": "雪色罪印 ‧ 白雪",
+        "spinename": "snow",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6623",
+        "monsterid": "2911",
+        "name": "暴虐之翼 ‧ 路西法",
+        "spinename": "6130",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6624",
+        "monsterid": "10450",
+        "name": "仇業佈局 ‧ 拿破崙",
+        "spinename": "gun",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6625",
+        "monsterid": "10455",
+        "name": "無序飢餓 ‧ 哈佛",
+        "spinename": "Bonaparte",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6626",
+        "monsterid": "10456",
+        "name": "死亡洗禮 ‧ 夏綠蒂",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6632",
+        "monsterid": "2791",
+        "name": "聖輝漪揚 ‧ 艾莉亞",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6633",
+        "monsterid": "2835",
+        "name": "炙愛烙魂 ‧ 詩蘭捷與賈比爾",
+        "spinename": "NO2835",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6634",
+        "monsterid": "10480",
+        "name": "豔光游蛇 ‧ 安潔莉娜",
+        "spinename": "Angelina",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6635",
+        "monsterid": "10481",
+        "name": "枯骨哀弦 ‧ 夏彥",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6636",
+        "monsterid": "10519",
+        "name": "蒼穹破曉 ‧ 蒼璧",
+        "spinename": "cang_bi",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6637",
+        "monsterid": "10520",
+        "name": "焰硝炮擊 ‧ 南納",
+        "spinename": "Denise3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6651",
+        "monsterid": "10489",
+        "name": "時代領演 ‧ 莎士比亞",
+        "spinename": "shakespeare",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6652",
+        "monsterid": "10490",
+        "name": "橫空護師 ‧ 樂樂",
+        "spinename": "fire_riva",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6656",
+        "monsterid": "10560",
+        "name": "共鳴渦漩 ‧ 諾瓦利斯與烏蘇拉",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6659",
+        "monsterid": "10616",
+        "name": "聖凡意志 ‧ 普羅米修斯",
+        "spinename": "PROMETHEUS",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6660",
+        "monsterid": "10617",
+        "name": "琉彩晶結 ‧ 尼祿",
+        "spinename": "nero",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6661",
+        "monsterid": "2863",
+        "name": "業火轟滅 ‧ 蚩尤",
+        "spinename": "ChiYou",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6664",
+        "monsterid": "10620",
+        "name": "貪嗔癡愛 ‧ 潘金蓮",
+        "spinename": "poon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6665",
+        "monsterid": "10622",
+        "name": "紅顏敕令 ‧ 林黛玉",
+        "spinename": "lindaiyu",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6666",
+        "monsterid": "2865",
+        "name": "蒼心斬災 ‧ 青圭",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6669",
+        "monsterid": "2913",
+        "name": "世界的恆律 ‧ 法神姬氏",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6670",
+        "monsterid": "10659",
+        "name": "鋼軀無懼 ‧ 蒙大拿",
+        "spinename": "Montana",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6671",
+        "monsterid": "10660",
+        "name": "正義掌舵 ‧ 斯卡塔赫",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6672",
+        "monsterid": "10683",
+        "name": "出塵棋觀 ‧ 黑嘉嘉",
+        "spinename": "HJJ",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6673",
+        "monsterid": "2860",
+        "name": "希望吞蝕 ‧ 潘朵拉",
+        "spinename": "pandora",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6676",
+        "monsterid": "10714",
+        "name": "皓潔伊始 ‧ 所多瑪",
+        "spinename": "sodom",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6677",
+        "monsterid": "10715",
+        "name": "魘尾疚罪 ‧ 蛾摩拉",
+        "spinename": "Luker",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6680",
+        "monsterid": "10726",
+        "name": "聖庭審訊 ‧ 梵帝岡",
+        "spinename": "Vatican1",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "2528",
+        "monsterid": null,
+        "name": "第6使徒 (反擊形態)",
+        "spinename": "EVA",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "2529",
+        "monsterid": null,
+        "name": "第6使徒 (攻擊形態)",
+        "spinename": "EVA",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6382",
+        "monsterid": null,
+        "name": "怨念核",
+        "spinename": "character",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6385",
+        "monsterid": null,
+        "name": "雙生核",
+        "spinename": "wolf",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6387",
+        "monsterid": null,
+        "name": "晶綻核",
+        "spinename": "odin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6389",
+        "monsterid": null,
+        "name": "融冰核",
+        "spinename": "Diabolo",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6391",
+        "monsterid": null,
+        "name": "胞質核",
+        "spinename": "poisondragon",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6393",
+        "monsterid": null,
+        "name": "存在質疑 ‧ 路西法",
+        "spinename": "Lucifer",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6395",
+        "monsterid": null,
+        "name": "常世否定 ‧ 姬氏",
+        "spinename": "kc_3k",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6397",
+        "monsterid": null,
+        "name": "維度粉碎 ‧ 猶格索托斯",
+        "spinename": "YogSothoth_edit2_50",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6399",
+        "monsterid": null,
+        "name": "殘像肆虐 ‧ 卡俄斯",
+        "spinename": "chaos",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6436",
+        "monsterid": null,
+        "name": "侵念之核",
+        "spinename": "water_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6437",
+        "monsterid": null,
+        "name": "罪熱之核",
+        "spinename": "fire_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6438",
+        "monsterid": null,
+        "name": "哀嚎之核",
+        "spinename": "wood_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6439",
+        "monsterid": null,
+        "name": "分裂之核",
+        "spinename": "light_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6440",
+        "monsterid": null,
+        "name": "夢禍之核",
+        "spinename": "dark_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "69998",
+        "monsterid": null,
+        "name": "69998",
+        "spinename": "dimdim",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "69999",
+        "monsterid": null,
+        "name": "69999",
+        "spinename": "dimdim",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "apollocampusbossspine",
+        "monsterid": null,
+        "name": "apollocampusbossspine",
+        "spinename": "ApolloBossSpine",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "cancanspine",
+        "monsterid": null,
+        "name": "cancanspine",
+        "spinename": "Cancan_spine",
+        "pma": false
+    },
+    {
+        "category": "other",
+        "folder": "mugentrain",
+        "monsterid": null,
+        "name": "mugentrain",
+        "spinename": "skeleton",
+        "pma": true
+    }
+]

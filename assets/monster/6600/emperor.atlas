@@ -1,0 +1,979 @@
+
+emperor.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG A
+  rotate: false
+  xy: 395, 1021
+  size: 166, 94
+  orig: 166, 94
+  offset: 0, 0
+  index: -1
+BG B
+  rotate: false
+  xy: 1244, 1869
+  size: 163, 64
+  orig: 163, 64
+  offset: 0, 0
+  index: -1
+BG C
+  rotate: false
+  xy: 723, 1734
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+BG D
+  rotate: false
+  xy: 1769, 1288
+  size: 166, 86
+  orig: 166, 86
+  offset: 0, 0
+  index: -1
+Back Shoulder Armo_Sword
+  rotate: false
+  xy: 1334, 1263
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+Back Shoulder Armo_base
+  rotate: false
+  xy: 348, 1606
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Back Shoulder Armor A
+  rotate: false
+  xy: 1064, 615
+  size: 350, 187
+  orig: 350, 187
+  offset: 0, 0
+  index: -1
+Back Shoulder Armor B
+  rotate: true
+  xy: 1676, 679
+  size: 442, 260
+  orig: 442, 260
+  offset: 0, 0
+  index: -1
+Back Shoulder Armor C
+  rotate: 180
+  xy: 458, 648
+  size: 758, 279
+  orig: 758, 279
+  offset: 0, 0
+  index: -1
+Back bone
+  rotate: false
+  xy: 787, 1034
+  size: 177, 82
+  orig: 177, 82
+  offset: 0, 0
+  index: -1
+Dead Dragon hair A
+  rotate: 180
+  xy: 1434, 217
+  size: 566, 234
+  orig: 566, 234
+  offset: 0, 0
+  index: -1
+Dead Dragon hair B
+  rotate: 180
+  xy: 1488, 2
+  size: 406, 232
+  orig: 406, 232
+  offset: 0, 0
+  index: -1
+Dead Dragon_ Head
+  rotate: true
+  xy: 1076, 1066
+  size: 251, 376
+  orig: 251, 376
+  offset: 0, 0
+  index: -1
+Dead Dragon_Hair back
+  rotate: 270
+  xy: 1388, 833
+  size: 368, 368
+  orig: 368, 368
+  offset: 0, 0
+  index: -1
+Dead Dragon_Top hair
+  rotate: false
+  xy: 133, 14
+  size: 192, 154
+  orig: 192, 154
+  offset: 0, 0
+  index: -1
+Dead Dragon_back light
+  rotate: false
+  xy: 1643, 96
+  size: 102, 128
+  orig: 102, 128
+  offset: 0, 0
+  index: -1
+Dead Dragon_beard A
+  rotate: true
+  xy: 1086, 329
+  size: 168, 312
+  orig: 168, 312
+  offset: 0, 0
+  index: -1
+Dead Dragon_beard B
+  rotate: false
+  xy: 1432, 1249
+  size: 105, 217
+  orig: 105, 217
+  offset: 0, 0
+  index: -1
+Dead Dragon_beard C
+  rotate: true
+  xy: 659, 251
+  size: 190, 243
+  orig: 190, 243
+  offset: 0, 0
+  index: -1
+Dead Dragon_eyes hair
+  rotate: false
+  xy: 51, 762
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+Dead Dragon_eyes light
+  rotate: false
+  xy: 1448, 1918
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Dragon Body RBottom Back
+  rotate: false
+  xy: 1, 314
+  size: 395, 277
+  orig: 395, 277
+  offset: 0, 0
+  index: -1
+Dragon Soul_ Bottom hair
+  rotate: false
+  xy: 1321, 1807
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+Dragon Soul_Dot
+  rotate: false
+  xy: 486, 1760
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Dragon Soul_Hair L
+  rotate: false
+  xy: 1281, 973
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+Dragon Soul_Hair R
+  rotate: false
+  xy: 1380, 1469
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Dragon Soul_Head
+  rotate: false
+  xy: 157, 140
+  size: 154, 138
+  orig: 154, 138
+  offset: 0, 0
+  index: -1
+Dragon Soul_light
+  rotate: false
+  xy: 1823, 1071
+  size: 91, 102
+  orig: 91, 102
+  offset: 0, 0
+  index: -1
+Dragon Soul_neck
+  rotate: false
+  xy: 2018, 1649
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+Dragon soul_Body A
+  rotate: false
+  xy: 249, 877
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+Dragon soul_Body B
+  rotate: false
+  xy: 1614, 770
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+Dragon soul_Body C
+  rotate: false
+  xy: 807, 1652
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Dragon_Arm LBottom
+  rotate: 180
+  xy: 1344, 612
+  size: 268, 301
+  orig: 268, 301
+  offset: 0, 0
+  index: -1
+Dragon_Arm R
+  rotate: false
+  xy: 919, 1202
+  size: 222, 156
+  orig: 222, 156
+  offset: 0, 0
+  index: -1
+Dragon_Body L
+  rotate: false
+  xy: 873, 810
+  size: 469, 254
+  orig: 469, 254
+  offset: 0, 0
+  index: -1
+Dragon_Body LBottom
+  rotate: 180
+  xy: 386, 1444
+  size: 528, 334
+  orig: 528, 334
+  offset: 0, 0
+  index: -1
+Dragon_Body LBottom Back
+  rotate: 180
+  xy: 430, 332
+  size: 381, 376
+  orig: 381, 376
+  offset: 0, 0
+  index: -1
+Dragon_Body LTop
+  rotate: 180
+  xy: 813, 527
+  size: 350, 205
+  orig: 350, 205
+  offset: 0, 0
+  index: -1
+Dragon_Body RBottom
+  rotate: false
+  xy: 169, 532
+  size: 432, 144
+  orig: 432, 144
+  offset: 0, 0
+  index: -1
+Dragon_Body RTop
+  rotate: false
+  xy: 1573, 1369
+  size: 473, 435
+  orig: 473, 435
+  offset: 0, 0
+  index: -1
+Dragon_Hair LBottom Back
+  rotate: true
+  xy: 361, 43
+  size: 268, 329
+  orig: 268, 329
+  offset: 0, 0
+  index: -1
+Dragon_Hair LTop
+  rotate: false
+  xy: 999, 307
+  size: 473, 262
+  orig: 473, 262
+  offset: 0, 0
+  index: -1
+Dragon_Hair RBottom
+  rotate: false
+  xy: 397, 225
+  size: 414, 163
+  orig: 414, 163
+  offset: 0, 0
+  index: -1
+Dragon_Hair RBottom Back
+  rotate: false
+  xy: 904, 33
+  size: 285, 225
+  orig: 285, 225
+  offset: 0, 0
+  index: -1
+Dragon_Hair RTop
+  rotate: false
+  xy: 401, 757
+  size: 470, 359
+  orig: 470, 359
+  offset: 0, 0
+  index: -1
+Dragon_Middle Leg
+  rotate: true
+  xy: 1870, 941
+  size: 567, 177
+  orig: 567, 177
+  offset: 0, 0
+  index: -1
+Dragon_Middle body
+  rotate: 270
+  xy: 452, 1192
+  size: 268, 547
+  orig: 268, 547
+  offset: 0, 0
+  index: -1
+Dragon_Wing L
+  rotate: 180
+  xy: 160, 1208
+  size: 290, 520
+  orig: 290, 520
+  offset: 0, 0
+  index: -1
+Dragon_Wing R
+  rotate: true
+  xy: 880, 1320
+  size: 340, 550
+  orig: 340, 550
+  offset: 0, 0
+  index: -1
+Front Land A
+  rotate: false
+  xy: 1, 1118
+  size: 1073, 73
+  orig: 1073, 73
+  offset: 0, 0
+  index: -1
+Front Land B
+  rotate: false
+  xy: 1, 1668
+  size: 1033, 265
+  orig: 1033, 265
+  offset: 0, 0
+  index: -1
+Front Shoulder Armor A
+  rotate: 180
+  xy: 52, 660
+  size: 347, 213
+  orig: 347, 213
+  offset: 0, 0
+  index: -1
+Front Shoulder Armor ABack L
+  rotate: false
+  xy: 1409, 1857
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+Front Shoulder Armor ABack R
+  rotate: false
+  xy: 1569, 1346
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+Front Shoulder Armor B
+  rotate: 180
+  xy: 1787, 526
+  size: 259, 289
+  orig: 259, 289
+  offset: 0, 0
+  index: -1
+Front bone
+  rotate: false
+  xy: 1521, 1170
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+Front dot effect A
+  rotate: false
+  xy: 2021, 1476
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Front dot effect B
+  rotate: false
+  xy: 1893, 1372
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+Front dot effect C
+  rotate: false
+  xy: 1518, 1909
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Front dot effect D
+  rotate: false
+  xy: 1409, 1905
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Front dot effect E
+  rotate: false
+  xy: 433, 1402
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Front dot effect F
+  rotate: false
+  xy: 1119, 1919
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+Front dot effect G
+  rotate: false
+  xy: 1464, 1923
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+Front dot effect H
+  rotate: false
+  xy: 1546, 1612
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+Front dot effect I
+  rotate: false
+  xy: 2025, 1736
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+Front dot effect J
+  rotate: false
+  xy: 1980, 1907
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+Front dot effect K
+  rotate: false
+  xy: 726, 1832
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Front dot effect L
+  rotate: false
+  xy: 1169, 1914
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Front dot effect M
+  rotate: false
+  xy: 916, 1445
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Front dot effect N
+  rotate: false
+  xy: 781, 1391
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+Front smoke
+  rotate: false
+  xy: 1614, 625
+  size: 168, 52
+  orig: 168, 52
+  offset: 0, 0
+  index: -1
+Hand effect A
+  rotate: false
+  xy: 1, 999
+  size: 97, 116
+  orig: 97, 116
+  offset: 0, 0
+  index: -1
+Hand effect B
+  rotate: false
+  xy: 1893, 95
+  size: 154, 224
+  orig: 154, 224
+  offset: 0, 0
+  index: -1
+Hand effect C
+  rotate: false
+  xy: 1, 652
+  size: 66, 191
+  orig: 66, 191
+  offset: 0, 0
+  index: -1
+Hand effect D
+  rotate: false
+  xy: 563, 1019
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+Hand effect E
+  rotate: false
+  xy: 1853, 1750
+  size: 180, 183
+  orig: 180, 183
+  offset: 0, 0
+  index: -1
+Hat_1
+  rotate: false
+  xy: 1808, 1012
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+Hat_2
+  rotate: false
+  xy: 1085, 1316
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+Hat_3
+  rotate: false
+  xy: 708, 928
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1
+Hat_4
+  rotate: false
+  xy: 630, 1032
+  size: 92, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+Man Hand_light effect A
+  rotate: false
+  xy: 1777, 1702
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+Man Hand_light effect B
+  rotate: false
+  xy: 1036, 1845
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+Man_Arm
+  rotate: false
+  xy: 1966, 28
+  size: 80, 153
+  orig: 80, 153
+  offset: 0, 0
+  index: -1
+Man_Arm Clothes
+  rotate: false
+  xy: 681, 128
+  size: 135, 146
+  orig: 135, 146
+  offset: 0, 0
+  index: -1
+Man_Back Hand
+  rotate: false
+  xy: 764, 1695
+  size: 142, 37
+  orig: 142, 37
+  offset: 0, 0
+  index: -1
+Man_Back Hand Armor
+  rotate: false
+  xy: 561, 1786
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+Man_Black belt
+  rotate: true
+  xy: 1, 844
+  size: 271, 399
+  orig: 271, 399
+  offset: 0, 0
+  index: -1
+Man_Black green
+  rotate: false
+  xy: 1416, 266
+  size: 458, 366
+  orig: 458, 366
+  offset: 0, 0
+  index: -1
+Man_Body
+  rotate: false
+  xy: 832, 838
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+Man_Cape Back
+  rotate: true
+  xy: 22, 1470
+  size: 235, 136
+  orig: 235, 136
+  offset: 0, 0
+  index: -1
+Man_Gold
+  rotate: false
+  xy: 2011, 1780
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Man_Hand
+  rotate: false
+  xy: 1398, 1248
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+Man_Hand_Effect A
+  rotate: false
+  xy: 533, 1781
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Man_Hand_Effect B
+  rotate: false
+  xy: 658, 1465
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+Man_Head
+  rotate: false
+  xy: 1, 181
+  size: 172, 182
+  orig: 172, 182
+  offset: 0, 0
+  index: -1
+Man_Leg L
+  rotate: true
+  xy: 292, 446
+  size: 84, 279
+  orig: 84, 279
+  offset: 0, 0
+  index: -1
+Man_Leg R
+  rotate: false
+  xy: 1143, 141
+  size: 226, 205
+  orig: 226, 205
+  offset: 0, 0
+  index: -1
+Man_Sword
+  rotate: false
+  xy: 1195, 89
+  size: 341, 287
+  orig: 341, 287
+  offset: 0, 0
+  index: -1
+Man_Sword effect
+  rotate: false
+  xy: 1056, 73
+  size: 216, 196
+  orig: 216, 196
+  offset: 0, 0
+  index: -1
+Man_Upper White
+  rotate: false
+  xy: 1648, 1789
+  size: 203, 144
+  orig: 203, 144
+  offset: 0, 0
+  index: -1
+Man_cloth1
+  rotate: 180
+  xy: 1, 222
+  size: 359, 270
+  orig: 359, 270
+  offset: 0, 0
+  index: -1
+Man_cloth2
+  rotate: true
+  xy: 715, 260
+  size: 329, 340
+  orig: 329, 340
+  offset: 0, 0
+  index: -1
+Man_jaw rope
+  rotate: false
+  xy: 1, 1525
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Man_waist A
+  rotate: false
+  xy: 225, 1211
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+Man_waist B
+  rotate: false
+  xy: 1849, 1885
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+Man_waist cloth
+  rotate: false
+  xy: 1275, 1123
+  size: 573, 535
+  orig: 573, 535
+  offset: 0, 0
+  index: -1
+Sword back
+  rotate: false
+  xy: 1678, 1041
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+Sword effect
+  rotate: false
+  xy: 1704, 399
+  size: 219, 240
+  orig: 219, 240
+  offset: 0, 0
+  index: -1
+Sword effect back A
+  rotate: false
+  xy: 992, 113
+  size: 174, 145
+  orig: 174, 145
+  offset: 0, 0
+  index: -1
+Sword effect back B
+  rotate: false
+  xy: 300, 78
+  size: 165, 142
+  orig: 165, 142
+  offset: 0, 0
+  index: -1
+Sword effect back C
+  rotate: false
+  xy: 806, 106
+  size: 183, 164
+  orig: 183, 164
+  offset: 0, 0
+  index: -1
+Sword effect back D
+  rotate: false
+  xy: 973, 191
+  size: 266, 235
+  orig: 266, 235
+  offset: 0, 0
+  index: -1
+Sword effect_Blur
+  rotate: false
+  xy: 1452, 313
+  size: 206, 229
+  orig: 206, 229
+  offset: 0, 0
+  index: -1
+Sword effect_Top Light
+  rotate: false
+  xy: 1, 1222
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+Sword light
+  rotate: false
+  xy: 120, 1427
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Sword light dot
+  rotate: false
+  xy: 1616, 1801
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Upper Clothes
+  rotate: false
+  xy: 1036, 1660
+  size: 740, 274
+  orig: 740, 274
+  offset: 0, 0
+  index: -1
+death hand effect
+  rotate: false
+  xy: 1667, 921
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+death hand effect_Dot
+  rotate: false
+  xy: 118, 827
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+fire_009
+  rotate: false
+  xy: 1204, 1899
+  size: 36, 36
+  orig: 175, 175
+  offset: 71, 67
+  index: -1
+fire_010
+  rotate: false
+  xy: 1932, 1892
+  size: 48, 42
+  orig: 175, 175
+  offset: 64, 65
+  index: -1
+fire_012
+  rotate: false
+  xy: 1, 1444
+  size: 59, 58
+  orig: 175, 175
+  offset: 59, 58
+  index: -1
+fire_014
+  rotate: false
+  xy: 1694, 1299
+  size: 74, 68
+  orig: 175, 175
+  offset: 51, 55
+  index: -1
+fire_016
+  rotate: false
+  xy: 1369, 1035
+  size: 81, 71
+  orig: 175, 175
+  offset: 43, 58
+  index: -1
+fire_018
+  rotate: false
+  xy: 1002, 1350
+  size: 82, 78
+  orig: 175, 175
+  offset: 46, 56
+  index: -1
+fire_019
+  rotate: false
+  xy: 312, 1674
+  size: 82, 81
+  orig: 175, 175
+  offset: 46, 57
+  index: -1
+impact01_004
+  rotate: false
+  xy: 817, 57
+  size: 113, 104
+  orig: 168, 112
+  offset: 34, 0
+  index: -1
+impact01_005
+  rotate: false
+  xy: 657, 1347
+  size: 123, 112
+  orig: 168, 112
+  offset: 28, 0
+  index: -1
+impact01_006
+  rotate: false
+  xy: 537, 1444
+  size: 120, 112
+  orig: 168, 112
+  offset: 27, 0
+  index: -1
+impact02_007
+  rotate: false
+  xy: 1551, 1913
+  size: 23, 22
+  orig: 42, 28
+  offset: 10, 3
+  index: -1
+impact02_009
+  rotate: false
+  xy: 452, 1203
+  size: 51, 47
+  orig: 105, 105
+  offset: 27, 29
+  index: -1
+impact02_010
+  rotate: false
+  xy: 966, 1047
+  size: 70, 69
+  orig: 105, 105
+  offset: 17, 18
+  index: -1
+impact02_013
+  rotate: false
+  xy: 1938, 833
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+impact02_014
+  rotate: false
+  xy: 1747, 122
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+slash_002
+  rotate: false
+  xy: 889, 437
+  size: 150, 96
+  orig: 168, 112
+  offset: 0, 11
+  index: -1
+slash_004
+  rotate: false
+  xy: 509, 114
+  size: 161, 110
+  orig: 168, 112
+  offset: 0, 0
+  index: -1
+slash_006
+  rotate: false
+  xy: 1, 79
+  size: 168, 112
+  orig: 168, 112
+  offset: 0, 0
+  index: -1
+slash_008
+  rotate: false
+  xy: 1483, 104
+  size: 168, 112
+  orig: 168, 112
+  offset: 0, 0
+  index: -1
+slash_009
+  rotate: false
+  xy: 1264, 61
+  size: 158, 97
+  orig: 168, 112
+  offset: 0, 0
+  index: -1

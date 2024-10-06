@@ -1,0 +1,433 @@
+
+YuJi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armUp[L]
+  rotate: false
+  xy: 1294, 1574
+  size: 203, 291
+  orig: 203, 291
+  offset: 0, 0
+  index: -1
+armUp[R]
+  rotate: false
+  xy: 149, 1168
+  size: 182, 261
+  orig: 182, 277
+  offset: 0, 0
+  index: -1
+arm[L]
+  rotate: false
+  xy: 1580, 964
+  size: 230, 221
+  orig: 230, 221
+  offset: 0, 0
+  index: -1
+arm[R]
+  rotate: false
+  xy: 2, 272
+  size: 265, 165
+  orig: 265, 165
+  offset: 0, 0
+  index: -1
+belt[R]
+  rotate: false
+  xy: 50, 1977
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 717, 46
+  size: 397, 514
+  orig: 397, 514
+  offset: 0, 0
+  index: -1
+clothBack
+  rotate: 180
+  xy: 150, 11
+  size: 594, 666
+  orig: 594, 666
+  offset: 0, 0
+  index: -1
+dust(Vfx)
+  rotate: false
+  xy: 525, 1275
+  size: 193, 152
+  orig: 193, 152
+  offset: 0, 0
+  index: -1
+eyeClose
+  rotate: false
+  xy: 819, 1358
+  size: 123, 57
+  orig: 123, 57
+  offset: 0, 0
+  index: -1
+eyeGlow
+  rotate: false
+  xy: 657, 1960
+  size: 116, 45
+  orig: 116, 45
+  offset: 0, 0
+  index: -1
+foot[L]
+  rotate: false
+  xy: 1119, 1152
+  size: 165, 240
+  orig: 165, 240
+  offset: 0, 0
+  index: -1
+foot[R]
+  rotate: false
+  xy: 778, 1803
+  size: 206, 202
+  orig: 208, 202
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1322, 1952
+  size: 489, 53
+  orig: 489, 53
+  offset: 0, 0
+  index: -1
+hairB_B
+  rotate: false
+  xy: 2, 1929
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+hairBack
+  rotate: false
+  xy: 182, 405
+  size: 163, 125
+  orig: 163, 125
+  offset: 0, 0
+  index: -1
+hairSide[L]
+  rotate: 180
+  xy: 1807, 642
+  size: 207, 363
+  orig: 207, 367
+  offset: 0, 4
+  index: -1
+hairSide[R]
+  rotate: false
+  xy: 1583, 1687
+  size: 210, 264
+  orig: 210, 279
+  offset: 0, 15
+  index: -1
+hair[L]_A
+  rotate: false
+  xy: 1033, 276
+  size: 625, 805
+  orig: 625, 818
+  offset: 0, 0
+  index: -1
+hair[L]_B
+  rotate: false
+  xy: 1513, 1080
+  size: 417, 834
+  orig: 423, 845
+  offset: 0, 0
+  index: -1
+hair[L]_C
+  rotate: false
+  xy: 122, 423
+  size: 639, 730
+  orig: 639, 805
+  offset: 0, 61
+  index: -1
+hair[R]_A
+  rotate: 180
+  xy: 1174, 1412
+  size: 579, 593
+  orig: 579, 593
+  offset: 0, 0
+  index: -1
+hair[R]_B
+  rotate: false
+  xy: 600, 1042
+  size: 633, 731
+  orig: 633, 731
+  offset: 0, 0
+  index: -1
+hair[R]_C
+  rotate: false
+  xy: 811, 535
+  size: 307, 251
+  orig: 307, 251
+  offset: 0, 0
+  index: -1
+handBow[L]
+  rotate: false
+  xy: 2, 845
+  size: 119, 81
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+handBow[R]
+  rotate: false
+  xy: 411, 1910
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+hand[L]
+  rotate: false
+  xy: 2, 523
+  size: 720, 1482
+  orig: 720, 1482
+  offset: 0, 0
+  index: -1
+hand[R]
+  rotate: false
+  xy: 590, 8
+  size: 391, 87
+  orig: 391, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 742, 775
+  size: 433, 287
+  orig: 433, 287
+  offset: 0, 0
+  index: -1
+kneelArmor
+  rotate: false
+  xy: 622, 1608
+  size: 126, 120
+  orig: 126, 120
+  offset: 0, 0
+  index: -1
+kneelArmorBelt
+  rotate: false
+  xy: 2, 1575
+  size: 82, 36
+  orig: 93, 36
+  offset: 11, 0
+  index: -1
+legBack[R]
+  rotate: false
+  xy: 2, 1610
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+leg[L]
+  rotate: false
+  xy: 1166, 458
+  size: 401, 491
+  orig: 401, 491
+  offset: 0, 0
+  index: -1
+leg[R]
+  rotate: 180
+  xy: 987, 1242
+  size: 654, 758
+  orig: 663, 790
+  offset: 9, 32
+  index: -1
+mask_A
+  rotate: false
+  xy: 439, 1125
+  size: 234, 160
+  orig: 234, 160
+  offset: 0, 0
+  index: -1
+mask_A(Light)
+  rotate: false
+  xy: 291, 815
+  size: 234, 160
+  orig: 234, 160
+  offset: 0, 0
+  index: -1
+mask_B
+  rotate: false
+  xy: 2, 773
+  size: 125, 70
+  orig: 125, 70
+  offset: 0, 0
+  index: -1
+ribbon[L]_A
+  rotate: false
+  xy: 2, 120
+  size: 555, 531
+  orig: 555, 531
+  offset: 0, 0
+  index: -1
+ribbon[L]_B
+  rotate: true
+  xy: 1756, 202
+  size: 475, 152
+  orig: 475, 152
+  offset: 0, 0
+  index: -1
+ribbon[R]_A
+  rotate: 270
+  xy: 1861, 1163
+  size: 643, 136
+  orig: 835, 136
+  offset: 37, 0
+  index: -1
+ribbon[R]_B
+  rotate: 270
+  xy: 1619, 696
+  size: 530, 292
+  orig: 530, 292
+  offset: 0, 0
+  index: -1
+rope[L] _A
+  rotate: false
+  xy: 308, 1962
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+rope[L] _B
+  rotate: false
+  xy: 422, 1853
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+rope[R]_A
+  rotate: false
+  xy: 554, 1496
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+rope[R]_B
+  rotate: false
+  xy: 2, 1509
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+slash(Vfx)_A
+  rotate: false
+  xy: 744, 546
+  size: 229, 233
+  orig: 229, 233
+  offset: 0, 0
+  index: -1
+slash(Vfx)_B
+  rotate: false
+  xy: 711, 1513
+  size: 193, 394
+  orig: 220, 394
+  offset: 27, 0
+  index: -1
+slash(Vfx)_C
+  rotate: false
+  xy: 1020, 1465
+  size: 154, 222
+  orig: 154, 222
+  offset: 0, 0
+  index: -1
+slash(Vfx)_D
+  rotate: true
+  xy: 1655, 101
+  size: 550, 252
+  orig: 550, 252
+  offset: 0, 0
+  index: -1
+slash(Vfx)_E
+  rotate: false
+  xy: 1490, 1453
+  size: 110, 177
+  orig: 110, 177
+  offset: 0, 0
+  index: -1
+slash(Vfx)_F
+  rotate: false
+  xy: 232, 703
+  size: 253, 93
+  orig: 253, 93
+  offset: 0, 0
+  index: -1
+spin(Vfx)
+  rotate: false
+  xy: 2, 1572
+  size: 431, 433
+  orig: 431, 433
+  offset: 0, 0
+  index: -1
+sword(Vfx)
+  rotate: false
+  xy: 956, 333
+  size: 542, 1115
+  orig: 542, 1115
+  offset: 0, 0
+  index: -1
+swordSet_A
+  rotate: false
+  xy: 1052, 180
+  size: 285, 98
+  orig: 285, 98
+  offset: 0, 0
+  index: -1
+swordSet_B
+  rotate: 270
+  xy: 517, 3
+  size: 389, 235
+  orig: 389, 235
+  offset: 0, 0
+  index: -1
+swordSet_C
+  rotate: 270
+  xy: 1541, 405
+  size: 605, 445
+  orig: 605, 445
+  offset: 0, 0
+  index: -1
+swordSet_D
+  rotate: true
+  xy: 1058, 9
+  size: 228, 425
+  orig: 228, 425
+  offset: 0, 0
+  index: -1
+thigh[L]
+  rotate: false
+  xy: 886, 1234
+  size: 424, 340
+  orig: 424, 340
+  offset: 0, 0
+  index: -1
+wave(Vfx)_A
+  rotate: false
+  xy: 1422, 12
+  size: 276, 391
+  orig: 276, 391
+  offset: 0, 0
+  index: -1
+wave(Vfx)_B
+  rotate: false
+  xy: 332, 1438
+  size: 55, 158
+  orig: 55, 158
+  offset: 0, 0
+  index: -1
+wave(Vfx)_C
+  rotate: false
+  xy: 2, 928
+  size: 194, 264
+  orig: 194, 264
+  offset: 0, 0
+  index: -1
+wave(Vfx)_D
+  rotate: false
+  xy: 2, 1163
+  size: 328, 407
+  orig: 328, 407
+  offset: 0, 0
+  index: -1

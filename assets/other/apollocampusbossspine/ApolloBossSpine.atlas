@@ -1,0 +1,188 @@
+
+ApolloBossSpine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigbird_body
+  rotate: false
+  xy: 2, 740
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+bigbird_head
+  rotate: false
+  xy: 2, 1195
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+bigbird_lwing
+  rotate: false
+  xy: 177, 1340
+  size: 286, 66
+  orig: 286, 66
+  offset: 0, 0
+  index: -1
+bigbird_rwing
+  rotate: false
+  xy: 1097, 1631
+  size: 269, 68
+  orig: 269, 68
+  offset: 0, 0
+  index: -1
+lcow_backbody
+  rotate: 270
+  xy: 1412, 799
+  size: 354, 590
+  orig: 354, 590
+  offset: 0, 0
+  index: -1
+lcow_forebody
+  rotate: 270
+  xy: 584, 3
+  size: 362, 628
+  orig: 362, 628
+  offset: 0, 0
+  index: -1
+lcow_head
+  rotate: true
+  xy: 1215, 9
+  size: 265, 321
+  orig: 265, 321
+  offset: 0, 0
+  index: -1
+lcow_leye
+  rotate: false
+  xy: 2, 1974
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+lcow_reye
+  rotate: false
+  xy: 2, 1520
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+midcow_backbody
+  rotate: true
+  xy: 990, 277
+  size: 547, 927
+  orig: 547, 927
+  offset: 0, 0
+  index: -1
+midcow_forebody
+  rotate: true
+  xy: 2, 272
+  size: 565, 987
+  orig: 565, 987
+  offset: 0, 0
+  index: -1
+midcow_head
+  rotate: 270
+  xy: 1476, 1535
+  size: 402, 506
+  orig: 402, 506
+  offset: 0, 0
+  index: -1
+midcow_leye
+  rotate: false
+  xy: 2, 1637
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+midcow_reye
+  rotate: false
+  xy: 147, 1456
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+rcow_backbody
+  rotate: false
+  xy: 1630, 20
+  size: 244, 405
+  orig: 244, 405
+  offset: 0, 0
+  index: -1
+rcow_forebody
+  rotate: true
+  xy: 2, 45
+  size: 248, 432
+  orig: 248, 432
+  offset: 0, 0
+  index: -1
+rcow_head
+  rotate: false
+  xy: 2, 1328
+  size: 176, 220
+  orig: 176, 220
+  offset: 0, 0
+  index: -1
+rcow_leye
+  rotate: false
+  xy: 32, 1980
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+rcow_reye
+  rotate: false
+  xy: 37, 1645
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smallbird_body
+  rotate: false
+  xy: 2, 1556
+  size: 77, 87
+  orig: 77, 87
+  offset: 0, 0
+  index: -1
+smallbird_head
+  rotate: false
+  xy: 2, 1689
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+smallbird_lwing
+  rotate: false
+  xy: 2, 1288
+  size: 166, 39
+  orig: 166, 39
+  offset: 0, 0
+  index: -1
+smallbird_rwing
+  rotate: false
+  xy: 465, 1333
+  size: 155, 39
+  orig: 155, 39
+  offset: 0, 0
+  index: -1
+smoke_b
+  rotate: false
+  xy: 702, 1155
+  size: 1343, 475
+  orig: 1343, 475
+  offset: 0, 0
+  index: -1
+smoke_l
+  rotate: false
+  xy: 2, 1414
+  size: 1770, 595
+  orig: 1770, 595
+  offset: 0, 0
+  index: -1
+smoke_r
+  rotate: 180
+  xy: 2, 825
+  size: 1489, 513
+  orig: 1489, 513
+  offset: 0, 0
+  index: -1

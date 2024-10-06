@@ -1,0 +1,867 @@
+
+miku.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow
+  rotate: true
+  xy: 986, 1362
+  size: 218, 422
+  orig: 218, 422
+  offset: 0, 0
+  index: -1
+Sheets
+  rotate: false
+  xy: 2, 20
+  size: 268, 419
+  orig: 268, 419
+  offset: 0, 0
+  index: -1
+apple
+  rotate: true
+  xy: 1714, 271
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+apple A
+  rotate: true
+  xy: 1758, 797
+  size: 155, 169
+  orig: 155, 169
+  offset: 0, 0
+  index: -1
+apple A (Glow)
+  rotate: false
+  xy: 1096, 215
+  size: 155, 169
+  orig: 155, 169
+  offset: 0, 0
+  index: -1
+apple B
+  rotate: false
+  xy: 892, 1365
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+apple B (Glow)
+  rotate: false
+  xy: 1807, 478
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+apple C
+  rotate: false
+  xy: 1916, 472
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+apple D
+  rotate: false
+  xy: 1703, 465
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+apple light
+  rotate: false
+  xy: 1260, 911
+  size: 272, 208
+  orig: 272, 208
+  offset: 0, 0
+  index: -1
+apple light (Action)
+  rotate: false
+  xy: 1195, 724
+  size: 274, 185
+  orig: 274, 185
+  offset: 0, 0
+  index: -1
+apple parts
+  rotate: false
+  xy: 712, 465
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+b arm
+  rotate: true
+  xy: 1471, 724
+  size: 185, 59
+  orig: 185, 59
+  offset: 0, 0
+  index: -1
+b forearm
+  rotate: true
+  xy: 1637, 443
+  size: 139, 64
+  orig: 139, 64
+  offset: 0, 0
+  index: -1
+b hair
+  rotate: true
+  xy: 1929, 824
+  size: 128, 46
+  orig: 128, 46
+  offset: 0, 0
+  index: -1
+b leg
+  rotate: true
+  xy: 1211, 497
+  size: 69, 285
+  orig: 69, 285
+  offset: 0, 0
+  index: -1
+b thigh
+  rotate: false
+  xy: 875, 386
+  size: 286, 99
+  orig: 286, 99
+  offset: 0, 0
+  index: -1
+bb hair A
+  rotate: true
+  xy: 712, 959
+  size: 506, 178
+  orig: 506, 178
+  offset: 0, 0
+  index: -1
+bb hair B
+  rotate: false
+  xy: 892, 1109
+  size: 363, 251
+  orig: 363, 251
+  offset: 0, 0
+  index: -1
+bb hair C
+  rotate: false
+  xy: 1163, 386
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+bb hair D
+  rotate: false
+  xy: 572, 4
+  size: 237, 121
+  orig: 237, 121
+  offset: 0, 0
+  index: -1
+bb hair E
+  rotate: true
+  xy: 1608, 584
+  size: 140, 95
+  orig: 140, 95
+  offset: 0, 0
+  index: -1
+bb hair F
+  rotate: true
+  xy: 1847, 580
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1
+bed
+  rotate: false
+  xy: 2, 1467
+  size: 982, 579
+  orig: 982, 579
+  offset: 0, 0
+  index: -1
+bed rope
+  rotate: true
+  xy: 1532, 726
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1211, 568
+  size: 261, 154
+  orig: 261, 154
+  offset: 0, 0
+  index: -1
+body dn
+  rotate: true
+  xy: 892, 912
+  size: 195, 366
+  orig: 195, 366
+  offset: 0, 0
+  index: -1
+eye close (action)
+  rotate: false
+  xy: 1916, 408
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+eye open
+  rotate: false
+  xy: 1807, 416
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+eyebow
+  rotate: true
+  xy: 1999, 1379
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+f apple light
+  rotate: true
+  xy: 875, 239
+  size: 145, 219
+  orig: 145, 219
+  offset: 0, 0
+  index: -1
+f apple light (action)
+  rotate: true
+  xy: 1501, 344
+  size: 84, 129
+  orig: 84, 129
+  offset: 0, 0
+  index: -1
+f arm
+  rotate: true
+  xy: 1534, 834
+  size: 90, 222
+  orig: 90, 222
+  offset: 0, 0
+  index: -1
+f bed
+  rotate: true
+  xy: 986, 1709
+  size: 337, 1022
+  orig: 337, 1022
+  offset: 0, 0
+  index: -1
+f forearm
+  rotate: false
+  xy: 1732, 721
+  size: 198, 74
+  orig: 198, 74
+  offset: 0, 0
+  index: -1
+f hair A
+  rotate: false
+  xy: 885, 487
+  size: 324, 172
+  orig: 324, 172
+  offset: 0, 0
+  index: -1
+f hair B
+  rotate: true
+  xy: 362, 465
+  size: 1000, 348
+  orig: 1000, 348
+  offset: 0, 0
+  index: -1
+f hair C
+  rotate: false
+  xy: 371, 2
+  size: 199, 114
+  orig: 199, 114
+  offset: 0, 0
+  index: -1
+f hair D
+  rotate: true
+  xy: 1830, 1314
+  size: 266, 167
+  orig: 266, 167
+  offset: 0, 0
+  index: -1
+f hair E
+  rotate: true
+  xy: 272, 74
+  size: 365, 97
+  orig: 365, 97
+  offset: 0, 0
+  index: -1
+f leg
+  rotate: false
+  xy: 1761, 1204
+  size: 243, 108
+  orig: 243, 108
+  offset: 0, 0
+  index: -1
+f quilt
+  rotate: false
+  xy: 885, 661
+  size: 308, 249
+  orig: 308, 249
+  offset: 0, 0
+  index: -1
+ff hair
+  rotate: true
+  xy: 1343, 354
+  size: 141, 156
+  orig: 141, 156
+  offset: 0, 0
+  index: -1
+finger A
+  rotate: false
+  xy: 1804, 1317
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+finger B
+  rotate: true
+  xy: 2009, 1650
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+finger C
+  rotate: false
+  xy: 1790, 366
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+green petal A
+  rotate: true
+  xy: 1564, 159
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+green petal B
+  rotate: false
+  xy: 1416, 153
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+green petal C
+  rotate: true
+  xy: 1977, 879
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+green petal D
+  rotate: false
+  xy: 1488, 160
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+green petal E
+  rotate: true
+  xy: 1333, 163
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+green petal F
+  rotate: true
+  xy: 1711, 147
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+green petal G
+  rotate: false
+  xy: 1783, 145
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+green petal H
+  rotate: false
+  xy: 1388, 21
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+green petal I
+  rotate: false
+  xy: 1315, 95
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+green petal J
+  rotate: true
+  xy: 1977, 815
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+green petal K
+  rotate: false
+  xy: 272, 2
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+green petal L
+  rotate: true
+  xy: 1253, 174
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+green petal M
+  rotate: false
+  xy: 1632, 170
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+green petal N
+  rotate: false
+  xy: 1315, 18
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+green petal O
+  rotate: false
+  xy: 1846, 348
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+green petal P
+  rotate: true
+  xy: 1812, 212
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+green rose  B
+  rotate: true
+  xy: 811, 4
+  size: 166, 169
+  orig: 166, 169
+  offset: 0, 0
+  index: -1
+green rose  C
+  rotate: false
+  xy: 1488, 235
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+green rose  D
+  rotate: true
+  xy: 1474, 572
+  size: 150, 132
+  orig: 150, 132
+  offset: 0, 0
+  index: -1
+green rose  E
+  rotate: true
+  xy: 1705, 580
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+green rose  F
+  rotate: false
+  xy: 982, 3
+  size: 152, 167
+  orig: 152, 167
+  offset: 0, 0
+  index: -1
+green rose A
+  rotate: true
+  xy: 1757, 954
+  size: 151, 186
+  orig: 151, 186
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 712, 508
+  size: 449, 171
+  orig: 449, 171
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 764, 172
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+hand close (action)
+  rotate: false
+  xy: 1993, 1143
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1501, 430
+  size: 140, 134
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+lace effect
+  rotate: false
+  xy: 986, 1582
+  size: 1021, 125
+  orig: 1021, 125
+  offset: 0, 0
+  index: -1
+make up props
+  rotate: true
+  xy: 1253, 242
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+mouth close (action)
+  rotate: false
+  xy: 2005, 1073
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+pillow A
+  rotate: true
+  xy: 1945, 958
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+pillow B
+  rotate: true
+  xy: 1616, 236
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+pillow C
+  rotate: true
+  xy: 1257, 1121
+  size: 239, 209
+  orig: 239, 209
+  offset: 0, 0
+  index: -1
+pillow D
+  rotate: true
+  xy: 1468, 1157
+  size: 214, 291
+  orig: 214, 291
+  offset: 0, 0
+  index: -1
+pillow E
+  rotate: true
+  xy: 1534, 926
+  size: 229, 221
+  orig: 229, 221
+  offset: 0, 0
+  index: -1
+pillow F
+  rotate: true
+  xy: 1334, 232
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+pillow bow
+  rotate: true
+  xy: 1999, 1518
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+pillow rope
+  rotate: true
+  xy: 875, 172
+  size: 65, 206
+  orig: 65, 206
+  offset: 0, 0
+  index: -1
+quilt
+  rotate: true
+  xy: 2, 441
+  size: 1024, 358
+  orig: 1024, 358
+  offset: 0, 0
+  index: -1
+red petal A
+  rotate: true
+  xy: 1999, 1471
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+red petal B
+  rotate: true
+  xy: 1468, 1121
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+red petal C
+  rotate: true
+  xy: 1929, 797
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+red petal D
+  rotate: true
+  xy: 1732, 805
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+red petal E
+  rotate: true
+  xy: 2, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+red petal F
+  rotate: true
+  xy: 36, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+red petal G
+  rotate: false
+  xy: 2005, 1049
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+red petal H
+  rotate: true
+  xy: 1999, 1331
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+red petal I
+  rotate: true
+  xy: 2006, 1298
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+red petal J
+  rotate: false
+  xy: 91, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+red petal K
+  rotate: true
+  xy: 64, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+red petal L
+  rotate: true
+  xy: 2009, 1629
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+red petal M
+  rotate: false
+  xy: 1869, 314
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+red petal N
+  rotate: true
+  xy: 843, 198
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+red petal O
+  rotate: false
+  xy: 764, 132
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+red petal P
+  rotate: false
+  xy: 1083, 172
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+red petal Q
+  rotate: true
+  xy: 1761, 1314
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+red petal R
+  rotate: false
+  xy: 2010, 1984
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+red petal S
+  rotate: false
+  xy: 1993, 1107
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+red petal T
+  rotate: false
+  xy: 1195, 694
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+red petal U
+  rotate: false
+  xy: 2028, 785
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+red petal V
+  rotate: false
+  xy: 1790, 433
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+red petal X
+  rotate: false
+  xy: 1195, 670
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+red petal Y
+  rotate: true
+  xy: 2010, 1962
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+red petal Z
+  rotate: false
+  xy: 1987, 383
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+rose A
+  rotate: false
+  xy: 1240, 16
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+rose B
+  rotate: false
+  xy: 1915, 340
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+rose C
+  rotate: false
+  xy: 1240, 94
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+rose D
+  rotate: false
+  xy: 1802, 279
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+rose E
+  rotate: true
+  xy: 1398, 94
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+rose F
+  rotate: false
+  xy: 1632, 344
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+rose G
+  rotate: false
+  xy: 1710, 363
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+side hair
+  rotate: false
+  xy: 1714, 211
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+thorn A
+  rotate: false
+  xy: 764, 223
+  size: 109, 283
+  orig: 109, 283
+  offset: 0, 0
+  index: -1
+thorn B
+  rotate: true
+  xy: 371, 118
+  size: 345, 191
+  orig: 345, 191
+  offset: 0, 0
+  index: -1
+thorn C
+  rotate: true
+  xy: 564, 127
+  size: 336, 198
+  orig: 336, 198
+  offset: 0, 0
+  index: -1
+thorn D
+  rotate: false
+  xy: 1410, 1373
+  size: 418, 207
+  orig: 418, 207
+  offset: 0, 0
+  index: -1
+thorn E
+  rotate: false
+  xy: 1761, 1107
+  size: 230, 95
+  orig: 230, 95
+  offset: 0, 0
+  index: -1
+thorn F
+  rotate: true
+  xy: 1136, 15
+  size: 198, 102
+  orig: 198, 102
+  offset: 0, 0
+  index: -1

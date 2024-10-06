@@ -1,0 +1,391 @@
+
+1837.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack_A
+  rotate: true
+  xy: 1368, 619
+  size: 149, 146
+  orig: 149, 146
+  offset: 0, 0
+  index: -1
+Attack_A_white
+  rotate: false
+  xy: 1368, 471
+  size: 149, 146
+  orig: 149, 146
+  offset: 0, 0
+  index: -1
+Attack_B
+  rotate: true
+  xy: 1668, 1287
+  size: 179, 161
+  orig: 179, 161
+  offset: 0, 0
+  index: -1
+Attack_B_white
+  rotate: false
+  xy: 1138, 29
+  size: 179, 161
+  orig: 179, 161
+  offset: 0, 0
+  index: -1
+Attack_C
+  rotate: false
+  xy: 1831, 1206
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+Attack_C_White
+  rotate: true
+  xy: 1345, 770
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+BIG_CIRCLE
+  rotate: false
+  xy: 826, 43
+  size: 310, 313
+  orig: 310, 313
+  offset: 0, 0
+  index: -1
+Back_stroke
+  rotate: true
+  xy: 2, 580
+  size: 584, 362
+  orig: 584, 362
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 1519, 512
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+Ball_A
+  rotate: false
+  xy: 1623, 1210
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+Ball_B
+  rotate: false
+  xy: 1994, 1305
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Ball_C
+  rotate: true
+  xy: 768, 668
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Ball_D
+  rotate: false
+  xy: 1369, 1319
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Ball_E
+  rotate: true
+  xy: 1788, 1492
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Ball_F
+  rotate: false
+  xy: 390, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Ball_G
+  rotate: false
+  xy: 1516, 677
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+Ball_H
+  rotate: true
+  xy: 1982, 1651
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1776, 1731
+  size: 246, 315
+  orig: 246, 315
+  offset: 0, 0
+  index: -1
+Bottle_Fx
+  rotate: true
+  xy: 1128, 382
+  size: 98, 154
+  orig: 98, 154
+  offset: 0, 0
+  index: -1
+Center_blur
+  rotate: false
+  xy: 2, 1589
+  size: 665, 457
+  orig: 665, 457
+  offset: 0, 0
+  index: -1
+Glow_Hammer
+  rotate: false
+  xy: 390, 182
+  size: 434, 479
+  orig: 434, 479
+  offset: 0, 0
+  index: -1
+Glow_L_hand_shield
+  rotate: false
+  xy: 1169, 722
+  size: 174, 209
+  orig: 174, 209
+  offset: 0, 0
+  index: -1
+Glow_R_hand_forth_thing
+  rotate: true
+  xy: 826, 358
+  size: 376, 300
+  orig: 376, 300
+  offset: 0, 0
+  index: -1
+Glow_R_hand_third_things
+  rotate: false
+  xy: 1788, 1556
+  size: 192, 173
+  orig: 192, 173
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: true
+  xy: 669, 1189
+  size: 434, 479
+  orig: 434, 479
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1649, 1468
+  size: 137, 190
+  orig: 137, 190
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 669, 1625
+  size: 421, 544
+  orig: 421, 544
+  offset: 0, 0
+  index: -1
+L_back_hair
+  rotate: true
+  xy: 1538, 940
+  size: 216, 98
+  orig: 216, 98
+  offset: 0, 0
+  index: -1
+L_back_hair_under
+  rotate: true
+  xy: 1138, 192
+  size: 188, 149
+  orig: 188, 149
+  offset: 0, 0
+  index: -1
+L_ear_ring
+  rotate: false
+  xy: 1215, 1633
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+L_front_hair
+  rotate: false
+  xy: 1516, 620
+  size: 125, 55
+  orig: 125, 55
+  offset: 0, 0
+  index: -1
+L_hand_main
+  rotate: false
+  xy: 1501, 781
+  size: 135, 157
+  orig: 135, 157
+  offset: 0, 0
+  index: -1
+L_hand_main_fist
+  rotate: false
+  xy: 568, 1170
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+L_hand_main_under
+  rotate: false
+  xy: 1994, 1266
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+L_hand_sceond
+  rotate: false
+  xy: 1385, 1467
+  size: 262, 191
+  orig: 262, 191
+  offset: 0, 0
+  index: -1
+L_hand_shield
+  rotate: false
+  xy: 1362, 947
+  size: 174, 209
+  orig: 174, 209
+  offset: 0, 0
+  index: -1
+L_hand_shield_all
+  rotate: false
+  xy: 1385, 1298
+  size: 281, 167
+  orig: 281, 167
+  offset: 0, 0
+  index: -1
+L_hand_third
+  rotate: false
+  xy: 1290, 499
+  size: 76, 221
+  orig: 76, 221
+  offset: 0, 0
+  index: -1
+OUT_TEXT
+  rotate: true
+  xy: 768, 736
+  size: 451, 399
+  orig: 451, 399
+  offset: 0, 0
+  index: -1
+Outside_BLUE_FX
+  rotate: false
+  xy: 2, 1166
+  size: 564, 421
+  orig: 564, 421
+  offset: 0, 0
+  index: -1
+R_Ear_ring
+  rotate: true
+  xy: 651, 1166
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+R_back_hair
+  rotate: false
+  xy: 1150, 1189
+  size: 217, 144
+  orig: 217, 144
+  offset: 0, 0
+  index: -1
+R_back_hair_under
+  rotate: false
+  xy: 709, 32
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+R_corner_Fx
+  rotate: false
+  xy: 1169, 933
+  size: 191, 254
+  orig: 191, 254
+  offset: 0, 0
+  index: -1
+R_hand_forth_thing
+  rotate: true
+  xy: 366, 663
+  size: 501, 400
+  orig: 501, 400
+  offset: 0, 0
+  index: -1
+R_hand_main
+  rotate: true
+  xy: 1369, 1158
+  size: 138, 252
+  orig: 138, 252
+  offset: 0, 0
+  index: -1
+R_hand_main_Under
+  rotate: false
+  xy: 825, 2
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+R_hand_second
+  rotate: false
+  xy: 390, 32
+  size: 317, 148
+  orig: 317, 148
+  offset: 0, 0
+  index: -1
+R_hand_third
+  rotate: true
+  xy: 568, 1265
+  size: 322, 82
+  orig: 322, 82
+  offset: 0, 0
+  index: -1
+R_hand_third_thing
+  rotate: true
+  xy: 1831, 1362
+  size: 192, 173
+  orig: 192, 173
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1150, 1335
+  size: 233, 288
+  orig: 233, 288
+  offset: 0, 0
+  index: -1
+attack_D
+  rotate: true
+  xy: 1519, 433
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+effect01
+  rotate: false
+  xy: 1215, 1660
+  size: 559, 386
+  orig: 559, 386
+  offset: 0, 0
+  index: -1
+effect01 copy
+  rotate: true
+  xy: 2, 19
+  size: 559, 386
+  orig: 559, 386
+  offset: 0, 0
+  index: -1
+under
+  rotate: true
+  xy: 1128, 482
+  size: 238, 160
+  orig: 238, 160
+  offset: 0, 0
+  index: -1

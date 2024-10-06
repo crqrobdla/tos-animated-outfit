@@ -1,0 +1,433 @@
+
+1939_V1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box_B
+  rotate: false
+  xy: 1114, 265
+  size: 347, 248
+  orig: 347, 248
+  offset: 0, 0
+  index: -1
+Box_F
+  rotate: false
+  xy: 2, 26
+  size: 477, 386
+  orig: 477, 386
+  offset: 0, 0
+  index: -1
+Cat_Bhand
+  rotate: false
+  xy: 1436, 82
+  size: 47, 147
+  orig: 47, 147
+  offset: 0, 0
+  index: -1
+Cat_Fhand
+  rotate: true
+  xy: 773, 2
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+Cat_arm
+  rotate: false
+  xy: 1962, 555
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+Cat_body
+  rotate: true
+  xy: 1641, 258
+  size: 119, 196
+  orig: 119, 196
+  offset: 0, 0
+  index: -1
+CloakB_2
+  rotate: true
+  xy: 1611, 865
+  size: 344, 278
+  orig: 344, 278
+  offset: 0, 0
+  index: -1
+Cloak_1
+  rotate: false
+  xy: 1101, 1704
+  size: 733, 342
+  orig: 733, 342
+  offset: 0, 0
+  index: -1
+Cloak_3
+  rotate: false
+  xy: 2, 1605
+  size: 1097, 441
+  orig: 1097, 441
+  offset: 0, 0
+  index: -1
+Effect_Eye
+  rotate: false
+  xy: 941, 10
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1635, 379
+  size: 151, 170
+  orig: 151, 170
+  offset: 0, 0
+  index: -1
+Girl_Larm1
+  rotate: true
+  xy: 1891, 900
+  size: 388, 152
+  orig: 388, 152
+  offset: 0, 0
+  index: -1
+Girl_Larm2
+  rotate: false
+  xy: 1114, 515
+  size: 344, 364
+  orig: 344, 364
+  offset: 0, 0
+  index: -1
+Girl_Rarm3
+  rotate: true
+  xy: 1866, 361
+  size: 171, 113
+  orig: 171, 113
+  offset: 0, 0
+  index: -1
+Girl_Rleg
+  rotate: true
+  xy: 1460, 550
+  size: 329, 144
+  orig: 329, 144
+  offset: 0, 0
+  index: -1
+Girl_body_down
+  rotate: true
+  xy: 1625, 1211
+  size: 491, 249
+  orig: 491, 249
+  offset: 0, 0
+  index: -1
+Girl_body_up
+  rotate: true
+  xy: 1606, 551
+  size: 312, 258
+  orig: 312, 258
+  offset: 0, 0
+  index: -1
+Girl_eys_close
+  rotate: false
+  xy: 834, 632
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Girl_eys_open
+  rotate: false
+  xy: 974, 873
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Girl_mouth_close
+  rotate: false
+  xy: 1891, 877
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+Girl_mouth_open
+  rotate: false
+  xy: 876, 17
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Girl_tail1
+  rotate: true
+  xy: 335, 423
+  size: 185, 113
+  orig: 185, 113
+  offset: 0, 0
+  index: -1
+Girl_tail2
+  rotate: false
+  xy: 1788, 413
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+Girl_tailhair
+  rotate: false
+  xy: 1463, 270
+  size: 176, 99
+  orig: 176, 99
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 834, 677
+  size: 182, 189
+  orig: 182, 189
+  offset: 0, 0
+  index: -1
+Hair_B_1
+  rotate: false
+  xy: 1996, 1864
+  size: 34, 182
+  orig: 34, 182
+  offset: 0, 0
+  index: -1
+Hair_F
+  rotate: false
+  xy: 623, 632
+  size: 209, 217
+  orig: 209, 217
+  offset: 0, 0
+  index: -1
+Hair_F _1
+  rotate: false
+  xy: 1463, 371
+  size: 170, 177
+  orig: 170, 177
+  offset: 0, 0
+  index: -1
+Hair_F _2
+  rotate: true
+  xy: 1018, 739
+  size: 173, 80
+  orig: 173, 80
+  offset: 0, 0
+  index: -1
+Hair_F _3
+  rotate: false
+  xy: 481, 4
+  size: 214, 61
+  orig: 214, 61
+  offset: 0, 0
+  index: -1
+Hair_Ltail
+  rotate: false
+  xy: 1112, 1287
+  size: 511, 415
+  orig: 511, 415
+  offset: 0, 0
+  index: -1
+Hair_Rtail
+  rotate: false
+  xy: 817, 227
+  size: 295, 403
+  orig: 295, 403
+  offset: 0, 0
+  index: -1
+Light_B1
+  rotate: false
+  xy: 450, 579
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Light_G1
+  rotate: true
+  xy: 874, 634
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+Light_G2
+  rotate: false
+  xy: 1996, 1835
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Light_G3
+  rotate: false
+  xy: 943, 639
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Light_Ribbon1
+  rotate: true
+  xy: 1836, 1704
+  size: 342, 158
+  orig: 342, 158
+  offset: 0, 0
+  index: -1
+Light_Ribbon2
+  rotate: true
+  xy: 1222, 79
+  size: 150, 212
+  orig: 150, 212
+  offset: 0, 0
+  index: -1
+Light_W1
+  rotate: false
+  xy: 450, 548
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Light_Y1
+  rotate: false
+  xy: 1788, 386
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Light_Y2
+  rotate: true
+  xy: 2032, 2012
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+Light_Y3
+  rotate: false
+  xy: 1101, 1696
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+Light_Y4
+  rotate: false
+  xy: 335, 414
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Light_Y5
+  rotate: true
+  xy: 623, 610
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Light_Y6
+  rotate: false
+  xy: 450, 517
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Light_Y7
+  rotate: false
+  xy: 817, 4
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Mcat_body1
+  rotate: true
+  xy: 1112, 881
+  size: 404, 497
+  orig: 404, 497
+  offset: 0, 0
+  index: -1
+Mcat_body2
+  rotate: true
+  xy: 817, 63
+  size: 162, 403
+  orig: 162, 403
+  offset: 0, 0
+  index: -1
+STAR
+  rotate: false
+  xy: 1018, 684
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+S_CloakB_1
+  rotate: true
+  xy: 1962, 608
+  size: 290, 74
+  orig: 290, 74
+  offset: 0, 0
+  index: -1
+S_Cloak_2
+  rotate: true
+  xy: 2, 414
+  size: 1189, 331
+  orig: 1189, 331
+  offset: 0, 0
+  index: -1
+S_Girl_Lleg
+  rotate: true
+  xy: 335, 610
+  size: 993, 286
+  orig: 993, 286
+  offset: 0, 0
+  index: -1
+S_Girl_Rarm1
+  rotate: true
+  xy: 1866, 534
+  size: 329, 94
+  orig: 329, 94
+  offset: 0, 0
+  index: -1
+S_Girl_Rarm2
+  rotate: true
+  xy: 1876, 1290
+  size: 412, 154
+  orig: 412, 154
+  offset: 0, 0
+  index: -1
+S_Ribbon
+  rotate: false
+  xy: 1114, 231
+  size: 360, 32
+  orig: 360, 32
+  offset: 0, 0
+  index: -1
+Tube_1
+  rotate: false
+  xy: 812, 868
+  size: 160, 735
+  orig: 160, 735
+  offset: 0, 0
+  index: -1
+Tube_2
+  rotate: true
+  xy: 974, 914
+  size: 689, 136
+  orig: 689, 136
+  offset: 0, 0
+  index: -1
+Tube_3
+  rotate: true
+  xy: 623, 851
+  size: 752, 187
+  orig: 752, 187
+  offset: 0, 0
+  index: -1
+Tube_head
+  rotate: true
+  xy: 481, 67
+  size: 541, 334
+  orig: 541, 334
+  offset: 0, 0
+  index: -1
+scarf_1
+  rotate: false
+  xy: 697, 2
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+scarf_2
+  rotate: false
+  xy: 1839, 232
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1

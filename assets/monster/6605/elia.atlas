@@ -1,0 +1,41 @@
+
+elia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_effect
+  rotate: false
+  xy: 773, 378
+  size: 1238, 763
+  orig: 1238, 763
+  offset: 0, 0
+  index: -1
+effect_texture
+  rotate: false
+  xy: 632, 3
+  size: 286, 274
+  orig: 286, 274
+  offset: 0, 0
+  index: -1
+front_effect
+  rotate: false
+  xy: 1, 1124
+  size: 1073, 838
+  orig: 1073, 838
+  offset: 0, 0
+  index: -1
+lighning
+  rotate: true
+  xy: 1, 2
+  size: 1120, 629
+  orig: 1120, 629
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 1075, 1143
+  size: 941, 819
+  orig: 941, 819
+  offset: 0, 0
+  index: -1

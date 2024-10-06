@@ -1,0 +1,76 @@
+
+veginia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: 270
+  xy: 1268, 438
+  size: 632, 517
+  orig: 632, 517
+  offset: 0, 0
+  index: -1
+bg_effect
+  rotate: 270
+  xy: 977, 297
+  size: 948, 364
+  orig: 948, 364
+  offset: 0, 0
+  index: -1
+effect_texture
+  rotate: false
+  xy: 1, 1450
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+fronteffect
+  rotate: false
+  xy: 1, 187
+  size: 973, 457
+  orig: 973, 457
+  offset: 0, 0
+  index: -1
+fronteffect_over
+  rotate: false
+  xy: 1, 646
+  size: 974, 457
+  orig: 974, 457
+  offset: 0, 0
+  index: -1
+light_effect
+  rotate: false
+  xy: 976, 3
+  size: 848, 292
+  orig: 848, 292
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 1017, 1357
+  size: 564, 660
+  orig: 564, 660
+  offset: 0, 0
+  index: -1
+stage
+  rotate: false
+  xy: 1, 1567
+  size: 1014, 449
+  orig: 1018, 506
+  offset: 1, 1
+  index: -1
+stage_effect
+  rotate: false
+  xy: 1, 1104
+  size: 1048, 462
+  orig: 1048, 462
+  offset: 0, 0
+  index: -1
+star_effect
+  rotate: 270
+  xy: 1583, 1219
+  size: 798, 314
+  orig: 798, 314
+  offset: 0, 0
+  index: -1

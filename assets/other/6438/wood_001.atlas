@@ -1,0 +1,132 @@
+
+wood_001.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_effect_00
+  rotate: false
+  xy: 1, 283
+  size: 956, 87
+  orig: 956, 87
+  offset: 0, 0
+  index: -1
+attack_effect_01
+  rotate: false
+  xy: 1, 372
+  size: 1157, 146
+  orig: 1157, 146
+  offset: 0, 0
+  index: -1
+attack_effect_02
+  rotate: false
+  xy: 948, 922
+  size: 929, 198
+  orig: 929, 198
+  offset: 0, 0
+  index: -1
+attack_effect_03
+  rotate: false
+  xy: 257, 615
+  size: 469, 211
+  orig: 469, 211
+  offset: 0, 0
+  index: -1
+attack_effect_04
+  rotate: false
+  xy: 465, 181
+  size: 312, 100
+  orig: 312, 100
+  offset: 0, 0
+  index: -1
+charge01
+  rotate: false
+  xy: 1768, 448
+  size: 278, 400
+  orig: 278, 400
+  offset: 0, 0
+  index: -1
+charge02
+  rotate: true
+  xy: 1, 2
+  size: 278, 400
+  orig: 278, 400
+  offset: 0, 0
+  index: -1
+charge03
+  rotate: 180
+  xy: 1061, 28
+  size: 400, 278
+  orig: 400, 278
+  offset: 0, 0
+  index: -1
+charge04
+  rotate: false
+  xy: 394, 2
+  size: 400, 278
+  orig: 400, 278
+  offset: 0, 0
+  index: -1
+head
+  rotate: 270
+  xy: 943, 1122
+  size: 599, 676
+  orig: 770, 762
+  offset: 43, 0
+  index: -1
+head_charged
+  rotate: true
+  xy: 1355, 1122
+  size: 599, 676
+  orig: 770, 762
+  offset: 43, 0
+  index: -1
+tentacle01
+  rotate: 180
+  xy: 1267, 275
+  size: 359, 404
+  orig: 359, 404
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 1, 1153
+  size: 1074, 566
+  orig: 1074, 566
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: 180
+  xy: 209, 828
+  size: 737, 627
+  orig: 737, 627
+  offset: 0, 0
+  index: -1
+tentacle04
+  rotate: true
+  xy: 1267, 406
+  size: 515, 651
+  orig: 515, 651
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: true
+  xy: 848, 36
+  size: 333, 498
+  orig: 333, 498
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: true
+  xy: 1513, 38
+  size: 408, 533
+  orig: 408, 533
+  offset: 0, 0
+  index: -1
+wood_effect
+  rotate: true
+  xy: 833, 520
+  size: 400, 432
+  orig: 400, 432
+  offset: 0, 0
+  index: -1

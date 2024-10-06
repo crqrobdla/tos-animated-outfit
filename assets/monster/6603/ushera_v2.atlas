@@ -1,0 +1,76 @@
+
+ushera_v2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1187
+  size: 1159, 769
+  orig: 1159, 769
+  offset: 0, 0
+  index: -1
+char
+  rotate: false
+  xy: 133, 3
+  size: 641, 650
+  orig: 641, 650
+  offset: 0, 0
+  index: -1
+effect_behind
+  rotate: false
+  xy: 776, 26
+  size: 648, 466
+  orig: 648, 466
+  offset: 0, 0
+  index: -1
+effect_front
+  rotate: true
+  xy: 1591, 33
+  size: 446, 271
+  orig: 446, 271
+  offset: 0, 0
+  index: -1
+effect_texture
+  rotate: false
+  xy: 1, 328
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: -1
+frontlight
+  rotate: false
+  xy: 1172, 552
+  size: 448, 271
+  orig: 448, 271
+  offset: 0, 0
+  index: -1
+heart
+  rotate: 270
+  xy: 1667, 1256
+  size: 240, 255
+  orig: 240, 255
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: 270
+  xy: 1172, 824
+  size: 1133, 659
+  orig: 1133, 659
+  offset: 0, 0
+  index: -1
+leavesontop
+  rotate: false
+  xy: 1, 494
+  size: 1169, 691
+  orig: 1169, 691
+  offset: 0, 0
+  index: -1
+wings
+  rotate: true
+  xy: 1400, 74
+  size: 431, 201
+  orig: 431, 201
+  offset: 0, 0
+  index: -1

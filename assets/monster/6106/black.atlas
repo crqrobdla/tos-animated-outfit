@@ -1,0 +1,307 @@
+
+black.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_lazar_ball
+  rotate: false
+  xy: 813, 40
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+11_lazar_ball_back
+  rotate: false
+  xy: 1137, 1032
+  size: 403, 144
+  orig: 403, 144
+  offset: 0, 0
+  index: -1
+12_lightning_A
+  rotate: true
+  xy: 1612, 1415
+  size: 237, 271
+  orig: 237, 271
+  offset: 0, 0
+  index: -1
+13_lightning_B
+  rotate: false
+  xy: 1853, 957
+  size: 167, 194
+  orig: 167, 194
+  offset: 0, 0
+  index: -1
+14_lightning_C
+  rotate: true
+  xy: 1885, 1456
+  size: 206, 127
+  orig: 206, 127
+  offset: 0, 0
+  index: -1
+15_L_Fea_A
+  rotate: false
+  xy: 2, 989
+  size: 887, 576
+  orig: 887, 576
+  offset: 0, 0
+  index: -1
+16_L_Fea_B_Front
+  rotate: false
+  xy: 1542, 1014
+  size: 309, 134
+  orig: 309, 134
+  offset: 0, 0
+  index: -1
+17_L_white_tape
+  rotate: false
+  xy: 2, 32
+  size: 446, 103
+  orig: 446, 103
+  offset: 0, 0
+  index: -1
+18_Hair_E
+  rotate: false
+  xy: 1885, 1416
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+19_Hair_B
+  rotate: false
+  xy: 1134, 839
+  size: 110, 188
+  orig: 110, 188
+  offset: 0, 0
+  index: -1
+1_Feather_Grp_F
+  rotate: false
+  xy: 1138, 373
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+20_L_elbow
+  rotate: false
+  xy: 2, 563
+  size: 587, 424
+  orig: 587, 424
+  offset: 0, 0
+  index: -1
+21_L_Finger
+  rotate: false
+  xy: 1536, 903
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+22_L_elbow_back
+  rotate: false
+  xy: 2, 137
+  size: 587, 424
+  orig: 587, 424
+  offset: 0, 0
+  index: -1
+23_Layer 102
+  rotate: false
+  xy: 1246, 723
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+24_Layer 101
+  rotate: true
+  xy: 943, 28
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+25_M_Fea
+  rotate: false
+  xy: 1111, 1654
+  size: 740, 392
+  orig: 740, 392
+  offset: 0, 0
+  index: -1
+26_Hair_C
+  rotate: false
+  xy: 1853, 1664
+  size: 161, 218
+  orig: 161, 218
+  offset: 0, 0
+  index: -1
+27_Body
+  rotate: false
+  xy: 1246, 882
+  size: 167, 148
+  orig: 167, 148
+  offset: 0, 0
+  index: -1
+28_Leg
+  rotate: false
+  xy: 2, 1567
+  size: 1107, 479
+  orig: 1107, 479
+  offset: 0, 0
+  index: -1
+29_head
+  rotate: true
+  xy: 450, 2
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1
+2_Feather_Grp_G
+  rotate: false
+  xy: 1138, 272
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+30_Hair_A
+  rotate: false
+  xy: 1134, 468
+  size: 110, 182
+  orig: 110, 182
+  offset: 0, 0
+  index: -1
+31_Hair_F
+  rotate: true
+  xy: 891, 998
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+32_R_Fea_B
+  rotate: false
+  xy: 591, 440
+  size: 366, 547
+  orig: 366, 547
+  offset: 0, 0
+  index: -1
+33_R_Fea_A
+  rotate: true
+  xy: 591, 155
+  size: 283, 343
+  orig: 283, 343
+  offset: 0, 0
+  index: -1
+34_R_white_tape
+  rotate: true
+  xy: 1536, 959
+  size: 53, 145
+  orig: 53, 145
+  offset: 0, 0
+  index: -1
+35_R_hand
+  rotate: false
+  xy: 1818, 1153
+  size: 200, 260
+  orig: 200, 260
+  offset: 0, 0
+  index: -1
+36_R_finger
+  rotate: true
+  xy: 538, 39
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+37_R_hand_back
+  rotate: false
+  xy: 936, 178
+  size: 200, 260
+  orig: 200, 260
+  offset: 0, 0
+  index: -1
+38_R_Fea_C
+  rotate: false
+  xy: 1137, 1437
+  size: 473, 215
+  orig: 473, 215
+  offset: 0, 0
+  index: -1
+39_Hair_D
+  rotate: false
+  xy: 1137, 1178
+  size: 408, 257
+  orig: 408, 257
+  offset: 0, 0
+  index: -1
+3_Feather_Grp_H
+  rotate: true
+  xy: 1235, 382
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+40_L_hand
+  rotate: false
+  xy: 1246, 468
+  size: 121, 79
+  orig: 121, 79
+  offset: 0, 0
+  index: -1
+41_Back_Hair
+  rotate: true
+  xy: 959, 453
+  size: 574, 173
+  orig: 574, 173
+  offset: 0, 0
+  index: -1
+42_Back_Hand
+  rotate: false
+  xy: 1415, 893
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+43_L_Fea_B_Back
+  rotate: true
+  xy: 891, 1029
+  size: 536, 244
+  orig: 536, 244
+  offset: 0, 0
+  index: -1
+4_Feather_Grp_I
+  rotate: true
+  xy: 1138, 171
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+5_Feather_Grp_A
+  rotate: false
+  xy: 591, 40
+  size: 220, 113
+  orig: 220, 113
+  offset: 0, 0
+  index: -1
+6_Feather_Grp_B
+  rotate: true
+  xy: 1246, 549
+  size: 172, 134
+  orig: 172, 134
+  offset: 0, 0
+  index: -1
+7_Feather_Grp_C
+  rotate: false
+  xy: 1853, 1884
+  size: 193, 162
+  orig: 193, 162
+  offset: 0, 0
+  index: -1
+8_Feather_Grp_D
+  rotate: true
+  xy: 1134, 652
+  size: 185, 110
+  orig: 185, 110
+  offset: 0, 0
+  index: -1
+9_Feather_Grp_E
+  rotate: true
+  xy: 1547, 1150
+  size: 263, 269
+  orig: 263, 269
+  offset: 0, 0
+  index: -1

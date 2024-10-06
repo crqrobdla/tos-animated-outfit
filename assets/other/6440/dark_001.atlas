@@ -1,0 +1,97 @@
+
+dark_001.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_effect1
+  rotate: true
+  xy: 678, 1058
+  size: 624, 812
+  orig: 1125, 812
+  offset: 219, 0
+  index: -1
+attack_effect2
+  rotate: false
+  xy: 1492, 1230
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+attack_effect3
+  rotate: false
+  xy: 1440, 788
+  size: 450, 440
+  orig: 450, 440
+  offset: 0, 0
+  index: -1
+attack_effect4
+  rotate: false
+  xy: 567, 636
+  size: 450, 440
+  orig: 450, 440
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 619, 1547
+  size: 121, 134
+  orig: 121, 134
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 1248, 950
+  size: 190, 194
+  orig: 190, 194
+  offset: 0, 0
+  index: -1
+head_lower
+  rotate: false
+  xy: 375, 269
+  size: 392, 365
+  orig: 392, 365
+  offset: 0, 0
+  index: -1
+head_upper
+  rotate: false
+  xy: 1, 1010
+  size: 675, 671
+  orig: 675, 671
+  offset: 0, 0
+  index: -1
+tentacle1
+  rotate: 270
+  xy: 588, 2
+  size: 395, 536
+  orig: 395, 536
+  offset: 0, 0
+  index: -1
+tentacle2
+  rotate: true
+  xy: 1, 160
+  size: 281, 466
+  orig: 281, 466
+  offset: 0, 0
+  index: -1
+tentacle3
+  rotate: false
+  xy: 1, 289
+  size: 438, 719
+  orig: 438, 719
+  offset: 0, 0
+  index: -1
+tentacle4
+  rotate: true
+  xy: 769, 187
+  size: 305, 1078
+  orig: 305, 1078
+  offset: 0, 0
+  index: -1
+tentacle5
+  rotate: 270
+  xy: 1107, 319
+  size: 597, 887
+  orig: 959, 1420
+  offset: 187, 0
+  index: -1
