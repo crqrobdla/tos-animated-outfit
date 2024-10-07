@@ -54,6 +54,7 @@ body {
 .gif-image {
     max-height: 200px;
     width: auto;
+	padding-bottom: 10px;
 }
 
 /* 側邊選單 */
@@ -71,7 +72,7 @@ body {
 }
 
 #sidebar.open {
-    width: 250px;
+    width: 200px;
 }
 
 #sidebar a {
@@ -105,4 +106,14 @@ body {
 /* 點擊時背景變淡藍色 */
 .title-active {
     background-color: #add8e6;
+}
+
+#copyright-text {
+	position: fixed;
+	bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    text-align: center;
+    font-size: 14px;
+    color: #333;
 }
