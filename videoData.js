@@ -60,114 +60,114 @@ const videoData = {
         ],
         skeleton: [{
                 title: "Idle",
-                url: "./animation/video/skeleton/Idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/skeleton/Idle.mov"
             }, {
                 title: "Attack",
-                url: "./animation/video/skeleton/Attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/skeleton/Attack.mov"
             }
         ],
         PROMETHEUS: [{
                 title: "idle",
-                url: "./animation/video/PROMETHEUS/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/PROMETHEUS/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/PROMETHEUS/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/PROMETHEUS/attack.mov"
             }
         ],
         ChiYou: [{
                 title: "idle",
-                url: "./animation/video/ChiYou/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/ChiYou/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/ChiYou/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/ChiYou/attack.mov"
             }
         ],
         poon: [{
                 title: "idle",
-                url: "./animation/video/poon/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/poon/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/poon/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/poon/attack.mov"
             }
         ],
         QingGui: [{
                 title: "Idle",
-                url: "./animation/video/QingGui/Idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/QingGui/Idle.mov"
             }, {
                 title: "Attack",
-                url: "./animation/video/QingGui/Attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/QingGui/Attack.mov"
             }
         ],
         Montana: [{
                 title: "idle",
-                url: "./animation/video/Montana/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Montana/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/Montana/attack_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Montana/attack_crop.mov"
             }
         ],
         Scáthach: [{
                 title: "Idle",
-                url: "./animation/video/Scáthach/Idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Scáthach/Idle.mov"
             }, {
                 title: "Attack",
-                url: "./animation/video/Scáthach/Attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Scáthach/Attack.mov"
             }
         ],
         HJJ: [{
                 title: "idle",
-                url: "./animation/video/HJJ/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/HJJ/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/HJJ/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/HJJ/attack.mov"
             }
         ],
         pandora: [{
                 title: "idle",
-                url: "./animation/video/pandora/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/pandora/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/pandora/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/pandora/attack.mov"
             }
         ],
         sodom: [{
                 title: "idle",
-                url: "./animation/video/sodom/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/sodom/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/sodom/attack_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/sodom/attack_crop.mov"
             }
         ],
         Luker: [{
                 title: "idle",
-                url: "./animation/video/Luker/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Luker/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/Luker/attack_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Luker/attack_crop.mov"
             }
         ],
         Vatican1: [{
                 title: "idle",
-                url: "./animation/video/Vatican1/idle_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Vatican1/idle_crop.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/Vatican1/attack.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/Vatican1/attack.mov"
             }
         ],
         lindaiyu: [{
                 title: "idle",
-                url: "./animation/video/lindaiyu/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/lindaiyu/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/lindaiyu/attack_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/lindaiyu/attack_crop.mov"
             }
         ],
         nero: [{
                 title: "idle",
-                url: "./animation/video/nero/idle.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/nero/idle.mov"
             }, {
                 title: "attack",
-                url: "./animation/video/nero/attack_crop.mov"
+                url: "https://crqrobdla.github.io/spine-animation-video/video/nero/attack_crop.mov"
             }
         ]
     },
