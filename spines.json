@@ -2216,6 +2216,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6683",
+        "monsterid": "10773",
+        "name": "卓識斷症 ‧ 華生",
+        "spinename": "Watson",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6684",
+        "monsterid": "10774",
+        "name": "變量釋義 ‧ 莫里亞蒂",
+        "spinename": "moriaty",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
