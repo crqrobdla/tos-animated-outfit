@@ -200,6 +200,10 @@ const videoData = {
                 category: "LIN_edit",
                 src: "./animation/img/SecretBaseCharacter_7_rgba.png",
                 alt: "LIN_edit"
+            }, {
+                category: "kamila_edit",
+                src: "./animation/img/SecretBaseCharacter_8_rgba.png",
+                alt: "kamila_edit"
             }
         ],
         Shroy_sep: [{
@@ -358,6 +362,29 @@ const videoData = {
             }, {
                 title: "Walk",
                 url: "./animation/gif/BlackGaGa_edit/Walk.gif"
+            }
+        ],
+		kamila_edit: [{
+                title: "Idle1",
+                url: "./animation/gif/kamila_edit/Idle1.gif"
+            }, {
+                title: "Idle2",
+                url: "./animation/gif/kamila_edit/Idle2.gif"
+            }, {
+                title: "PickUp",
+                url: "./animation/gif/kamila_edit/PickUp.gif"
+            }, {
+                title: "Reaction",
+                url: "./animation/gif/kamila_edit/Reaction.gif"
+            }, {
+                title: "Touch1",
+                url: "./animation/gif/kamila_edit/Touch1.gif"
+            }, {
+                title: "Touch2",
+                url: "./animation/gif/kamila_edit/Touch2.gif"
+            }, {
+                title: "Walk",
+                url: "./animation/gif/kamila_edit/Walk.gif"
             }
         ]
     }
