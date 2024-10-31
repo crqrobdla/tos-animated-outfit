@@ -2217,6 +2217,14 @@
     },
     {
         "category": "monster",
+        "folder": "6682",
+        "monsterid": "10770",
+        "name": "真相演算 ‧ 福爾摩斯",
+        "spinename": "sherlock",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6683",
         "monsterid": "10773",
         "name": "卓識斷症 ‧ 華生",
