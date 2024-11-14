@@ -2217,6 +2217,14 @@
     },
     {
         "category": "monster",
+        "folder": "6681",
+        "monsterid": "2890",
+        "name": "朔月葬魂 ‧ 卑彌呼",
+        "spinename": "denise",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6682",
         "monsterid": "10770",
         "name": "真相演算 ‧ 福爾摩斯",
@@ -2237,6 +2245,14 @@
         "monsterid": "10774",
         "name": "變量釋義 ‧ 莫里亞蒂",
         "spinename": "moriaty",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6687",
+        "monsterid": "2891",
+        "name": "月影傾天 ‧ 卑彌呼",
+        "spinename": "BMH",
         "pma": true
     },
     {
