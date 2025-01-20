@@ -2256,6 +2256,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6694",
+        "monsterid": "10828",
+        "name": "恆定的仿魂 ‧ 莉莉絲",
+        "spinename": "lilyC",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6695",
+        "monsterid": "10829",
+        "name": "鋼心鏖戰 ‧ 莉莉絲",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
