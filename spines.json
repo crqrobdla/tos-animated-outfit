@@ -2272,6 +2272,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6696",
+        "monsterid": "10841",
+        "name": "鯉躍天翔 ‧ 軒轅",
+        "spinename": "WD",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6697",
+        "monsterid": "10842",
+        "name": "破厄天弓 ‧ 帝鴻",
+        "spinename": "denise1",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
