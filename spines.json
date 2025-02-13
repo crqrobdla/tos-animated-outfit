@@ -2257,6 +2257,14 @@
     },
     {
         "category": "monster",
+        "folder": "6693",
+        "monsterid": "2923",
+        "name": "全知的啓示者 ‧ 猶格索托斯",
+        "spinename": "dream",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6694",
         "monsterid": "10828",
         "name": "恆定的仿魂 ‧ 莉莉絲",
