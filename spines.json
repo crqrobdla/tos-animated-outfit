@@ -2296,6 +2296,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6698",
+        "monsterid": "10874",
+        "name": "命運歡樂頌 ‧ 貝多芬",
+        "spinename": "beethoven",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6699",
+        "monsterid": "10875",
+        "name": "無調性和聲 ‧ 莫札特",
+        "spinename": "music",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
