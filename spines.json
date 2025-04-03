@@ -2312,6 +2312,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6700",
+        "monsterid": "10891",
+        "name": "天道震鳴 ‧ 刻琿",
+        "spinename": "fai",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6701",
+        "monsterid": "10892",
+        "name": "皓耀珀火 ‧ 刻琿",
+        "spinename": "skeleton",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
