@@ -2328,6 +2328,14 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6702",
+        "monsterid": "10919",
+        "name": "無限之環 ‧ 莫比烏斯",
+        "spinename": "MBS",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
