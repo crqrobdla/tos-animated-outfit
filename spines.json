@@ -2336,6 +2336,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6703",
+        "monsterid": "10953",
+        "name": "妖精王 ‧ 奧伯隆",
+        "spinename": "Oberon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6704",
+        "monsterid": "10950",
+        "name": "五宿思慕 ‧ 緹坦妮雅",
+        "spinename": "denise",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
