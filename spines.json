@@ -2352,6 +2352,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6705",
+        "monsterid": "10967",
+        "name": "永晝聖戰 ‧ 涅索伊",
+        "spinename": "NSY",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6706",
+        "monsterid": "10968",
+        "name": "破穹槍芒 ‧ 涅索伊",
+        "spinename": "HHNSY",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
