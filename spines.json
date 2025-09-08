@@ -2368,6 +2368,14 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6707",
+        "monsterid": "11015",
+        "name": "諸神的黃昏 ‧ 奧丁",
+        "spinename": "DOD",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
