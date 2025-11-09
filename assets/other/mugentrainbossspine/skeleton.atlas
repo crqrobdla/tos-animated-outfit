@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nightmare_effect
+  rotate: true
+  xy: 1, 2
+  size: 325, 273
+  orig: 325, 351
+  offset: 0, 40
+  index: -1
+nightmare_effect02
+  rotate: false
+  xy: 716, 13
+  size: 275, 276
+  orig: 325, 325
+  offset: 27, 23
+  index: -1
+nightmare_spine
+  rotate: false
+  xy: 1, 87
+  size: 975, 500
+  orig: 975, 500
+  offset: 0, 0
+  index: -1

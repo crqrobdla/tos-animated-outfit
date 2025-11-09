@@ -88,126 +88,126 @@ VFX/D1/5
   orig: 200, 269
   offset: 0, 0
   index: -1
-VFX/E1/ultskl (1)
+VFX/E1/大招 (1)
   rotate: false
   xy: 2019, 1674
   size: 27, 53
   orig: 360, 360
   offset: 172, 223
   index: -1
-VFX/E1/ultskl (10)
+VFX/E1/大招 (10)
   rotate: false
   xy: 1274, 1071
   size: 271, 193
   orig: 360, 360
   offset: 48, 61
   index: -1
-VFX/E1/ultskl (12)
+VFX/E1/大招 (12)
   rotate: false
   xy: 1040, 861
   size: 277, 191
   orig: 360, 360
   offset: 44, 64
   index: -1
-VFX/E1/ultskl (2)
+VFX/E1/大招 (2)
   rotate: false
   xy: 1642, 1439
   size: 98, 193
   orig: 360, 360
   offset: 128, 88
   index: -1
-VFX/E1/ultskl (3)
+VFX/E1/大招 (3)
   rotate: false
   xy: 1843, 426
   size: 202, 203
   orig: 360, 360
   offset: 86, 78
   index: -1
-VFX/E1/ultskl (4)
+VFX/E1/大招 (4)
   rotate: false
   xy: 2, 458
   size: 220, 195
   orig: 360, 360
   offset: 77, 80
   index: -1
-VFX/E1/ultskl (5)
+VFX/E1/大招 (5)
   rotate: 180
   xy: 1221, 739
   size: 263, 200
   orig: 360, 360
   offset: 54, 71
   index: -1
-VFX/E1/ultskl (6)
+VFX/E1/大招 (6)
   rotate: 180
   xy: 1718, 901
   size: 260, 199
   orig: 360, 360
   offset: 54, 67
   index: -1
-VFX/E1/ultskl (7)
+VFX/E1/大招 (7)
   rotate: false
   xy: 1337, 892
   size: 263, 187
   orig: 360, 360
   offset: 51, 64
   index: -1
-VFX/E1/ultskl (8)
+VFX/E1/大招 (8)
   rotate: false
   xy: 1537, 1014
   size: 264, 190
   orig: 360, 360
   offset: 52, 63
   index: -1
-VFX/F1/ultskl (1)
+VFX/F1/大招 (1)
   rotate: false
   xy: 668, 412
   size: 192, 210
   orig: 360, 305
   offset: 101, 46
   index: -1
-VFX/F1/ultskl (2)
+VFX/F1/大招 (2)
   rotate: 270
   xy: 288, 300
   size: 182, 211
   orig: 360, 305
   offset: 105, 45
   index: -1
-VFX/F1/ultskl (3)
+VFX/F1/大招 (3)
   rotate: true
   xy: 1177, 307
   size: 170, 212
   orig: 360, 305
   offset: 109, 46
   index: -1
-VFX/F1/ultskl (4)
+VFX/F1/大招 (4)
   rotate: 180
   xy: 688, 714
   size: 360, 235
   orig: 360, 305
   offset: 0, 43
   index: -1
-VFX/F1/ultskl (5)
+VFX/F1/大招 (5)
   rotate: 180
   xy: 2, 653
   size: 360, 212
   orig: 360, 305
   offset: 0, 45
   index: -1
-VFX/F1/ultskl (6)
+VFX/F1/大招 (6)
   rotate: 180
   xy: 422, 813
   size: 360, 217
   orig: 360, 305
   offset: 0, 42
   index: -1
-VFX/F1/ultskl (7)
+VFX/F1/大招 (7)
   rotate: 180
   xy: 66, 883
   size: 360, 224
   orig: 360, 305
   offset: 0, 36
   index: -1
-VFX/F1/ultskl (8)
+VFX/F1/大招 (8)
   rotate: false
   xy: 617, 62
   size: 360, 228
@@ -1012,7 +1012,7 @@ whitebone1
   orig: 125, 146
   offset: 0, 0
   index: -1
-bigcir3
+大環3
   rotate: false
   xy: 425, 617
   size: 593, 108

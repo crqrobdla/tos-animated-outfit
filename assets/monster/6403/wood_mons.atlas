@@ -1271,7 +1271,7 @@ wep_light
   orig: 60, 151
   offset: 0, 0
   index: -1
-wep_light_B_
+wep_light_B
   rotate: true
   xy: 387, 1994
   size: 52, 230

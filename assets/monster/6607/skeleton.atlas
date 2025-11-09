@@ -74,56 +74,56 @@ EFFECT/B5
   orig: 315, 262
   offset: 7, 10
   index: -1
-EFFECT/ultskl (1)
+EFFECT/大招 (1)
   rotate: false
   xy: 1468, 1362
   size: 216, 234
   orig: 400, 339
   offset: 111, 51
   index: -1
-EFFECT/ultskl (2)
+EFFECT/大招 (2)
   rotate: false
   xy: 1275, 172
   size: 203, 235
   orig: 400, 339
   offset: 116, 50
   index: -1
-EFFECT/ultskl (3)
+EFFECT/大招 (3)
   rotate: 270
   xy: 328, 161
   size: 192, 235
   orig: 400, 339
   offset: 119, 51
   index: -1
-EFFECT/ultskl (4)
+EFFECT/大招 (4)
   rotate: 180
   xy: 1127, 374
   size: 400, 252
   orig: 400, 339
   offset: 0, 44
   index: -1
-EFFECT/ultskl (5)
+EFFECT/大招 (5)
   rotate: false
   xy: 837, 345
   size: 400, 237
   orig: 400, 339
   offset: 0, 49
   index: -1
-EFFECT/ultskl (6)
+EFFECT/大招 (6)
   rotate: 180
   xy: 771, 539
   size: 400, 240
   orig: 400, 339
   offset: 0, 49
   index: -1
-EFFECT/ultskl (7)
+EFFECT/大招 (7)
   rotate: 180
   xy: 1642, 637
   size: 400, 242
   orig: 400, 339
   offset: 0, 45
   index: -1
-EFFECT/ultskl (8)
+EFFECT/大招 (8)
   rotate: false
   xy: 981, 13
   size: 400, 250

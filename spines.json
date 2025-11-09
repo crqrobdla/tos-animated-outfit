@@ -753,6 +753,22 @@
     },
     {
         "category": "monster",
+        "folder": "6262",
+        "monsterid": "2022",
+        "name": "理想世界 ‧ 柏拉圖",
+        "spinename": "platon",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6263",
+        "monsterid": "2023",
+        "name": "引力牽繫 ‧ 哥白尼",
+        "spinename": "Nikola_3k",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6264",
         "monsterid": "2024",
         "name": "乙太紛裂 ‧ 亞里士多德",
@@ -1292,7 +1308,7 @@
         "folder": "6417",
         "monsterid": "2545",
         "name": "明悟睿濤 ‧ 亞特蘭堤斯 ",
-        "spinename": "atlantis_t1",
+        "spinename": "Atlantis_t1",
         "pma": true
     },
     {
@@ -2376,6 +2392,14 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6708",
+        "monsterid": "11055",
+        "name": "凜潔心界 ‧ 曼陀羅",
+        "spinename": "mandala",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
@@ -2537,9 +2561,65 @@
     },
     {
         "category": "other",
-        "folder": "mugentrain",
+        "folder": "MandalaGhostSpine01_Prefab",
         "monsterid": null,
-        "name": "mugentrain",
+        "name": "MandalaGhostSpine01_Prefab",
+        "spinename": "ghost01",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine02_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine02_Prefab",
+        "spinename": "ghost02",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine03_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine03_Prefab",
+        "spinename": "ghost03",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine04_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine04_Prefab",
+        "spinename": "ghost04",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine05_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine05_Prefab",
+        "spinename": "ghost05",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine06_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine06_Prefab",
+        "spinename": "ghost06",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "MandalaGhostSpine07_Prefab",
+        "monsterid": null,
+        "name": "MandalaGhostSpine07_Prefab",
+        "spinename": "ghost07",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "mugentrainbossspine",
+        "monsterid": null,
+        "name": "mugentrainbossspine",
         "spinename": "skeleton",
         "pma": true
     }

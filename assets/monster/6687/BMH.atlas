@@ -46,7 +46,7 @@ BG/Layer 45
   orig: 595, 87
   offset: 0, 0
   index: -1
-BG/ground
+BG/地台
   rotate: false
   xy: 796, 1077
   size: 586, 204
@@ -207,84 +207,84 @@ BG_Vfx/smoke
   orig: 338, 432
   offset: 0, 0
   index: -1
-BG_Vfx/lux
+BG_Vfx/光
   rotate: false
   xy: 2, 1110
   size: 348, 279
   orig: 348, 279
   offset: 0, 0
   index: -1
-BG_Vfx/lux copy
+BG_Vfx/光 copy
   rotate: false
   xy: 1478, 916
   size: 307, 274
   orig: 307, 274
   offset: 0, 0
   index: -1
-BG_Vfx/layers 124
+BG_Vfx/圖層 124
   rotate: false
   xy: 1169, 1731
   size: 569, 261
   orig: 569, 261
   offset: 0, 0
   index: -1
-BG_Vfx/titandoll fog
+BG_Vfx/大土偶 煙
   rotate: false
   xy: 1539, 1378
   size: 104, 74
   orig: 104, 74
   offset: 0, 0
   index: -1
-BG_Vfx/tinygolem1 lux
+BG_Vfx/小土偶1 光
   rotate: false
   xy: 1794, 988
   size: 63, 62
   orig: 63, 64
   offset: 0, 2
   index: -1
-BG_Vfx/tinygolem2 lux
+BG_Vfx/小土偶2 光
   rotate: false
   xy: 1109, 1792
   size: 59, 80
   orig: 59, 80
   offset: 0, 0
   index: -1
-BG_Vfx/tinygolem3 lux
+BG_Vfx/小土偶3 光
   rotate: false
   xy: 1991, 1135
   size: 55, 57
   orig: 55, 57
   offset: 0, 0
   index: -1
-BG_Vfx/tinygolem4 lux
+BG_Vfx/小土偶4 光
   rotate: false
   xy: 581, 1781
   size: 63, 62
   orig: 63, 64
   offset: 0, 2
   index: -1
-BG_Vfx/tinygolem5 lux
+BG_Vfx/小土偶5 光
   rotate: false
   xy: 1230, 1535
   size: 59, 80
   orig: 59, 80
   offset: 0, 0
   index: -1
-BG_Vfx/tinygolem6 lux
+BG_Vfx/小土偶6 光
   rotate: false
   xy: 815, 972
   size: 55, 56
   orig: 55, 57
   offset: 0, 0
   index: -1
-BG_Vfx/gradientsmap 1 copy
+BG_Vfx/漸層對應 1 copy
   rotate: 180
   xy: 56, 97
   size: 247, 166
   orig: 247, 166
   offset: 0, 0
   index: -1
-BG_Vfx/fog 2
+BG_Vfx/霧 2
   rotate: 180
   xy: 809, 1301
   size: 364, 346
@@ -368,112 +368,112 @@ Doll/Layer 61
   orig: 124, 81
   offset: 0, 0
   index: -1
-Doll/layers 15 replicate 7
+Doll/圖層 15 的複製 7
   rotate: true
   xy: 783, 105
   size: 128, 138
   orig: 128, 138
   offset: 0, 0
   index: -1
-Doll/layers 57
+Doll/圖層 57
   rotate: 180
   xy: 541, 1525
   size: 689, 467
   orig: 689, 468
   offset: 0, 0
   index: -1
-Doll/tinygolem adornment 1
+Doll/小土偶 後飾物 1
   rotate: false
   xy: 399, 74
   size: 101, 70
   orig: 101, 70
   offset: 0, 0
   index: -1
-Doll/tinygolem adornment 2
+Doll/小土偶 後飾物 2
   rotate: false
   xy: 1172, 367
   size: 94, 75
   orig: 94, 85
   offset: 0, 10
   index: -1
-Doll/tinygolem adornment 3
+Doll/小土偶 後飾物 3
   rotate: false
   xy: 805, 622
   size: 68, 68
   orig: 71, 68
   offset: 3, 0
   index: -1
-Doll/tinygolem adornment 4
+Doll/小土偶 後飾物 4
   rotate: false
   xy: 1614, 94
   size: 101, 70
   orig: 101, 70
   offset: 0, 0
   index: -1
-Doll/tinygolem adornment 5
+Doll/小土偶 後飾物 5
   rotate: false
   xy: 566, 61
   size: 94, 85
   orig: 94, 85
   offset: 0, 0
   index: -1
-Doll/tinygolem adornment 6
+Doll/小土偶 後飾物 6
   rotate: false
   xy: 2, 451
   size: 66, 68
   orig: 66, 68
   offset: 0, 0
   index: -1
-Doll/tinygolem1
+Doll/小土偶1
   rotate: false
   xy: 1500, 516
   size: 82, 90
   orig: 82, 90
   offset: 0, 0
   index: -1
-Doll/tinygolem2
+Doll/小土偶2
   rotate: false
   xy: 1367, 369
   size: 73, 86
   orig: 73, 86
   offset: 0, 0
   index: -1
-Doll/tinygolem3
+Doll/小土偶3
   rotate: false
   xy: 2, 1358
   size: 57, 73
   orig: 57, 73
   offset: 0, 0
   index: -1
-Doll/tinygolem4
+Doll/小土偶4
   rotate: false
   xy: 1696, 118
   size: 82, 90
   orig: 82, 90
   offset: 0, 0
   index: -1
-Doll/tinygolem5
+Doll/小土偶5
   rotate: false
   xy: 1179, 131
   size: 73, 86
   orig: 73, 86
   offset: 0, 0
   index: -1
-Doll/tinygolem6
+Doll/小土偶6
   rotate: false
   xy: 1881, 1483
   size: 57, 73
   orig: 57, 73
   offset: 0, 0
   index: -1
-Doll/struct1
+Doll/建築1
   rotate: false
   xy: 404, 512
   size: 250, 254
   orig: 250, 254
   offset: 0, 0
   index: -1
-Doll/struct2
+Doll/建築2
   rotate: true
   xy: 1154, 260
   size: 134, 339
@@ -788,49 +788,49 @@ Vfx/Layer 92
   orig: 23, 44
   offset: 0, 0
   index: -1
-Vfx/incant lux
+Vfx/咒語 光
   rotate: false
   xy: 1724, 232
   size: 189, 206
   orig: 189, 210
   offset: 0, 0
   index: -1
-Vfx/violet
+Vfx/紫光
   rotate: 180
   xy: 1852, 105
   size: 139, 97
   orig: 143, 97
   offset: 0, 0
   index: -1
-Vfx/emerld 1
+Vfx/綠火 1
   rotate: false
   xy: 1088, 816
   size: 48, 60
   orig: 48, 60
   offset: 0, 0
   index: -1
-Vfx/emerld 2
+Vfx/綠火 2
   rotate: false
   xy: 2006, 1791
   size: 36, 57
   orig: 36, 59
   offset: 0, 2
   index: -1
-Vfx/willow 1
+Vfx/鬼火 1
   rotate: false
   xy: 339, 1179
   size: 46, 59
   orig: 46, 60
   offset: 0, 0
   index: -1
-Vfx/willow 2
+Vfx/鬼火 2
   rotate: false
   xy: 735, 1867
   size: 40, 54
   orig: 40, 54
   offset: 0, 0
   index: -1
-Vfx/willow 3
+Vfx/鬼火 3
   rotate: false
   xy: 2, 1488
   size: 44, 60
@@ -998,658 +998,658 @@ attack/sk1_d2_1
   orig: 200, 163
   offset: 9, 8
   index: -1
-moon/lunary 1
+moon/月球 1
   rotate: false
   xy: 1914, 1956
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
   index: -1
-moon/lunary 10
+moon/月球 10
   rotate: false
   xy: 707, 1614
   size: 56, 55
   orig: 56, 55
   offset: 0, 0
   index: -1
-moon/lunary 10lux 1
+moon/月球 10光 1
   rotate: false
   xy: 42, 1965
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
-moon/lunary 10lux 2
+moon/月球 10光 2
   rotate: false
   xy: 275, 529
   size: 41, 64
   orig: 41, 64
   offset: 0, 0
   index: -1
-moon/lunary 10lunarycorona
+moon/月球 10月球光暈
   rotate: false
   xy: 952, 596
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
-moon/lunary 1lux 1
+moon/月球 1光 1
   rotate: false
   xy: 2, 1945
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
-moon/lunary 1lux 2
+moon/月球 1光 2
   rotate: false
   xy: 320, 1583
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: -1
-moon/lunary 2
+moon/月球 2
   rotate: false
   xy: 1451, 968
   size: 45, 45
   orig: 45, 45
   offset: 0, 0
   index: -1
-moon/lunary 2lux 1
+moon/月球 2光 1
   rotate: false
   xy: 1885, 1972
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
-moon/lunary 2lux 2
+moon/月球 2光 2
   rotate: false
   xy: 670, 1846
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
-moon/lunary 2lunarycorona
+moon/月球 2月球光暈
   rotate: false
   xy: 1180, 1465
   size: 77, 67
   orig: 77, 67
   offset: 0, 0
   index: -1
-moon/lunary 3
+moon/月球 3
   rotate: false
   xy: 757, 1941
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
-moon/lunary 3lux 1
+moon/月球 3光 1
   rotate: false
   xy: 71, 1970
   size: 22, 22
   orig: 22, 22
   offset: 0, 0
   index: -1
-moon/lunary 3lux 2
+moon/月球 3光 2
   rotate: false
   xy: 1209, 1134
   size: 49, 57
   orig: 49, 57
   offset: 0, 0
   index: -1
-moon/lunary 3lunarycorona
+moon/月球 3月球光暈
   rotate: false
   xy: 347, 311
   size: 86, 79
   orig: 86, 79
   offset: 0, 0
   index: -1
-moon/lunary 4
+moon/月球 4
   rotate: false
   xy: 2, 1055
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
-moon/lunary 4lux 1
+moon/月球 4光 1
   rotate: false
   xy: 575, 1962
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-moon/lunary 4lux 2
+moon/月球 4光 2
   rotate: false
   xy: 736, 526
   size: 56, 60
   orig: 56, 60
   offset: 0, 0
   index: -1
-moon/lunary 4lunarycorona
+moon/月球 4月球光暈
   rotate: false
   xy: 1234, 261
   size: 83, 85
   orig: 83, 85
   offset: 0, 0
   index: -1
-moon/lunary 5
+moon/月球 5
   rotate: false
   xy: 923, 126
   size: 62, 62
   orig: 62, 62
   offset: 0, 0
   index: -1
-moon/lunary 5lux 1
+moon/月球 5光 1
   rotate: false
   xy: 1568, 1701
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
-moon/lunary 5lux 2
+moon/月球 5光 2
   rotate: false
   xy: 506, 1550
   size: 45, 70
   orig: 45, 70
   offset: 0, 0
   index: -1
-moon/lunary 5lunarycorona
+moon/月球 5月球光暈
   rotate: false
   xy: 1761, 313
   size: 100, 98
   orig: 100, 110
   offset: 0, 10
   index: -1
-moon/lunary 6
+moon/月球 6
   rotate: false
   xy: 1385, 1697
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-moon/lunary 6lux 1
+moon/月球 6光 1
   rotate: false
   xy: 36, 1933
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
-moon/lunary 6lux 2
+moon/月球 6光 2
   rotate: false
   xy: 1631, 1345
   size: 35, 40
   orig: 35, 40
   offset: 0, 0
   index: -1
-moon/lunary 6lunarycorona
+moon/月球 6月球光暈
   rotate: false
   xy: 945, 1942
   size: 55, 50
   orig: 55, 50
   offset: 0, 0
   index: -1
-moon/lunary 7
+moon/月球 7
   rotate: false
   xy: 1124, 1879
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
-moon/lunary 7lux 1
+moon/月球 7光 1
   rotate: false
   xy: 1075, 1851
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
-moon/lunary 7lux 2
+moon/月球 7光 2
   rotate: false
   xy: 352, 1331
   size: 32, 48
   orig: 32, 48
   offset: 0, 0
   index: -1
-moon/lunary 7lunarycorona
+moon/月球 7月球光暈
   rotate: false
   xy: 1740, 1836
   size: 57, 60
   orig: 62, 62
   offset: 0, 2
   index: -1
-moon/lunary 8
+moon/月球 8
   rotate: false
   xy: 1079, 936
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
-moon/lunary 8lux 1
+moon/月球 8光 1
   rotate: false
   xy: 1536, 1699
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-moon/lunary 8lux 2
+moon/月球 8光 2
   rotate: false
   xy: 12, 1850
   size: 35, 58
   orig: 35, 58
   offset: 0, 0
   index: -1
-moon/lunary 8lunarycorona
+moon/月球 8月球光暈
   rotate: false
   xy: 1095, 149
   size: 82, 92
   orig: 82, 116
   offset: 0, 0
   index: -1
-moon/lunary 9
+moon/月球 9
   rotate: false
   xy: 1859, 995
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-moon/lunary 9lux 1
+moon/月球 9光 1
   rotate: false
   xy: 534, 1922
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
-moon/lunary 9lux 2
+moon/月球 9光 2
   rotate: false
   xy: 78, 65
   size: 59, 73
   orig: 59, 73
   offset: 0, 0
   index: -1
-moon/lunary 9lunarycorona
+moon/月球 9月球光暈
   rotate: false
   xy: 702, 1511
   size: 105, 101
   orig: 105, 101
   offset: 0, 0
   index: -1
-orblum
+光球
   rotate: false
   xy: 1971, 1391
   size: 75, 79
   orig: 75, 79
   offset: 0, 0
   index: -1
-fringe 1
+前髮 1
   rotate: false
   xy: 779, 828
   size: 69, 46
   orig: 69, 46
   offset: 0, 0
   index: -1
-gob insert
+口 補件
   rotate: false
   xy: 692, 1868
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
   index: -1
-dexter
+右手
   rotate: false
   xy: 876, 1644
   size: 49, 45
   orig: 49, 45
   offset: 0, 0
   index: -1
-rightpalm
+右手掌
   rotate: false
   xy: 1194, 1682
   size: 57, 48
   orig: 57, 60
   offset: 0, 12
   index: -1
-righte insert
+右眼 補件
   rotate: false
   xy: 113, 1977
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
-rightfoot
+右腳掌
   rotate: false
   xy: 1124, 1921
   size: 35, 71
   orig: 35, 71
   offset: 0, 0
   index: -1
-rightcord
+右腳繩
   rotate: false
   xy: 166, 840
   size: 82, 71
   orig: 82, 71
   offset: 0, 0
   index: -1
-rtlegs 1
+右腿 1
   rotate: false
   xy: 1609, 234
   size: 109, 63
   orig: 109, 63
   offset: 0, 0
   index: -1
-rtlegs 2
+右腿 2
   rotate: false
   xy: 2, 176
   size: 78, 136
   orig: 78, 136
   offset: 0, 0
   index: -1
-rightgear 1
+右頭飾 1
   rotate: false
   xy: 1388, 899
   size: 58, 85
   orig: 58, 85
   offset: 0, 0
   index: -1
-thighs
+大腿
   rotate: false
   xy: 1223, 1608
   size: 189, 122
   orig: 189, 122
   offset: 0, 0
   index: -1
-lfthnd
+左手
   rotate: false
   xy: 1997, 1736
   size: 49, 52
   orig: 49, 52
   offset: 0, 0
   index: -1
-leftwrist
+左手掌
   rotate: false
   xy: 610, 1067
   size: 48, 49
   orig: 48, 54
   offset: 0, 5
   index: -1
-lfteye insert
+左眼 補件
   rotate: false
   xy: 2016, 1977
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
-leftsoles
+左腳掌
   rotate: false
   xy: 446, 717
   size: 55, 70
   orig: 56, 70
   offset: 1, 0
   index: -1
-leftstrap
+左腳繩
   rotate: false
   xy: 501, 3
   size: 264, 181
   orig: 264, 181
   offset: 0, 0
   index: -1
-lftleg 1
+左腿 1
   rotate: false
   xy: 960, 228
   size: 100, 89
   orig: 100, 89
   offset: 0, 0
   index: -1
-lftleg 2
+左腿 2
   rotate: false
   xy: 1959, 1849
   size: 78, 143
   orig: 78, 143
   offset: 0, 0
   index: -1
-leftcrown 1
+左頭飾 1
   rotate: false
   xy: 1708, 1406
   size: 61, 80
   orig: 61, 80
   offset: 0, 0
   index: -1
-ribbon_fnt 1
+布帶_前 1
   rotate: false
   xy: 995, 968
   size: 266, 164
   orig: 266, 164
   offset: 0, 0
   index: -1
-ribbon_fnt 2
+布帶_前 2
   rotate: false
   xy: 1434, 360
   size: 326, 119
   orig: 326, 119
   offset: 0, 0
   index: -1
-ribbon_fnt 3
+布帶_前 3
   rotate: false
   xy: 522, 1427
   size: 285, 91
   orig: 285, 91
   offset: 0, 0
   index: -1
-ribbon_fnt 4
+布帶_前 4
   rotate: false
   xy: 1571, 1277
   size: 265, 179
   orig: 265, 179
   offset: 0, 0
   index: -1
-ribbon_bck 1
+布帶_後 1
   rotate: 270
   xy: 1080, 388
   size: 292, 286
   orig: 292, 286
   offset: 0, 0
   index: -1
-ribbon_bck 2
+布帶_後 2
   rotate: 180
   xy: 2, 383
   size: 392, 282
   orig: 392, 282
   offset: 0, 0
   index: -1
-ribbon_bck 3
+布帶_後 3
   rotate: true
   xy: 1755, 410
   size: 252, 290
   orig: 252, 290
   offset: 0, 0
   index: -1
-ribbon_bck 4
+布帶_後 4
   rotate: 270
   xy: 2, 482
   size: 381, 303
   orig: 381, 303
   offset: 0, 0
   index: -1
-rimbse
+底圈
   rotate: false
   xy: 136, 745
   size: 433, 137
   orig: 433, 137
   offset: 0, 0
   index: -1
-backbowknots
+後蝴蝶結
   rotate: false
   xy: 1767, 120
   size: 90, 111
   orig: 90, 111
   offset: 0, 0
   index: -1
-bal
+球
   rotate: false
   xy: 622, 583
   size: 188, 187
   orig: 188, 187
   offset: 0, 0
   index: -1
-twines 1
+紙繩 1
   rotate: 180
   xy: 1201, 444
   size: 473, 242
   orig: 473, 242
   offset: 0, 0
   index: -1
-twines 2
+紙繩 2
   rotate: false
   xy: 787, 477
   size: 428, 266
   orig: 428, 266
   offset: 0, 0
   index: -1
-earing 1
+耳環 1
   rotate: false
   xy: 634, 1381
   size: 32, 70
   orig: 32, 72
   offset: 0, 0
   index: -1
-earing 2
+耳環 2
   rotate: false
   xy: 1768, 1351
   size: 41, 86
   orig: 42, 86
   offset: 0, 0
   index: -1
-longhairback 1
+背後長髮 1
   rotate: false
   xy: 624, 111
   size: 139, 151
   orig: 139, 151
   offset: 0, 0
   index: -1
-longhairback 2
+背後長髮 2
   rotate: false
   xy: 428, 205
   size: 146, 218
   orig: 146, 218
   offset: 0, 0
   index: -1
-longhairback 3
+背後長髮 3
   rotate: 270
   xy: 1710, 1043
   size: 465, 335
   orig: 465, 335
   offset: 0, 0
   index: -1
-beltin
+腰帶
   rotate: false
   xy: 632, 477
   size: 94, 74
   orig: 94, 74
   offset: 0, 0
   index: -1
-bodies
+身體
   rotate: false
   xy: 180, 637
   size: 158, 108
   orig: 158, 108
   offset: 0, 0
   index: -1
-backtrunk
+身體後
   rotate: false
   xy: 927, 1634
   size: 38, 31
   orig: 38, 31
   offset: 0, 0
   index: -1
-golden
+金環
   rotate: 180
   xy: 648, 953
   size: 374, 253
   orig: 374, 274
   offset: 0, 0
   index: -1
-fac
+面
   rotate: false
   xy: 991, 1589
   size: 74, 90
   orig: 74, 90
   offset: 0, 0
   index: -1
-helmet 1
+頭飾 1
   rotate: 270
   xy: 1889, 149
   size: 153, 156
   orig: 153, 156
   offset: 0, 0
   index: -1
-helmet fur 1
+頭飾 毛 1
   rotate: false
   xy: 653, 1983
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
-helmet fur 2
+頭飾 毛 2
   rotate: false
   xy: 138, 1980
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
-helmet fur 3
+頭飾 毛 3
   rotate: false
   xy: 453, 1981
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
-helmet fur 4
+頭飾 毛 4
   rotate: false
   xy: 507, 1982
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
-headornament 2
+頭飾部件 2
   rotate: 180
   xy: 471, 889
   size: 193, 97
   orig: 193, 97
   offset: 0, 0
   index: -1
-headornament 3
+頭飾部件 3
   rotate: true
   xy: 17, 106
   size: 171, 108
   orig: 171, 108
   offset: 0, 0
   index: -1
-shines 3
+高光 3
   rotate: false
   xy: 1676, 665
   size: 157, 23
   orig: 157, 23
   offset: 0, 0
   index: -1
-darken 1
+黑環 1
   rotate: 180
   xy: 775, 191
   size: 395, 304
   orig: 395, 304
   offset: 0, 0
   index: -1
-darken 2
+黑環 2
   rotate: 180
   xy: 1175, 1183
   size: 630, 277
   orig: 630, 277
   offset: 0, 0
   index: -1
-darken 3
+黑環 3
   rotate: false
   xy: 2, 1344
   size: 650, 284
   orig: 650, 284
   offset: 0, 0
   index: -1
-darken 4
+黑環 4
   rotate: false
   xy: 1259, 1445
   size: 787, 297

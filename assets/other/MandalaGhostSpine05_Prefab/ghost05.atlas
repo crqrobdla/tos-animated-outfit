@@ -1,0 +1,13 @@
+ghost05.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+face
+bounds:558,179,245,327
+head
+bounds:2,2,554,504
+lear
+bounds:558,43,135,134
+rear
+bounds:805,408,68,98

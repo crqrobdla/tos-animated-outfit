@@ -88,42 +88,42 @@ Hand/Layer 351
   orig: 50, 30
   offset: 0, 3
   index: -1
-Hand/verdeclawA
+Hand/綠觸手A
   rotate: false
   xy: 1550, 955
   size: 126, 72
   orig: 131, 80
   offset: 5, 8
   index: -1
-Hand/verdeclawB
+Hand/綠觸手B
   rotate: 270
   xy: 1451, 1156
   size: 304, 398
   orig: 304, 401
   offset: 0, 0
   index: -1
-Hand/verdeclawC
+Hand/綠觸手C
   rotate: 270
   xy: 1664, 1362
   size: 300, 224
   orig: 301, 224
   offset: 1, 0
   index: -1
-Hand/verdeclawD
+Hand/綠觸手D
   rotate: false
   xy: 1383, 1533
   size: 267, 469
   orig: 273, 469
   offset: 6, 0
   index: -1
-Hand/verdeclawE
+Hand/綠觸手E
   rotate: 180
   xy: 391, 119
   size: 478, 193
   orig: 486, 197
   offset: 4, 1
   index: -1
-Hand/verdeclawF
+Hand/綠觸手F
   rotate: true
   xy: 993, 369
   size: 337, 177
@@ -137,7 +137,7 @@ L arm
   orig: 223, 115
   offset: 3, 0
   index: -1
-L sleeve
+L 袖口
   rotate: false
   xy: 2, 231
   size: 286, 241
@@ -809,119 +809,119 @@ prop1/light ball
   orig: 57, 57
   offset: 0, 0
   index: -1
-prop1/tental2A
+prop1/觸手2A
   rotate: false
   xy: 18, 4
   size: 118, 108
   orig: 121, 113
   offset: 3, 0
   index: -1
-prop1/tental2B
+prop1/觸手2B
   rotate: false
   xy: 880, 1940
   size: 78, 63
   orig: 78, 64
   offset: 0, 0
   index: -1
-prop1/darkgrasp eyebal1
+prop1/黑觸手 眼球1
   rotate: false
   xy: 53, 1911
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-prop1/darkgrasp eyebal2
+prop1/黑觸手 眼球2
   rotate: false
   xy: 2, 1916
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-prop1/darkgraspA
+prop1/黑觸手A
   rotate: false
   xy: 1817, 1227
   size: 102, 189
   orig: 102, 189
   offset: 0, 0
   index: -1
-prop1/darkgraspB
+prop1/黑觸手B
   rotate: false
   xy: 1712, 978
   size: 200, 188
   orig: 202, 193
   offset: 0, 0
   index: -1
-prop1/darkgraspC
+prop1/黑觸手C
   rotate: false
   xy: 2, 1734
   size: 52, 209
   orig: 52, 209
   offset: 0, 0
   index: -1
-prop1/darkgraspD
+prop1/黑觸手D
   rotate: false
   xy: 1712, 608
   size: 205, 200
   orig: 205, 200
   offset: 0, 0
   index: -1
-prop1/darkgraspE
+prop1/黑觸手E
   rotate: false
   xy: 1880, 818
   size: 116, 185
   orig: 116, 185
   offset: 0, 0
   index: -1
-prop1/darkgraspF
+prop1/黑觸手F
   rotate: true
   xy: 1845, 1615
   size: 214, 170
   orig: 214, 170
   offset: 0, 0
   index: -1
-prop1/darkgraspG
+prop1/黑觸手G
   rotate: 180
   xy: 1899, 909
   size: 135, 219
   orig: 135, 242
   offset: 0, 22
   index: -1
-jacket
+外套
   rotate: 180
   xy: 2, 243
   size: 668, 512
   orig: 668, 512
   offset: 0, 0
   index: -1
-mth
+舌
   rotate: false
   xy: 714, 1119
   size: 113, 84
   orig: 113, 90
   offset: 0, 0
   index: -1
-tental
+觸手
   rotate: false
   xy: 2, 1068
   size: 849, 935
   orig: 849, 935
   offset: 0, 0
   index: -1
-tie
+鏈
   rotate: true
   xy: 1675, 10
   size: 218, 267
   orig: 218, 267
   offset: 0, 0
   index: -1
-ribbon
+頭花
   rotate: false
   xy: 1717, 1473
   size: 73, 97
   orig: 76, 108
   offset: 3, 2
   index: -1
-ribbon ball
+頭花 ball
   rotate: false
   xy: 2, 1889
   size: 9, 9

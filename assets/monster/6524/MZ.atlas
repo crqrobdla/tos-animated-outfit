@@ -200,98 +200,98 @@ bullet/effects3-6
   orig: 101, 125
   offset: 0, 0
   index: -1
-bullet/bul1
+bullet/彈1
   rotate: false
   xy: 796, 143
   size: 141, 95
   orig: 141, 95
   offset: 0, 0
   index: -1
-bullet/bul2
+bullet/彈2
   rotate: false
   xy: 1024, 1697
   size: 110, 74
   orig: 110, 74
   offset: 0, 0
   index: -1
-bullet/bul3
+bullet/彈3
   rotate: false
   xy: 1438, 732
   size: 109, 87
   orig: 109, 87
   offset: 0, 0
   index: -1
-bullet/bul4
+bullet/彈4
   rotate: false
   xy: 1929, 217
   size: 109, 83
   orig: 109, 83
   offset: 0, 0
   index: -1
-bullet/bul5
+bullet/彈5
   rotate: false
   xy: 2, 84
   size: 110, 80
   orig: 110, 80
   offset: 0, 0
   index: -1
-bullet/bul6
+bullet/彈6
   rotate: false
   xy: 1539, 81
   size: 103, 75
   orig: 103, 75
   offset: 0, 0
   index: -1
-bullet/fir10
+bullet/火10
   rotate: false
   xy: 1209, 669
   size: 230, 306
   orig: 230, 314
   offset: 0, 8
   index: -1
-bullet/fir11
+bullet/火11
   rotate: 270
   xy: 525, 785
   size: 298, 298
   orig: 298, 298
   offset: 0, 0
   index: -1
-bullet/fir12
+bullet/火12
   rotate: 270
   xy: 1741, 807
   size: 280, 305
   orig: 280, 305
   offset: 0, 0
   index: -1
-bullet/fir13
+bullet/火13
   rotate: false
   xy: 2, 602
   size: 198, 307
   orig: 219, 307
   offset: 21, 0
   index: -1
-bullet/fir6
+bullet/火6
   rotate: false
   xy: 893, 1944
   size: 138, 76
   orig: 149, 76
   offset: 0, 0
   index: -1
-bullet/fir7
+bullet/火7
   rotate: true
   xy: 1557, 1840
   size: 180, 174
   orig: 180, 174
   offset: 0, 0
   index: -1
-bullet/fir8
+bullet/火8
   rotate: 180
   xy: 1395, 821
   size: 321, 310
   orig: 321, 310
   offset: 0, 0
   index: -1
-bullet/fir9
+bullet/火9
   rotate: true
   xy: 825, 726
   size: 214, 382
@@ -347,427 +347,427 @@ reflectLi
   orig: 31, 77
   offset: 0, 0
   index: -1
-smokeBack/smk6
+smokeBack/煙6
   rotate: 270
   xy: 665, 335
   size: 264, 298
   orig: 264, 342
   offset: 0, 0
   index: -1
-smokeBack/smk7
+smokeBack/煙7
   rotate: true
   xy: 2, 887
   size: 314, 339
   orig: 314, 339
   offset: 0, 0
   index: -1
-smokeBack/smk8
+smokeBack/煙8
   rotate: false
   xy: 1419, 458
   size: 494, 120
   orig: 513, 146
   offset: 19, 0
   index: -1
-smokeFront/smk
+smokeFront/煙
   rotate: 180
   xy: 1391, 598
   size: 348, 269
   orig: 576, 269
   offset: 0, 0
   index: -1
-smokeFront/smk1
+smokeFront/煙1
   rotate: false
   xy: 1016, 1645
   size: 65, 50
   orig: 65, 50
   offset: 0, 0
   index: -1
-smokeFront/smk2
+smokeFront/煙2
   rotate: 180
   xy: 1734, 572
   size: 312, 223
   orig: 312, 223
   offset: 0, 0
   index: -1
-smokeFront/smk3
+smokeFront/煙3
   rotate: false
   xy: 416, 1949
   size: 88, 71
   orig: 88, 71
   offset: 0, 0
   index: -1
-upbody
+上身
   rotate: false
   xy: 1016, 1758
   size: 254, 262
   orig: 261, 262
   offset: 7, 0
   index: -1
-clo1
+布1
   rotate: 180
   xy: 1694, 1526
   size: 319, 494
   orig: 319, 494
   offset: 0, 0
   index: -1
-clo10
+布10
   rotate: 180
   xy: 1196, 1110
   size: 467, 369
   orig: 467, 369
   offset: 0, 0
   index: -1
-clo11
+布11
   rotate: true
   xy: 1613, 1022
   size: 440, 356
   orig: 443, 356
   offset: 0, 0
   index: -1
-clo12
+布12
   rotate: 270
   xy: 202, 615
   size: 338, 366
   orig: 339, 377
   offset: 0, 0
   index: -1
-clo2
+布2
   rotate: false
   xy: 1509, 274
   size: 206, 226
   orig: 208, 226
   offset: 2, 0
   index: -1
-clo2-1
+布2-1
   rotate: 180
   xy: 1069, 1050
   size: 132, 190
   orig: 132, 190
   offset: 0, 0
   index: -1
-clo3
+布3
   rotate: 180
   xy: 2, 941
   size: 783, 643
   orig: 783, 643
   offset: 0, 0
   index: -1
-clo3-1
+布3-1
   rotate: false
   xy: 572, 605
   size: 362, 216
   orig: 362, 216
   offset: 0, 0
   index: -1
-clo4
+布4
   rotate: 270
   xy: 957, 1111
   size: 909, 498
   orig: 909, 534
   offset: 0, 0
   index: -1
-clo5
+布5
   rotate: false
   xy: 2, 1399
   size: 802, 623
   orig: 818, 649
   offset: 7, 13
   index: -1
-clo6New
+布6New
   rotate: 270
   xy: 674, 1293
   size: 727, 374
   orig: 727, 374
   offset: 0, 0
   index: -1
-clo8
+布8
   rotate: 270
   xy: 620, 942
   size: 290, 657
   orig: 296, 657
   offset: 6, 0
   index: -1
-clo9
+布9
   rotate: 180
   xy: 1345, 1434
   size: 500, 586
   orig: 500, 586
   offset: 0, 0
   index: -1
-hnd1
+手1
   rotate: false
   xy: 1963, 1605
   size: 79, 68
   orig: 79, 68
   offset: 0, 0
   index: -1
-hnd1-1
+手1-1
   rotate: false
   xy: 1199, 1969
   size: 33, 51
   orig: 33, 51
   offset: 0, 0
   index: -1
-hnd1-2
+手1-2
   rotate: false
   xy: 343, 950
   size: 80, 90
   orig: 80, 90
   offset: 0, 0
   index: -1
-hnd1armarm
+手1手臂
   rotate: false
   xy: 1752, 345
   size: 295, 152
   orig: 295, 152
   offset: 0, 0
   index: -1
-hnd1gun
+手1槍
   rotate: 270
   xy: 205, 418
   size: 345, 335
   orig: 345, 335
   offset: 0, 0
   index: -1
-hnd2-1
+手2-1
   rotate: false
   xy: 97, 1692
   size: 81, 68
   orig: 81, 68
   offset: 0, 0
   index: -1
-hnd2-2
+手2-2
   rotate: false
   xy: 506, 1971
   size: 43, 49
   orig: 43, 49
   offset: 0, 0
   index: -1
-hnd2-3
+手2-3
   rotate: false
   xy: 186, 1438
   size: 90, 80
   orig: 90, 80
   offset: 0, 0
   index: -1
-hnd2gun
+手2槍
   rotate: false
   xy: 824, 512
   size: 404, 278
   orig: 404, 278
   offset: 0, 0
   index: -1
-hnd2arm
+手2臂
   rotate: false
   xy: 1245, 351
   size: 305, 117
   orig: 306, 117
   offset: 1, 0
   index: -1
-winkes1
+眨眼1
   rotate: false
   xy: 2, 2001
   size: 36, 19
   orig: 36, 19
   offset: 0, 0
   index: -1
-winkes2
+眨眼2
   rotate: false
   xy: 40, 2006
   size: 31, 15
   orig: 31, 17
   offset: 0, 2
   index: -1
-glases
+眼鏡
   rotate: false
   xy: 435, 1345
   size: 95, 37
   orig: 95, 37
   offset: 0, 0
   index: -1
-redcth1
+紅布1
   rotate: false
   xy: 80, 357
   size: 229, 270
   orig: 229, 270
   offset: 0, 0
   index: -1
-redcth1-1
+紅布1-1
   rotate: true
   xy: 48, 1438
   size: 251, 482
   orig: 251, 482
   offset: 0, 0
   index: -1
-redcth2
+紅布2
   rotate: true
   xy: 2, 196
   size: 140, 241
   orig: 149, 241
   offset: 9, 0
   index: -1
-redcth2-1
+紅布2-1
   rotate: 180
   xy: 944, 141
   size: 220, 198
   orig: 221, 198
   offset: 1, 0
   index: -1
-redcth2-2
+紅布2-2
   rotate: 180
   xy: 64, 260
   size: 495, 192
   orig: 497, 192
   offset: 2, 0
   index: -1
-redcth2-3
+紅布2-3
   rotate: false
   xy: 1044, 416
   size: 436, 258
   orig: 436, 258
   offset: 0, 0
   index: -1
-redcth2-4
+紅布2-4
   rotate: false
   xy: 1306, 1501
   size: 60, 130
   orig: 60, 130
   offset: 0, 0
   index: -1
-was1-1
+腰1-1
   rotate: false
   xy: 286, 78
   size: 217, 128
   orig: 217, 128
   offset: 0, 0
   index: -1
-was1-2
+腰1-2
   rotate: false
   xy: 1318, 76
   size: 219, 88
   orig: 219, 88
   offset: 0, 0
   index: -1
-was1-3
+腰1-3
   rotate: false
   xy: 1142, 73
   size: 100, 137
   orig: 100, 137
   offset: 0, 0
   index: -1
-was1-4
+腰1-4
   rotate: false
   xy: 171, 230
   size: 251, 143
   orig: 264, 148
   offset: 0, 5
   index: -1
-waistgear1
+腰配件1
   rotate: false
   xy: 1655, 105
   size: 94, 184
   orig: 94, 184
   offset: 0, 0
   index: -1
-waistgear2
+腰配件2
   rotate: false
   xy: 1915, 498
   size: 69, 79
   orig: 69, 79
   offset: 0, 0
   index: -1
-waistgear3
+腰配件3
   rotate: false
   xy: 789, 912
   size: 70, 79
   orig: 70, 79
   offset: 0, 0
   index: -1
-waistgear4
+腰配件4
   rotate: false
   xy: 2, 833
   size: 64, 109
   orig: 64, 109
   offset: 0, 0
   index: -1
-fot1
+腳1
   rotate: false
   xy: 939, 355
   size: 178, 217
   orig: 178, 217
   offset: 0, 0
   index: -1
-fot2
+腳2
   rotate: false
   xy: 1594, 1606
   size: 200, 233
   orig: 200, 233
   offset: 0, 0
   index: -1
-fiting1
+配件1
   rotate: false
   xy: 1247, 1879
   size: 58, 60
   orig: 58, 60
   offset: 0, 0
   index: -1
-fiting2
+配件2
   rotate: false
   xy: 109, 1206
   size: 78, 84
   orig: 81, 84
   offset: 3, 0
   index: -1
-fiting2-1
+配件2-1
   rotate: false
   xy: 1343, 1054
   size: 93, 72
   orig: 113, 72
   offset: 20, 0
   index: -1
-fiting3
+配件3
   rotate: 270
   xy: 276, 137
   size: 139, 212
   orig: 139, 212
   offset: 0, 0
   index: -1
-fiting4
+配件4
   rotate: false
   xy: 693, 4
   size: 224, 211
   orig: 224, 212
   offset: 0, 0
   index: -1
-fiting5
+配件5
   rotate: false
   xy: 1659, 16
   size: 187, 160
   orig: 187, 177
   offset: 0, 0
   index: -1
-facial
+面部
   rotate: false
   xy: 353, 710
   size: 105, 138
   orig: 105, 138
   offset: 0, 0
   index: -1
-hairdo1
+頭髮1
   rotate: false
   xy: 1929, 1244
   size: 116, 113
   orig: 116, 113
   offset: 0, 0
   index: -1
-hairdo2
+頭髮2
   rotate: false
   xy: 1313, 201
   size: 197, 182
   orig: 197, 182
   offset: 0, 0
   index: -1
-nck
+頸
   rotate: false
   xy: 1934, 1106
   size: 112, 122
