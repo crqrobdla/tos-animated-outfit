@@ -1,0 +1,104 @@
+
+himiko.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GG
+  rotate: false
+  xy: 1, 368
+  size: 877, 647
+  orig: 877, 647
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1033, 926
+  size: 554, 435
+  orig: 554, 435
+  offset: 0, 0
+  index: -1
+Sound
+  rotate: false
+  xy: 1, 2
+  size: 855, 364
+  orig: 855, 364
+  offset: 0, 0
+  index: -1
+color_paper
+  rotate: true
+  xy: 1252, 381
+  size: 591, 309
+  orig: 591, 309
+  offset: 0, 0
+  index: -1
+fx_l
+  rotate: 270
+  xy: 1406, 974
+  size: 406, 269
+  orig: 406, 269
+  offset: 0, 0
+  index: -1
+fx_l_glow
+  rotate: false
+  xy: 1272, 114
+  size: 411, 264
+  orig: 411, 264
+  offset: 0, 0
+  index: -1
+fx_r
+  rotate: false
+  xy: 1429, 1382
+  size: 282, 330
+  orig: 282, 330
+  offset: 0, 0
+  index: -1
+fx_r_glow
+  rotate: false
+  xy: 1518, 736
+  size: 286, 337
+  orig: 286, 337
+  offset: 0, 0
+  index: -1
+glowing_eye1
+  rotate: false
+  xy: 1552, 1963
+  size: 247, 75
+  orig: 247, 75
+  offset: 0, 0
+  index: -1
+glowing_eye2
+  rotate: false
+  xy: 1023, 1994
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+glowing_eye3
+  rotate: false
+  xy: 1023, 2013
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+main
+  rotate: true
+  xy: 1023, 1452
+  size: 587, 527
+  orig: 587, 527
+  offset: 0, 0
+  index: -1
+wings
+  rotate: true
+  xy: 879, 31
+  size: 984, 390
+  orig: 984, 390
+  offset: 0, 0
+  index: -1
+wings_effect
+  rotate: false
+  xy: 1, 1017
+  size: 1020, 1021
+  orig: 1020, 1021
+  offset: 0, 0
+  index: -1

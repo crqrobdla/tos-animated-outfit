@@ -1,0 +1,398 @@
+
+0127_Rebel Angel Lucifer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 94, 284
+  size: 124, 409
+  orig: 124, 409
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 187, 135
+  size: 58, 176
+  orig: 58, 176
+  offset: 0, 0
+  index: -1
+11
+  rotate: 270
+  xy: 632, 96
+  size: 328, 335
+  orig: 328, 335
+  offset: 0, 0
+  index: -1
+12
+  rotate: 270
+  xy: 565, 2
+  size: 92, 124
+  orig: 92, 124
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 693, 4
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+13a
+  rotate: false
+  xy: 834, 361
+  size: 41, 98
+  orig: 45, 103
+  offset: 0, 2
+  index: -1
+14
+  rotate: true
+  xy: 20, 28
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+14a
+  rotate: false
+  xy: 885, 153
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 891, 83
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 493, 738
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 780, 962
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 88, 968
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 485, 104
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 586, 56
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 793, 770
+  size: 45, 152
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 118, 944
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 360, 660
+  size: 35, 116
+  orig: 35, 116
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 971, 259
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 561, 931
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 355, 727
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+26
+  rotate: 270
+  xy: 440, 403
+  size: 262, 277
+  orig: 262, 277
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 109, 411
+  size: 92, 127
+  orig: 92, 127
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 717, 485
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 1, 143
+  size: 59, 187
+  orig: 59, 187
+  offset: 0, 0
+  index: -1
+3
+  rotate: 270
+  xy: 1, 262
+  size: 109, 90
+  orig: 109, 90
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 937, 773
+  size: 86, 170
+  orig: 86, 170
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 420, 733
+  size: 393, 254
+  orig: 393, 254
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 378, 684
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 506, 377
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 415, 53
+  size: 57, 148
+  orig: 57, 148
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 970, 348
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+36
+  rotate: false
+  xy: 194, 370
+  size: 245, 207
+  orig: 245, 207
+  offset: 0, 0
+  index: -1
+37
+  rotate: true
+  xy: 26, 82
+  size: 62, 201
+  orig: 62, 201
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 405, 487
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 816, 816
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 893, 836
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 782, 50
+  size: 73, 110
+  orig: 73, 110
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 356, 133
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 457, 212
+  size: 130, 333
+  orig: 130, 333
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 1, 688
+  size: 424, 298
+  orig: 424, 298
+  offset: 0, 0
+  index: -1
+44
+  rotate: true
+  xy: 1, 533
+  size: 170, 455
+  orig: 170, 455
+  offset: 0, 0
+  index: -1
+45
+  rotate: true
+  xy: 489, 613
+  size: 161, 534
+  orig: 161, 534
+  offset: 0, 0
+  index: -1
+46
+  rotate: true
+  xy: 179, 934
+  size: 52, 260
+  orig: 52, 260
+  offset: 0, 0
+  index: -1
+47
+  rotate: true
+  xy: 566, 312
+  size: 179, 305
+  orig: 179, 305
+  offset: 0, 0
+  index: -1
+48
+  rotate: true
+  xy: 56, 195
+  size: 106, 346
+  orig: 106, 346
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 331, 31
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 747, 149
+  size: 100, 124
+  orig: 100, 124
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 435, 947
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+8
+  rotate: 270
+  xy: 115, 11
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 712
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+FIRE_1
+  rotate: true
+  xy: 781, 426
+  size: 216, 241
+  orig: 216, 241
+  offset: 0, 0
+  index: -1
+FIRE_2
+  rotate: false
+  xy: 391, 116
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+FIRE_3
+  rotate: false
+  xy: 1, 347
+  size: 90, 208
+  orig: 90, 208
+  offset: 0, 0
+  index: -1
+fireball1
+  rotate: false
+  xy: 880, 37
+  size: 143, 41
+  orig: 143, 41
+  offset: 0, 0
+  index: -1
+fireball2
+  rotate: false
+  xy: 230, 77
+  size: 190, 56
+  orig: 190, 56
+  offset: 0, 0
+  index: -1
+swordeffect
+  rotate: false
+  xy: 894, 186
+  size: 94, 190
+  orig: 94, 190
+  offset: 0, 0
+  index: -1

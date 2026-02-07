@@ -1,0 +1,188 @@
+
+yuyu_devil.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 609, 484
+  size: 273, 219
+  orig: 273, 219
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 959, 632
+  size: 148, 697
+  orig: 148, 697
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1109, 1045
+  size: 284, 120
+  orig: 284, 120
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1109, 764
+  size: 104, 279
+  orig: 104, 279
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 476, 54
+  size: 76, 416
+  orig: 76, 416
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 609, 705
+  size: 348, 624
+  orig: 348, 624
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 609, 1331
+  size: 593, 715
+  orig: 593, 715
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 1260
+  size: 605, 786
+  orig: 605, 786
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 472
+  size: 605, 786
+  orig: 605, 786
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 476, 36
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1489, 1353
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 554, 455
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1204, 1354
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1764, 1392
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 884, 629
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1204, 1331
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Effect01
+  rotate: false
+  xy: 1109, 633
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+eff_smoke_1
+  rotate: false
+  xy: 1231, 1122
+  size: 256, 246
+  orig: 256, 246
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 1204, 1603
+  size: 412, 443
+  orig: 412, 443
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 1995, 1903
+  size: 48, 143
+  orig: 48, 143
+  offset: 0, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 1764, 1457
+  size: 136, 164
+  orig: 136, 164
+  offset: 0, 0
+  index: -1
+fx4
+  rotate: false
+  xy: 1515, 1362
+  size: 247, 239
+  orig: 247, 239
+  offset: 0, 0
+  index: -1
+fx5
+  rotate: false
+  xy: 1204, 1370
+  size: 309, 231
+  orig: 309, 231
+  offset: 0, 0
+  index: -1
+fx6
+  rotate: false
+  xy: 1618, 1623
+  size: 375, 423
+  orig: 375, 423
+  offset: 0, 0
+  index: -1
+fx7
+  rotate: true
+  xy: 2, 26
+  size: 444, 472
+  orig: 444, 472
+  offset: 0, 0
+  index: -1

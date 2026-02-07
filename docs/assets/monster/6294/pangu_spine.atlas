@@ -1,0 +1,265 @@
+
+pangu_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Arm
+  rotate: false
+  xy: 1899, 1710
+  size: 83, 189
+  orig: 83, 189
+  offset: 0, 0
+  index: -1
+Back_Hair
+  rotate: true
+  xy: 1605, 808
+  size: 242, 164
+  orig: 242, 164
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 994
+  size: 800, 994
+  orig: 800, 994
+  offset: 0, 0
+  index: -1
+Eyes closed
+  rotate: false
+  xy: 1984, 1880
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+Front_Hair
+  rotate: false
+  xy: 1049, 745
+  size: 292, 242
+  orig: 292, 242
+  offset: 0, 0
+  index: -1
+Front_fabric_01
+  rotate: true
+  xy: 1798, 629
+  size: 193, 164
+  orig: 193, 164
+  offset: 0, 0
+  index: -1
+Front_fabric_02
+  rotate: false
+  xy: 1342, 545
+  size: 262, 198
+  orig: 262, 198
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 804, 566
+  size: 1422, 243
+  orig: 1422, 243
+  offset: 0, 0
+  index: -1
+Head_deco01
+  rotate: false
+  xy: 1771, 824
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+Head_deco02
+  rotate: true
+  xy: 1049, 1072
+  size: 916, 119
+  orig: 916, 119
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 1771, 921
+  size: 172, 195
+  orig: 172, 195
+  offset: 0, 0
+  index: -1
+Middle_Hair
+  rotate: false
+  xy: 1343, 745
+  size: 260, 242
+  orig: 260, 242
+  offset: 0, 0
+  index: -1
+Small Hair
+  rotate: true
+  xy: 1049, 996
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 439, 29
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+arm_pattern
+  rotate: false
+  xy: 1905, 1901
+  size: 141, 145
+  orig: 141, 145
+  offset: 0, 0
+  index: -1
+backeffect
+  rotate: true
+  xy: 585, 82
+  size: 451, 211
+  orig: 451, 211
+  offset: 0, 0
+  index: -1
+bird
+  rotate: true
+  xy: 798, 201
+  size: 363, 233
+  orig: 363, 233
+  offset: 0, 0
+  index: -1
+body_pattern
+  rotate: true
+  xy: 798, 2
+  size: 197, 303
+  orig: 197, 303
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 1170, 1323
+  size: 522, 237
+  orig: 522, 237
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 1049, 589
+  size: 291, 154
+  orig: 291, 154
+  offset: 0, 0
+  index: -1
+fabric_back01
+  rotate: true
+  xy: 220, 2
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+fabric_back02
+  rotate: false
+  xy: 1170, 1562
+  size: 515, 426
+  orig: 515, 426
+  offset: 0, 0
+  index: -1
+fabric_back03
+  rotate: false
+  xy: 2, 535
+  size: 750, 457
+  orig: 750, 457
+  offset: 0, 0
+  index: -1
+fabric_world_01
+  rotate: true
+  xy: 1170, 989
+  size: 332, 420
+  orig: 332, 420
+  offset: 0, 0
+  index: -1
+fabric_world_02
+  rotate: true
+  xy: 1592, 1052
+  size: 269, 143
+  orig: 269, 143
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1606, 430
+  size: 184, 149
+  orig: 184, 149
+  offset: 0, 0
+  index: -1
+hand_effect
+  rotate: false
+  xy: 2, 1990
+  size: 1794, 56
+  orig: 1794, 56
+  offset: 0, 0
+  index: -1
+hand_pattren
+  rotate: true
+  xy: 1606, 581
+  size: 225, 190
+  orig: 225, 190
+  offset: 0, 0
+  index: -1
+ring_01
+  rotate: false
+  xy: 754, 801
+  size: 38, 191
+  orig: 38, 191
+  offset: 0, 0
+  index: -1
+ring_02
+  rotate: true
+  xy: 220, 84
+  size: 58, 217
+  orig: 58, 217
+  offset: 0, 0
+  index: -1
+ring_03
+  rotate: true
+  xy: 2, 5
+  size: 137, 216
+  orig: 137, 216
+  offset: 0, 0
+  index: -1
+stone_back01
+  rotate: true
+  xy: 313, 19
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+stone_back02
+  rotate: true
+  xy: 1694, 1334
+  size: 114, 160
+  orig: 114, 160
+  offset: 0, 0
+  index: -1
+stone_front01
+  rotate: false
+  xy: 1737, 1118
+  size: 166, 214
+  orig: 166, 214
+  offset: 0, 0
+  index: -1
+stone_front02
+  rotate: true
+  xy: 1694, 1450
+  size: 222, 167
+  orig: 222, 167
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 144
+  size: 581, 389
+  orig: 581, 389
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 1687, 1674
+  size: 210, 314
+  orig: 210, 314
+  offset: 0, 0
+  index: -1

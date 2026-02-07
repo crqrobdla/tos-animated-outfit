@@ -1,0 +1,622 @@
+
+hypernos.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_1
+  rotate: false
+  xy: 550, 1978
+  size: 133, 58
+  orig: 133, 58
+  offset: 0, 0
+  index: -1
+Arm_2
+  rotate: false
+  xy: 1335, 1507
+  size: 137, 48
+  orig: 137, 48
+  offset: 0, 0
+  index: -1
+BG_Chair
+  rotate: true
+  xy: 101, 266
+  size: 1017, 660
+  orig: 1038, 660
+  offset: 0, 0
+  index: -1
+BackWing_1
+  rotate: false
+  xy: 846, 48
+  size: 190, 85
+  orig: 190, 85
+  offset: 0, 0
+  index: -1
+BackWing_2
+  rotate: false
+  xy: 511, 9
+  size: 275, 116
+  orig: 275, 116
+  offset: 0, 0
+  index: -1
+BackWing_3
+  rotate: 180
+  xy: 145, 146
+  size: 399, 164
+  orig: 399, 164
+  offset: 0, 0
+  index: -1
+BackWing_4
+  rotate: true
+  xy: 1671, 471
+  size: 327, 185
+  orig: 327, 185
+  offset: 0, 0
+  index: -1
+BallPiece_1
+  rotate: 180
+  xy: 1797, 758
+  size: 134, 218
+  orig: 134, 218
+  offset: 0, 0
+  index: -1
+BallPiece_2
+  rotate: false
+  xy: 744, 631
+  size: 133, 249
+  orig: 133, 249
+  offset: 0, 0
+  index: -1
+BallPiece_3
+  rotate: false
+  xy: 1189, 1277
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+BallPiece_4
+  rotate: false
+  xy: 1154, 1140
+  size: 61, 142
+  orig: 66, 142
+  offset: 0, 0
+  index: -1
+Body
+  rotate: 270
+  xy: 1663, 1269
+  size: 345, 275
+  orig: 345, 275
+  offset: 0, 0
+  index: -1
+Eff_Eye_1
+  rotate: false
+  xy: 973, 1764
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+Eff_Eye_1B
+  rotate: false
+  xy: 730, 1903
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+Eff_Eye_Glow
+  rotate: false
+  xy: 372, 2019
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Eff_Light_1
+  rotate: true
+  xy: 1578, 303
+  size: 263, 154
+  orig: 263, 154
+  offset: 0, 0
+  index: -1
+Eff_Light_2
+  rotate: false
+  xy: 1517, 158
+  size: 298, 143
+  orig: 298, 143
+  offset: 0, 0
+  index: -1
+Eff_Light_3
+  rotate: false
+  xy: 1576, 1704
+  size: 195, 234
+  orig: 195, 234
+  offset: 0, 0
+  index: -1
+Eff_Light_4
+  rotate: false
+  xy: 721, 546
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+Eff_Light_5
+  rotate: false
+  xy: 1213, 1993
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Eff_Ring_1
+  rotate: 180
+  xy: 1259, 1188
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+Eff_Ring_2
+  rotate: false
+  xy: 1299, 871
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+Eff_RoundGlow_1
+  rotate: false
+  xy: 1521, 1479
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+Eff_Sphere_Glow
+  rotate: false
+  xy: 1773, 1852
+  size: 178, 184
+  orig: 178, 184
+  offset: 0, 0
+  index: -1
+Eff_Wiind_1
+  rotate: true
+  xy: 1415, 1552
+  size: 484, 165
+  orig: 484, 165
+  offset: 0, 0
+  index: -1
+Eff_Wiind_2
+  rotate: true
+  xy: 593, 207
+  size: 1022, 704
+  orig: 1022, 704
+  offset: 0, 0
+  index: -1
+Eff_Wiind_3
+  rotate: 270
+  xy: 890, 659
+  size: 478, 286
+  orig: 478, 286
+  offset: 0, 0
+  index: -1
+Eff_Wiind_4
+  rotate: 180
+  xy: 719, 1660
+  size: 693, 375
+  orig: 693, 375
+  offset: 0, 0
+  index: -1
+Eff_Wiind_5
+  rotate: false
+  xy: 715, 6
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+Eff_Wiind_6
+  rotate: true
+  xy: 2, 162
+  size: 471, 266
+  orig: 471, 266
+  offset: 0, 0
+  index: -1
+Eff_WindRing_01
+  rotate: false
+  xy: 2, 1138
+  size: 800, 897
+  orig: 927, 927
+  offset: 72, 30
+  index: -1
+Eff_Yellow_1
+  rotate: 180
+  xy: 782, 1489
+  size: 552, 404
+  orig: 552, 404
+  offset: 0, 0
+  index: -1
+Eff_Yellow_2
+  rotate: 180
+  xy: 2, 965
+  size: 286, 227
+  orig: 286, 227
+  offset: 0, 0
+  index: -1
+Eff_Yellow_3
+  rotate: true
+  xy: 733, 882
+  size: 603, 454
+  orig: 603, 454
+  offset: 0, 0
+  index: -1
+Eff_Yellow_4
+  rotate: 270
+  xy: 1244, 232
+  size: 333, 332
+  orig: 333, 332
+  offset: 0, 0
+  index: -1
+Eff_Yellow_5
+  rotate: true
+  xy: 1674, 801
+  size: 339, 133
+  orig: 339, 133
+  offset: 0, 0
+  index: -1
+Feather_1
+  rotate: false
+  xy: 725, 507
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+Feather_2
+  rotate: false
+  xy: 351, 1043
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+Feather_3
+  rotate: false
+  xy: 790, 594
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Feather_4
+  rotate: false
+  xy: 69, 634
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+GlassPiece_1
+  rotate: false
+  xy: 744, 1785
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+GlassPiece_2
+  rotate: false
+  xy: 803, 1498
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+GlassPiece_3
+  rotate: false
+  xy: 118, 1962
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+GlassPiece_4
+  rotate: false
+  xy: 1335, 1574
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+GlassPiece_5
+  rotate: false
+  xy: 1189, 1367
+  size: 58, 119
+  orig: 58, 119
+  offset: 0, 0
+  index: -1
+GlassPiece_6
+  rotate: false
+  xy: 71, 1934
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: 180
+  xy: 146, 3
+  size: 246, 152
+  orig: 246, 152
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: true
+  xy: 208, 285
+  size: 276, 137
+  orig: 276, 137
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1101, 9
+  size: 239, 140
+  orig: 239, 140
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: 270
+  xy: 1299, 582
+  size: 391, 386
+  orig: 391, 386
+  offset: 0, 0
+  index: -1
+Island_1
+  rotate: true
+  xy: 1288, 1924
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+Island_2
+  rotate: false
+  xy: 1299, 546
+  size: 121, 125
+  orig: 121, 125
+  offset: 0, 0
+  index: -1
+Leg_1
+  rotate: 270
+  xy: 497, 87
+  size: 133, 395
+  orig: 133, 395
+  offset: 0, 0
+  index: -1
+Leg_1_Wing
+  rotate: false
+  xy: 1781, 1033
+  size: 166, 245
+  orig: 166, 245
+  offset: 0, 0
+  index: -1
+Leg_2
+  rotate: false
+  xy: 1839, 125
+  size: 85, 441
+  orig: 85, 441
+  offset: 0, 0
+  index: -1
+Leg_2_Wing
+  rotate: 180
+  xy: 1745, 1597
+  size: 207, 249
+  orig: 207, 249
+  offset: 0, 0
+  index: -1
+RockPiece_1
+  rotate: 180
+  xy: 1420, 83
+  size: 153, 128
+  orig: 153, 128
+  offset: 0, 0
+  index: -1
+RockPiece_2
+  rotate: false
+  xy: 1560, 14
+  size: 221, 170
+  orig: 221, 170
+  offset: 0, 0
+  index: -1
+RockPiece_3
+  rotate: true
+  xy: 2, 28
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+RockPiece_4
+  rotate: false
+  xy: 601, 1237
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+RockPiece_5
+  rotate: false
+  xy: 685, 1984
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+RockPiece_6
+  rotate: false
+  xy: 2, 1309
+  size: 33, 91
+  orig: 33, 91
+  offset: 0, 0
+  index: -1
+Sphere_1
+  rotate: false
+  xy: 2, 1209
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+Sphere_2
+  rotate: false
+  xy: 1577, 1143
+  size: 202, 211
+  orig: 202, 211
+  offset: 0, 0
+  index: -1
+Sphere_3
+  rotate: false
+  xy: 346, 984
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+StoneRing_1
+  rotate: false
+  xy: 36, 1324
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+StoneRing_10
+  rotate: false
+  xy: 2, 894
+  size: 172, 68
+  orig: 172, 68
+  offset: 0, 0
+  index: -1
+StoneRing_11
+  rotate: false
+  xy: 338, 1184
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+StoneRing_12
+  rotate: false
+  xy: 88, 1185
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+StoneRing_13
+  rotate: false
+  xy: 425, 2010
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+StoneRing_2
+  rotate: false
+  xy: 880, 860
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+StoneRing_3
+  rotate: false
+  xy: 742, 1864
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+StoneRing_4
+  rotate: false
+  xy: 1880, 446
+  size: 96, 335
+  orig: 96, 335
+  offset: 0, 0
+  index: -1
+StoneRing_5
+  rotate: false
+  xy: 473, 2003
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+StoneRing_6
+  rotate: 270
+  xy: 1092, 113
+  size: 118, 334
+  orig: 119, 334
+  offset: 0, 0
+  index: -1
+StoneRing_7
+  rotate: false
+  xy: 1582, 1971
+  size: 174, 65
+  orig: 174, 65
+  offset: 0, 0
+  index: -1
+StoneRing_8
+  rotate: false
+  xy: 2, 609
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+StoneRing_9
+  rotate: false
+  xy: 2, 1879
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+TowerA_1
+  rotate: false
+  xy: 749, 1832
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+TowerA_2
+  rotate: false
+  xy: 246, 1012
+  size: 125, 169
+  orig: 136, 169
+  offset: 7, 0
+  index: -1
+TowerA_3
+  rotate: false
+  xy: 394, 14
+  size: 105, 135
+  orig: 105, 135
+  offset: 0, 0
+  index: -1
+TowerA_4
+  rotate: false
+  xy: 88, 1216
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+TowerA_5
+  rotate: false
+  xy: 118, 1999
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+TowerA_6
+  rotate: false
+  xy: 1896, 1420
+  size: 59, 137
+  orig: 76, 137
+  offset: 0, 0
+  index: -1
+TowerB_1
+  rotate: false
+  xy: 2, 661
+  size: 97, 231
+  orig: 97, 231
+  offset: 0, 0
+  index: -1
+TowerB_2
+  rotate: false
+  xy: 88, 1242
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+TowerB_3
+  rotate: true
+  xy: 2, 1904
+  size: 132, 115
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+TowerB_4
+  rotate: false
+  xy: 759, 1714
+  size: 19, 68
+  orig: 19, 68
+  offset: 0, 0
+  index: -1

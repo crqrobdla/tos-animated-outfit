@@ -1,0 +1,13 @@
+ghost04.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:2,2,275,226
+offsets:0,0,275,260
+head
+bounds:279,97,138,131
+neck
+bounds:419,106,145,122
+offsets:0,0,145,124

@@ -1,0 +1,426 @@
+
+eve.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/TOS_Eve_BG_GlassEffect
+  rotate: true
+  xy: 1, 161
+  size: 545, 371
+  orig: 545, 371
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_BG_Glow
+  rotate: false
+  xy: 1094, 1040
+  size: 370, 339
+  orig: 372, 339
+  offset: 2, 0
+  index: -1
+Images/TOS_Eve_BG_Plants
+  rotate: false
+  xy: 465, 1356
+  size: 552, 251
+  orig: 552, 251
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_BG_Roots1
+  rotate: false
+  xy: 1570, 1758
+  size: 464, 289
+  orig: 464, 289
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_BG_Roots2
+  rotate: false
+  xy: 1018, 1380
+  size: 473, 250
+  orig: 473, 250
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_BG_Roots3
+  rotate: false
+  xy: 897, 444
+  size: 308, 320
+  orig: 308, 320
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_Body
+  rotate: true
+  xy: 574, 1
+  size: 188, 180
+  orig: 191, 180
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_CalfLeft
+  rotate: false
+  xy: 755, 1
+  size: 204, 208
+  orig: 204, 208
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_CalfRight
+  rotate: false
+  xy: 1655, 471
+  size: 228, 141
+  orig: 228, 141
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ChiffonBack
+  rotate: false
+  xy: 465, 1608
+  size: 521, 439
+  orig: 521, 462
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ChiffonChest
+  rotate: true
+  xy: 897, 210
+  size: 233, 293
+  orig: 233, 293
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ChiffonFront
+  rotate: true
+  xy: 1206, 481
+  size: 320, 276
+  orig: 322, 276
+  offset: 2, 0
+  index: -1
+Images/TOS_Eve_CH_ChiffonHip
+  rotate: false
+  xy: 1094, 802
+  size: 374, 237
+  orig: 374, 240
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_Eyelids
+  rotate: true
+  xy: 1711, 1382
+  size: 113, 35
+  orig: 113, 35
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ForearmLeft
+  rotate: true
+  xy: 1956, 1475
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ForearmRight
+  rotate: true
+  xy: 1956, 1367
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairBack
+  rotate: false
+  xy: 373, 190
+  size: 235, 516
+  orig: 235, 516
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairFront1
+  rotate: true
+  xy: 1, 90
+  size: 70, 347
+  orig: 70, 347
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairFront3
+  rotate: true
+  xy: 1483, 496
+  size: 50, 162
+  orig: 50, 162
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairLeft1
+  rotate: false
+  xy: 1191, 81
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairLeft2
+  rotate: true
+  xy: 1, 34
+  size: 55, 258
+  orig: 55, 258
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairRightBack
+  rotate: true
+  xy: 1943, 1544
+  size: 213, 101
+  orig: 213, 101
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HairRightFront
+  rotate: true
+  xy: 685, 707
+  size: 87, 147
+  orig: 87, 147
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HandLeft
+  rotate: false
+  xy: 260, 36
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_Head1
+  rotate: true
+  xy: 1655, 613
+  size: 235, 225
+  orig: 235, 225
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HeadDecoL
+  rotate: false
+  xy: 823, 249
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HeadDecoR
+  rotate: false
+  xy: 1568, 1094
+  size: 212, 285
+  orig: 212, 285
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HeadRingBack
+  rotate: false
+  xy: 1650, 188
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_HeadRingFront
+  rotate: false
+  xy: 685, 795
+  size: 152, 102
+  orig: 152, 102
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_Neck
+  rotate: false
+  xy: 1781, 1108
+  size: 188, 107
+  orig: 188, 107
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ThighLeft
+  rotate: true
+  xy: 609, 228
+  size: 70, 213
+  orig: 70, 213
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_ThighRight
+  rotate: false
+  xy: 1881, 685
+  size: 102, 193
+  orig: 102, 193
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_UpperArmLeft
+  rotate: true
+  xy: 1501, 1643
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_UpperArmRight
+  rotate: true
+  xy: 1174, 12
+  size: 68, 130
+  orig: 68, 134
+  offset: 0, 4
+  index: -1
+Images/TOS_Eve_CH_VinesBack
+  rotate: false
+  xy: 425, 876
+  size: 175, 459
+  orig: 175, 459
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_VinesFront1
+  rotate: false
+  xy: 1432, 57
+  size: 217, 240
+  orig: 217, 243
+  offset: 0, 3
+  index: -1
+Images/TOS_Eve_CH_VinesFront2
+  rotate: false
+  xy: 1465, 1068
+  size: 102, 311
+  orig: 102, 330
+  offset: 0, 19
+  index: -1
+Images/TOS_Eve_CH_VinesFront3
+  rotate: false
+  xy: 1483, 547
+  size: 171, 273
+  orig: 171, 273
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_CH_VinesLArm
+  rotate: false
+  xy: 1650, 88
+  size: 126, 99
+  orig: 128, 101
+  offset: 1, 1
+  index: -1
+Images/TOS_Eve_FG_RedLeaves1
+  rotate: false
+  xy: 1711, 1496
+  size: 231, 261
+  orig: 231, 261
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_RedLeaves2
+  rotate: true
+  xy: 601, 876
+  size: 21, 75
+  orig: 21, 75
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_RedLeaves3
+  rotate: true
+  xy: 425, 707
+  size: 168, 259
+  orig: 168, 259
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_RedLeaves4
+  rotate: false
+  xy: 1984, 683
+  size: 63, 195
+  orig: 63, 195
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_Root1
+  rotate: true
+  xy: 601, 898
+  size: 457, 253
+  orig: 457, 253
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_Root2
+  rotate: false
+  xy: 987, 1753
+  size: 582, 294
+  orig: 584, 294
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_FG_Root3
+  rotate: false
+  xy: 987, 1631
+  size: 513, 121
+  orig: 513, 121
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_Skulls1
+  rotate: true
+  xy: 855, 944
+  size: 411, 238
+  orig: 411, 238
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_Skulls2
+  rotate: true
+  xy: 1492, 1380
+  size: 250, 218
+  orig: 250, 218
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_Skulls3
+  rotate: false
+  xy: 1781, 1216
+  size: 174, 279
+  orig: 174, 279
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_TreeTrunk1
+  rotate: false
+  xy: 1, 1336
+  size: 463, 711
+  orig: 463, 711
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_TreeTrunk2
+  rotate: true
+  xy: 1, 707
+  size: 628, 423
+  orig: 628, 423
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_MG_TreeTrunk3
+  rotate: false
+  xy: 609, 299
+  size: 287, 407
+  orig: 287, 414
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_VFX_AppleGlow1
+  rotate: false
+  xy: 960, 6
+  size: 213, 203
+  orig: 221, 206
+  offset: 6, 0
+  index: -1
+Images/TOS_Eve_VFX_AppleGlow2
+  rotate: true
+  xy: 1469, 821
+  size: 246, 184
+  orig: 263, 189
+  offset: 13, 1
+  index: -1
+Images/TOS_Eve_VFX_GlassGlow1
+  rotate: false
+  xy: 1650, 278
+  size: 204, 192
+  orig: 204, 192
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_VFX_GlassGlow2
+  rotate: false
+  xy: 1206, 298
+  size: 243, 182
+  orig: 243, 182
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_VFX_GlassShards1
+  rotate: false
+  xy: 373, 1
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_VFX_GlassShards2
+  rotate: false
+  xy: 855, 765
+  size: 238, 178
+  orig: 238, 178
+  offset: 0, 0
+  index: -1
+Images/TOS_Eve_VFX_Glow1
+  rotate: false
+  xy: 1879, 879
+  size: 165, 228
+  orig: 165, 237
+  offset: 0, 9
+  index: -1
+Images/TOS_Eve_VFX_Glow2
+  rotate: false
+  xy: 1654, 849
+  size: 224, 244
+  orig: 224, 244
+  offset: 0, 0
+  index: -1

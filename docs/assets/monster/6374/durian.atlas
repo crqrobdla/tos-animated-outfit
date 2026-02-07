@@ -1,0 +1,293 @@
+
+durian.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FairyA_body
+  rotate: false
+  xy: 1612, 1809
+  size: 185, 201
+  orig: 185, 201
+  offset: 0, 0
+  index: -1
+FairyA_foot
+  rotate: false
+  xy: 2, 694
+  size: 240, 224
+  orig: 240, 224
+  offset: 0, 0
+  index: -1
+FairyA_hand
+  rotate: false
+  xy: 1430, 50
+  size: 204, 141
+  orig: 204, 142
+  offset: 0, 0
+  index: -1
+FairyB_L_foot
+  rotate: false
+  xy: 133, 628
+  size: 112, 105
+  orig: 125, 110
+  offset: 11, 2
+  index: -1
+FairyB_R_foot
+  rotate: false
+  xy: 1585, 13
+  size: 128, 149
+  orig: 135, 160
+  offset: 7, 1
+  index: -1
+FairyB_body
+  rotate: false
+  xy: 1297, 189
+  size: 167, 188
+  orig: 167, 188
+  offset: 0, 0
+  index: -1
+FairyB_hand
+  rotate: false
+  xy: 463, 253
+  size: 204, 77
+  orig: 209, 81
+  offset: 0, 3
+  index: -1
+FairyC_L_hand
+  rotate: false
+  xy: 1418, 1288
+  size: 112, 156
+  orig: 112, 164
+  offset: 0, 8
+  index: -1
+FairyC_Lfoot
+  rotate: true
+  xy: 1089, 922
+  size: 122, 140
+  orig: 129, 140
+  offset: 4, 0
+  index: -1
+FairyC_R_foot
+  rotate: false
+  xy: 1437, 589
+  size: 164, 176
+  orig: 164, 179
+  offset: 0, 3
+  index: -1
+FairyC_R_hand
+  rotate: false
+  xy: 728, 511
+  size: 80, 149
+  orig: 80, 161
+  offset: 0, 10
+  index: -1
+FairyC_body
+  rotate: false
+  xy: 347, 49
+  size: 227, 215
+  orig: 233, 224
+  offset: 6, 9
+  index: -1
+L_arm
+  rotate: false
+  xy: 518, 8
+  size: 203, 128
+  orig: 203, 128
+  offset: 0, 0
+  index: -1
+L_armor
+  rotate: false
+  xy: 2, 21
+  size: 182, 143
+  orig: 182, 143
+  offset: 0, 0
+  index: -1
+L_fabric_back
+  rotate: 270
+  xy: 172, 933
+  size: 124, 230
+  orig: 124, 230
+  offset: 0, 0
+  index: -1
+L_fabric_front
+  rotate: false
+  xy: 1708, 144
+  size: 108, 229
+  orig: 108, 229
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: 270
+  xy: 1713, 33
+  size: 455, 317
+  orig: 455, 317
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 343, 243
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+L_upper_arm
+  rotate: false
+  xy: 1016, 646
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: 180
+  xy: 2, 67
+  size: 395, 463
+  orig: 395, 463
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 1097, 19
+  size: 395, 334
+  orig: 395, 334
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 2, 203
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+atk_eye_light
+  rotate: true
+  xy: 539, 941
+  size: 116, 69
+  orig: 116, 69
+  offset: 0, 0
+  index: -1
+atk_fabric
+  rotate: 270
+  xy: 721, 3
+  size: 151, 285
+  orig: 151, 285
+  offset: 0, 0
+  index: -1
+atk_ground_effect01
+  rotate: true
+  xy: 1829, 1447
+  size: 563, 132
+  orig: 563, 132
+  offset: 0, 0
+  index: -1
+atk_ground_effect02
+  rotate: false
+  xy: 1080, 618
+  size: 355, 68
+  orig: 355, 68
+  offset: 0, 0
+  index: -1
+atk_hand
+  rotate: 270
+  xy: 1008, 6
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+atk_light
+  rotate: true
+  xy: 1830, 933
+  size: 512, 124
+  orig: 512, 146
+  offset: 0, 22
+  index: -1
+atk_root_01
+  rotate: true
+  xy: 2, 517
+  size: 540, 725
+  orig: 540, 725
+  offset: 0, 0
+  index: -1
+atk_root_02
+  rotate: true
+  xy: 2, 331
+  size: 417, 755
+  orig: 417, 757
+  offset: 0, 0
+  index: -1
+atk_root_03
+  rotate: true
+  xy: 759, 377
+  size: 283, 729
+  orig: 347, 748
+  offset: 64, 0
+  index: -1
+atk_root_04
+  rotate: 270
+  xy: 1097, 688
+  size: 423, 732
+  orig: 423, 732
+  offset: 0, 0
+  index: -1
+atk_sparkle_01
+  rotate: false
+  xy: 1418, 1127
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+atk_sparkle_02
+  rotate: false
+  xy: 1689, 1691
+  size: 128, 117
+  orig: 128, 117
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 616, 659
+  size: 471, 398
+  orig: 471, 398
+  offset: 0, 0
+  index: -1
+bottom_fabric01
+  rotate: false
+  xy: 1490, 468
+  size: 533, 462
+  orig: 533, 462
+  offset: 0, 0
+  index: -1
+bottom_fabric02
+  rotate: true
+  xy: 1535, 193
+  size: 536, 491
+  orig: 536, 491
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 157, 425
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 601, 92
+  size: 584, 311
+  orig: 584, 311
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 1059
+  size: 1415, 951
+  orig: 1415, 951
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: 180
+  xy: 1419, 1110
+  size: 409, 900
+  orig: 409, 900
+  offset: 0, 0
+  index: -1

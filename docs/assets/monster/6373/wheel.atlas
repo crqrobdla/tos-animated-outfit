@@ -1,0 +1,174 @@
+
+wheel.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: false
+  xy: 1259, 785
+  size: 482, 1253
+  orig: 482, 1253
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 1743, 1261
+  size: 202, 548
+  orig: 202, 548
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 2, 158
+  size: 651, 385
+  orig: 651, 385
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 750, 63
+  size: 521, 480
+  orig: 521, 480
+  offset: 0, 0
+  index: -1
+atk_effect
+  rotate: false
+  xy: 2, 2
+  size: 207, 154
+  orig: 207, 154
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 2, 1176
+  size: 1255, 862
+  orig: 1259, 862
+  offset: 4, 0
+  index: -1
+belt01
+  rotate: true
+  xy: 650, 263
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+belt02
+  rotate: true
+  xy: 650, 193
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 779, 586
+  size: 476, 588
+  orig: 522, 588
+  offset: 0, 0
+  index: -1
+breath
+  rotate: true
+  xy: 725, 689
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+effectA
+  rotate: false
+  xy: 1743, 807
+  size: 227, 196
+  orig: 227, 254
+  offset: 0, 0
+  index: -1
+effectB
+  rotate: true
+  xy: 1743, 1005
+  size: 254, 200
+  orig: 254, 200
+  offset: 0, 0
+  index: -1
+effectC
+  rotate: true
+  xy: 211, 55
+  size: 101, 170
+  orig: 111, 170
+  offset: 10, 0
+  index: -1
+effectD
+  rotate: true
+  xy: 1743, 1811
+  size: 227, 222
+  orig: 227, 222
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 725, 741
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+eye_light
+  rotate: true
+  xy: 750, 649
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 811
+  size: 775, 363
+  orig: 775, 363
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 389, 383
+  size: 426, 334
+  orig: 426, 334
+  offset: 0, 0
+  index: -1
+red_effct
+  rotate: true
+  xy: 389, 59
+  size: 322, 259
+  orig: 322, 259
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 750, 667
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 1257, 518
+  size: 602, 265
+  orig: 602, 265
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 1747, 19
+  size: 497, 232
+  orig: 497, 232
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 1232, 71
+  size: 513, 445
+  orig: 513, 445
+  offset: 0, 0
+  index: -1
+wolf_light
+  rotate: true
+  xy: 725, 442
+  size: 245, 23
+  orig: 245, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,307 @@
+
+0055_Queen of Death Izanami.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 5, 547
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 727, 611
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 1, 10
+  size: 99, 213
+  orig: 99, 213
+  offset: 0, 0
+  index: -1
+04
+  rotate: 270
+  xy: 50, 84
+  size: 97, 271
+  orig: 97, 271
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 959, 357
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 429, 651
+  size: 29, 109
+  orig: 29, 110
+  offset: 0, 0
+  index: -1
+07
+  rotate: 180
+  xy: 510, 169
+  size: 275, 120
+  orig: 275, 120
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 55, 130
+  size: 415, 120
+  orig: 415, 120
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 801, 2
+  size: 213, 95
+  orig: 213, 95
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 719, 350
+  size: 72, 211
+  orig: 72, 211
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 700, 254
+  size: 322, 98
+  orig: 322, 98
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 430
+  size: 513, 329
+  orig: 513, 329
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 653, 734
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 829, 637
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 400, 739
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 138, 320
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1, 738
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 686, 727
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 826, 690
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 84, 745
+  size: 19, 15
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 58, 744
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 918, 619
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 298, 384
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 1, 475
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 339, 231
+  size: 129, 64
+  orig: 129, 64
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 893, 600
+  size: 127, 159
+  orig: 127, 159
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 221, 331
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+28
+  rotate: true
+  xy: 1, 175
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 580, 117
+  size: 50, 121
+  orig: 50, 121
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 213, 6
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 448, 125
+  size: 130, 42
+  orig: 130, 42
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 279, 35
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 1, 592
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+34
+  rotate: 270
+  xy: 1, 291
+  size: 259, 297
+  orig: 259, 297
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 692, 429
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+36
+  rotate: true
+  xy: 384, 297
+  size: 192, 342
+  orig: 192, 342
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 854, 105
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 461, 491
+  size: 303, 268
+  orig: 303, 268
+  offset: 0, 0
+  index: -1
+39
+  rotate: true
+  xy: 741, 91
+  size: 161, 274
+  orig: 161, 274
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 12, 221
+  size: 120, 496
+  orig: 120, 496
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 516, 434
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+42 A
+  rotate: false
+  xy: 746, 421
+  size: 243, 338
+  orig: 243, 338
+  offset: 0, 0
+  index: -1
+42 B
+  rotate: true
+  xy: 316, 77
+  size: 27, 556
+  orig: 27, 556
+  offset: 0, 0
+  index: -1

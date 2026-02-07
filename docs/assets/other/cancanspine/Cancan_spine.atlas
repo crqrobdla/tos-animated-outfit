@@ -1,0 +1,55 @@
+
+Cancan_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1, 250
+  size: 857, 743
+  orig: 857, 743
+  offset: 0, 0
+  index: -1
+ear
+  rotate: 180
+  xy: 190, 2
+  size: 467, 254
+  orig: 467, 254
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 1, 191
+  size: 148, 181
+  orig: 148, 181
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 659, 134
+  size: 132, 149
+  orig: 132, 149
+  offset: 0, 0
+  index: -1
+foot3
+  rotate: false
+  xy: 1, 12
+  size: 123, 177
+  orig: 123, 177
+  offset: 0, 0
+  index: -1
+foot4
+  rotate: false
+  xy: 659, 2
+  size: 154, 130
+  orig: 177, 130
+  offset: 23, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 860, 255
+  size: 738, 108
+  orig: 738, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+EVA.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cross
+  rotate: false
+  xy: 944, 617
+  size: 823, 620
+  orig: 823, 620
+  offset: 0, 0
+  index: -1
+Effect1
+  rotate: false
+  xy: 731, 488
+  size: 338, 329
+  orig: 340, 331
+  offset: 1, 1
+  index: -1
+Effect2
+  rotate: false
+  xy: 2, 453
+  size: 310, 296
+  orig: 312, 298
+  offset: 1, 1
+  index: -1
+Effect3
+  rotate: false
+  xy: 2, 751
+  size: 390, 351
+  orig: 392, 353
+  offset: 1, 1
+  index: -1
+Effect4
+  rotate: false
+  xy: 414, 454
+  size: 315, 309
+  orig: 317, 311
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1934, 1940
+  size: 106, 106
+  orig: 108, 108
+  offset: 1, 1
+  index: -1
+add
+  rotate: false
+  xy: 935, 1077
+  size: 276, 26
+  orig: 464, 73
+  offset: 94, 23
+  index: -1
+circle_beam
+  rotate: false
+  xy: 1071, 315
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: false
+  xy: 1769, 880
+  size: 172, 100
+  orig: 172, 100
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 731, 336
+  size: 323, 150
+  orig: 323, 150
+  offset: 0, 0
+  index: -1
+energy suckin
+  rotate: true
+  xy: 1233, 1238
+  size: 808, 699
+  orig: 810, 701
+  offset: 1, 1
+  index: -1
+form 3
+  rotate: false
+  xy: 2, 1104
+  size: 1229, 943
+  orig: 1229, 943
+  offset: 0, 0
+  index: -1
+form 3_behind
+  rotate: false
+  xy: 1071, 661
+  size: 133, 123
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+form 3_down
+  rotate: false
+  xy: 2019, 1868
+  size: 22, 70
+  orig: 22, 70
+  offset: 0, 0
+  index: -1
+form 3_inside
+  rotate: 180
+  xy: 1373, 264
+  size: 437, 363
+  orig: 472, 389
+  offset: 18, 9
+  index: -1
+glow
+  rotate: false
+  xy: 1769, 982
+  size: 254, 254
+  orig: 256, 255
+  offset: 2, 0
+  index: -1
+lazer 1
+  rotate: false
+  xy: 1448, 1069
+  size: 272, 167
+  orig: 272, 167
+  offset: 0, 0
+  index: -1
+multifly filter
+  rotate: false
+  xy: 313, 283
+  size: 337, 169
+  orig: 337, 169
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 731, 931
+  size: 202, 171
+  orig: 204, 173
+  offset: 1, 1
+  index: -1
+ring lazer
+  rotate: false
+  xy: 1547, 641
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 1934, 1856
+  size: 85, 84
+  orig: 303, 304
+  offset: 109, 110
+  index: -1
+square small
+  rotate: false
+  xy: 1934, 1780
+  size: 75, 76
+  orig: 83, 83
+  offset: 4, 3
+  index: -1
+square small2
+  rotate: false
+  xy: 1977, 1709
+  size: 70, 71
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+square small3
+  rotate: false
+  xy: 1934, 1637
+  size: 70, 71
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+square small4
+  rotate: false
+  xy: 1977, 1566
+  size: 70, 71
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+square small_white
+  rotate: false
+  xy: 1934, 1495
+  size: 70, 71
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+square_dark
+  rotate: true
+  xy: 1709, 500
+  size: 337, 337
+  orig: 375, 374
+  offset: 17, 16
+  index: -1
+square_purple
+  rotate: false
+  xy: 394, 765
+  size: 337, 338
+  orig: 375, 374
+  offset: 17, 16
+  index: -1
