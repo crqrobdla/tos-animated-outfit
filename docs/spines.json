@@ -2417,6 +2417,22 @@
     },
     {
         "category": "monster",
+        "folder": "6711",
+        "monsterid": "11128",
+        "name": "萬法根念 ‧ 阿賴耶識",
+        "spinename": "ALYS",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6712",
+        "monsterid": "11129",
+        "name": "最勝龍雷 ‧ 帝釋天",
+        "spinename": "sakra",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6713",
         "monsterid": "11120",
         "name": "神創 ‧ 零覓",

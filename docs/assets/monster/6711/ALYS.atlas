@@ -1,0 +1,246 @@
+ALYS.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+2
+bounds:2,1919,85,83
+offsets:2,4,90,90
+BG/Layer 503
+bounds:400,391,488,229
+rotate:180
+BG/Layer 572
+bounds:1166,672,522,434
+rotate:180
+BG/Layer 572 copy_Glow
+bounds:2,478,522,434
+rotate:270
+BG/Layer 575_New
+bounds:2,815,154,104
+BG/Layer 633
+bounds:1701,839,265,223
+BG/Layer 636
+bounds:304,200,144,305
+rotate:90
+BG/Layer 637
+bounds:843,1132,139,138
+BG/Selective Color 503 copy
+bounds:2,1542,714,409
+BG/SkullA_Back
+bounds:862,200,190,160
+offsets:2,0,192,160
+BG/SkullA_Front
+bounds:1333,1756,127,221
+offsets:0,0,127,222
+BG/SkullB_Front
+bounds:332,883,214,199
+BG/SkullC_Back
+bounds:714,1685,203,232
+BG/SkullC_Front
+bounds:545,1984,47,37
+BG/前布 2
+bounds:1623,1904,320,117
+BG/後手 紅線
+bounds:1154,1043,192,247
+BG/後翼
+bounds:2,1308,325,232
+BG/花辨1
+bounds:890,561,254,93
+BG/花辨2
+bounds:2,1002,734,257
+FG/Layer 332_Glow
+bounds:890,436,555,234
+rotate:180
+FG/Layer 569
+bounds:943,1792,139,117
+FG/Layer 595
+bounds:797,1955,66,365
+offsets:18,5,84,370
+rotate:90
+FG/Layer 596
+bounds:711,27,144,524
+rotate:90
+FG/Layer 597
+bounds:1525,29,155,521
+rotate:90
+FG/Layer 598
+bounds:18,1148,231,261
+FG/Layer 599
+bounds:188,15,157,262
+FG/Layer 600
+bounds:754,795,130,270
+rotate:90
+FG/Layer 601
+bounds:1817,1429,81,193
+FG/Layer 638
+bounds:2,28,268,324
+rotate:270
+FG/Layer 639
+bounds:1470,103,254,576
+rotate:270
+FG/Layer 640
+bounds:560,980,235,248
+rotate:90
+FG/Layer 641
+bounds:173,2,314,525
+rotate:90
+FG/中排 手紅線
+bounds:433,1181,184,427
+rotate:90
+FG/前排 手紅線
+bounds:2,152,190,257
+FG/手
+bounds:1564,507,482,328
+FG/線
+bounds:648,14,155,514
+rotate:90
+FG/花
+bounds:749,601,525,203
+FG/花枝
+bounds:410,51,162,325
+rotate:90
+FG/花蕊
+bounds:1454,315,502,229
+rotate:180
+FG/花辨
+bounds:921,1738,104,74
+FG/花辨 珍珠
+bounds:1692,883,1001,354
+rotate:90
+VFX/Glow1
+bounds:813,1978,43,43
+VFX/Glow2
+bounds:901,1534,200,200
+VFX/Ribbon_Close1
+bounds:2,1907,751,114
+VFX/Ribbon_Close1_glow
+bounds:249,1900,721,121
+offsets:214,26,1253,191
+VFX/Ribbon_Mid_L1
+bounds:611,66,203,501
+rotate:90
+VFX/Ribbon_Mid_L1_glow
+bounds:604,95,201,481
+offsets:6,12,210,511
+rotate:90
+VFX/Ribbon_Mid_R1
+bounds:971,1904,117,501
+rotate:90
+VFX/Ribbon_Mid_R1_glow
+bounds:1022,1903,118,481
+offsets:2,17,126,537
+rotate:270
+VFX/Ribbon_Shoot1
+bounds:1551,44,495,229
+VFX/Ribbon_Shoot1_glow
+bounds:1569,67,477,225
+offsets:0,65,623,290
+char/Body_#Origi
+bounds:1278,246,206,229
+rotate:270
+char/EyeClose
+bounds:907,1989,56,32
+char/EyeOpen
+bounds:856,1994,56,27
+char/EyeSemiClose
+bounds:443,1992,58,29
+offsets:0,0,59,29
+char/Layer 263
+bounds:82,1278,262,290
+rotate:90
+char/Layer 508_Glow
+bounds:1479,274,216,83
+char/Layer 605 copy 5
+bounds:1468,1324,226,126
+char/Layer 606 copy 4's Inner Glow
+bounds:361,736,151,192
+rotate:90
+char/Layer 607 copy 11's Inner Glow
+bounds:222,1261,1027,516
+rotate:180
+char/Layer 609 copy 5's Inner Glow
+bounds:606,1977,87,44
+char/Layer 611
+bounds:1201,1981,51,40
+char/Layer 612
+bounds:1145,87,223,127
+char/Layer 613
+bounds:906,1471,252,75
+char/Layer 614
+bounds:1412,1926,101,65
+char/Layer 615 copy 8's Inner Glow
+bounds:1958,1869,88,120
+char/Layer 617
+bounds:208,1996,23,25
+char/Layer 618
+bounds:116,2009,36,12
+char/Layer 619
+bounds:1254,1992,58,29
+char/Layer 620 copy 6
+bounds:1601,1896,38,78
+char/Layer 621
+bounds:573,1631,100,90
+char/Layer 622 copy 3
+bounds:436,651,770,671
+char/Layer 623
+bounds:913,1830,66,77
+offsets:0,0,66,80
+char/Layer 625
+bounds:1630,1847,53,64
+offsets:0,1,53,65
+char/Layer 626
+bounds:1050,122,350,150
+char/Layer 627
+bounds:1163,1977,36,44
+char/Layer 628
+bounds:232,1998,6,23
+char/Layer 629
+bounds:159,2002,17,19
+char/Layer 630
+bounds:195,1998,14,23
+char/Leg(L)_#Origi
+bounds:2,300,239,418
+rotate:270
+char/Leg(R)_#Origi
+bounds:382,272,145,519
+rotate:270
+char/Selective Color 504 copy 3
+bounds:1857,1910,136,111
+char/weapon 紅線
+bounds:286,92,250,121
+char/右手 紅線 B
+bounds:137,731,134,153
+char/右手 花 B
+bounds:1288,1868,43,87
+char/右手 裝飾
+bounds:641,1666,71,71
+char/吊飾
+bounds:1861,1307,64,125
+char/左手 copy 4
+bounds:386,163,323,127
+char/左手 紅線
+bounds:1337,135,709,341
+offsets:0,0,709,568
+rotate:180
+char/左手 花
+bounds:765,1973,46,48
+char/裙擺 光_Glow
+bounds:1065,1451,570,650
+rotate:90
+char/裙擺_new
+bounds:1273,1035,562,649
+offsets:5,1,570,650
+rotate:90
+char/角
+bounds:67,1901,69,91
+char/金
+bounds:964,1997,59,24
+offsets:0,0,59,40
+char/頭後 絲帶
+bounds:30,878,168,243
+char/頭飾 花  B
+bounds:879,269,441,195
+char/頸飾
+bounds:664,1974,104,47
+qc
+bounds:1847,477,199,191
+offsets:0,9,200,200
