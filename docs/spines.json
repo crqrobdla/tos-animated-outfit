@@ -1369,6 +1369,30 @@
     },
     {
         "category": "monster",
+        "folder": "6426",
+        "monsterid": "3008",
+        "name": "維度粉碎 ‧ 猶格索托斯",
+        "spinename": "YogSothoth_edit2_50",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6427",
+        "monsterid": "3009",
+        "name": "殘像肆虐 ‧ 卡俄斯",
+        "spinename": "chaos",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6428",
+        "monsterid": "3010",
+        "name": "意識分解 ‧ 夏馬西",
+        "spinename": "HMS",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6429",
         "monsterid": "2567",
         "name": "緋曦赤霞 ‧ 紅璦",
