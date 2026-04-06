@@ -2694,5 +2694,45 @@
         "name": "mugentrainbossspine",
         "spinename": "skeleton",
         "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5326_Cutin",
+        "monsterid": null,
+        "name": "Spine_AS5326_Cutin",
+        "spinename": "Spine_AS5326_Cutin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5328_Cutin",
+        "monsterid": null,
+        "name": "Spine_AS5328_Cutin",
+        "spinename": "Spine_AS5328_Cutin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5330_Cutin",
+        "monsterid": null,
+        "name": "Spine_AS5330_Cutin",
+        "spinename": "Spine_AS5330_Cutin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5332_Cutin",
+        "monsterid": null,
+        "name": "Spine_AS5332_Cutin",
+        "spinename": "Spine_AS5332_Cutin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5334_Cutin",
+        "monsterid": null,
+        "name": "Spine_AS5334_Cutin",
+        "spinename": "Spine_AS5334_Cutin",
+        "pma": true
     }
 ]

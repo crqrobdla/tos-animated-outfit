@@ -1,0 +1,16 @@
+Spine_AS5332_Cutin.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.81
+Body
+bounds:2,707,1723,1283
+offsets:693,1495,3626,2778
+Chest
+bounds:2,397,416,308
+Hand
+bounds:1725,999,991,313
+rotate:90
+Head
+bounds:919,2,1127,703
+offsets:1387,625,3440,1328
