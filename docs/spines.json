@@ -2472,6 +2472,14 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6715",
+        "monsterid": "11190",
+        "name": "氣運承鼎 ‧ 成吉思汗",
+        "spinename": "hero",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
