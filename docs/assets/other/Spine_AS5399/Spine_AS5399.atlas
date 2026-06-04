@@ -1,0 +1,17 @@
+Spine_AS5399.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+tail 5
+bounds:392,35,267,392
+rotate:180
+tail 6
+bounds:589,43,246,384
+offsets:0,1,252,385
+tail 8
+bounds:2,101,324,326
+offsets:3,0,327,326
+tail 9
+bounds:233,2,425,184
+offsets:0,1,425,185
+rotate:90

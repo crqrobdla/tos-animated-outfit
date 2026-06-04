@@ -2480,6 +2480,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6716",
+        "monsterid": "2962",
+        "name": "染香仙韻 ‧ 妲己",
+        "spinename": "DJ",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6717",
+        "monsterid": "2963",
+        "name": "天狐狂姿 ‧ 妲己",
+        "spinename": "daji",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
@@ -2741,6 +2757,14 @@
         "monsterid": null,
         "name": "Spine_AS5334_Cutin",
         "spinename": "Spine_AS5334_Cutin",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5399",
+        "monsterid": null,
+        "name": "Spine_AS5399",
+        "spinename": "Spine_AS5399",
         "pma": true
     }
 ]
