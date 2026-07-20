@@ -2496,6 +2496,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6718",
+        "monsterid": "11229",
+        "name": "陽煦栽靈 ‧ 出雲",
+        "spinename": "izumo",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6719",
+        "monsterid": "11231",
+        "name": "蝕厄吞災 ‧ 神樂坂",
+        "spinename": "firelady",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
