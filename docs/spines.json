@@ -2512,6 +2512,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6720",
+        "monsterid": "11244",
+        "name": "魔祭授途 ‧ 司路域",
+        "spinename": "SLY",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6721",
+        "monsterid": "11245",
+        "name": "續命禁咒 ‧ 司路域",
+        "spinename": "Sigrun edit",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,

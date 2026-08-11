@@ -1,0 +1,629 @@
+
+SLY.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AddVfx/2
+  rotate: false
+  xy: 1727, 1062
+  size: 320, 292
+  orig: 350, 345
+  offset: 14, 27
+  index: -1
+AddVfx/circleA
+  rotate: true
+  xy: 399, 554
+  size: 187, 357
+  orig: 187, 357
+  offset: 0, 0
+  index: -1
+AddVfx/circleB
+  rotate: 180
+  xy: 1727, 1763
+  size: 284, 188
+  orig: 284, 188
+  offset: 0, 0
+  index: -1
+AddVfx/circleC
+  rotate: true
+  xy: 1235, 509
+  size: 226, 319
+  orig: 226, 319
+  offset: 0, 0
+  index: -1
+Dot/Dot_A
+  rotate: false
+  xy: 1610, 852
+  size: 332, 248
+  orig: 332, 249
+  offset: 0, 1
+  index: -1
+Dot/Dot_B
+  rotate: false
+  xy: 1209, 900
+  size: 437, 357
+  orig: 437, 357
+  offset: 0, 0
+  index: -1
+Dot/Dot_C
+  rotate: false
+  xy: 1277, 1171
+  size: 454, 295
+  orig: 454, 295
+  offset: 0, 0
+  index: -1
+Dot/Dot_D
+  rotate: 270
+  xy: 402, 242
+  size: 233, 243
+  orig: 233, 243
+  offset: 0, 0
+  index: -1
+Dot/Dot_E
+  rotate: false
+  xy: 513, 732
+  size: 454, 138
+  orig: 454, 138
+  offset: 0, 0
+  index: -1
+Dot/Dot_F
+  rotate: 180
+  xy: 1010, 1065
+  size: 272, 348
+  orig: 272, 348
+  offset: 0, 0
+  index: -1
+Dot/Dot_G
+  rotate: 180
+  xy: 2, 343
+  size: 393, 266
+  orig: 393, 266
+  offset: 0, 0
+  index: -1
+Dot/Dot_H
+  rotate: false
+  xy: 1534, 1374
+  size: 456, 314
+  orig: 456, 314
+  offset: 0, 0
+  index: -1
+Dot/Dot_I
+  rotate: false
+  xy: 1549, 619
+  size: 422, 251
+  orig: 422, 251
+  offset: 0, 0
+  index: -1
+Dot/Dot_J
+  rotate: false
+  xy: 283, 844
+  size: 447, 255
+  orig: 447, 255
+  offset: 0, 0
+  index: -1
+Layer 148
+  rotate: false
+  xy: 1619, 258
+  size: 98, 152
+  orig: 98, 161
+  offset: 0, 9
+  index: -1
+Layer 149
+  rotate: false
+  xy: 1501, 1924
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+Layer 150
+  rotate: false
+  xy: 1131, 613
+  size: 375, 253
+  orig: 385, 270
+  offset: 10, 17
+  index: -1
+Layer 151
+  rotate: false
+  xy: 2, 720
+  size: 510, 263
+  orig: 510, 263
+  offset: 0, 0
+  index: -1
+Layer 152
+  rotate: false
+  xy: 1220, 66
+  size: 109, 93
+  orig: 112, 93
+  offset: 3, 0
+  index: -1
+Layer 155
+  rotate: false
+  xy: 2, 3
+  size: 352, 270
+  orig: 352, 270
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_A
+  rotate: 270
+  xy: 1808, 449
+  size: 197, 181
+  orig: 197, 181
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_B
+  rotate: 180
+  xy: 1851, 554
+  size: 195, 261
+  orig: 195, 261
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_C
+  rotate: 180
+  xy: 223, 103
+  size: 241, 196
+  orig: 241, 196
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_D
+  rotate: true
+  xy: 1747, 310
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_E
+  rotate: false
+  xy: 167, 177
+  size: 145, 70
+  orig: 145, 70
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_F
+  rotate: false
+  xy: 1312, 82
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_G
+  rotate: false
+  xy: 458, 104
+  size: 228, 172
+  orig: 228, 172
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_H
+  rotate: false
+  xy: 513, 1837
+  size: 58, 114
+  orig: 58, 114
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_I
+  rotate: false
+  xy: 527, 35
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+VfxA/VfxA_J
+  rotate: false
+  xy: 1559, 57
+  size: 75, 141
+  orig: 75, 141
+  offset: 0, 0
+  index: -1
+VfxBack/effect
+  rotate: false
+  xy: 552, 1597
+  size: 502, 354
+  orig: 502, 354
+  offset: 0, 0
+  index: -1
+VfxBack/magic cicle
+  rotate: false
+  xy: 2, 1518
+  size: 571, 433
+  orig: 571, 433
+  offset: 0, 0
+  index: -1
+VfxFront/Shield_Glow
+  rotate: false
+  xy: 526, 347
+  size: 213, 202
+  orig: 213, 202
+  offset: 0, 0
+  index: -1
+VfxFront/Shield_In
+  rotate: false
+  xy: 654, 1236
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+VfxFront/Shield_Mid
+  rotate: false
+  xy: 1512, 411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+VfxFront/Shield_Out
+  rotate: false
+  xy: 833, 788
+  size: 389, 368
+  orig: 389, 368
+  offset: 0, 0
+  index: -1
+VfxFront/TestGlow
+  rotate: false
+  xy: 2, 685
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+VfxFront/VfxB_A
+  rotate: false
+  xy: 758, 523
+  size: 421, 214
+  orig: 421, 214
+  offset: 0, 0
+  index: -1
+VfxFront/VfxB_B
+  rotate: false
+  xy: 1213, 209
+  size: 320, 220
+  orig: 320, 220
+  offset: 0, 0
+  index: -1
+VfxFront/VfxB_C
+  rotate: false
+  xy: 1675, 293
+  size: 302, 191
+  orig: 342, 191
+  offset: 0, 0
+  index: -1
+VfxFront/ring effect 1(New)
+  rotate: 180
+  xy: 2, 1202
+  size: 654, 340
+  orig: 654, 340
+  offset: 0, 0
+  index: -1
+VfxFront/ring effect 2
+  rotate: false
+  xy: 275, 1022
+  size: 709, 211
+  orig: 709, 211
+  offset: 0, 0
+  index: -1
+VfxFront/ring effectA
+  rotate: false
+  xy: 1712, 89
+  size: 136, 150
+  orig: 136, 150
+  offset: 0, 0
+  index: -1
+VfxFront/ring effectB
+  rotate: false
+  xy: 681, 39
+  size: 159, 189
+  orig: 159, 189
+  offset: 0, 0
+  index: -1
+VfxFront/ring effectC
+  rotate: false
+  xy: 1852, 51
+  size: 194, 132
+  orig: 194, 132
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 680, 222
+  size: 261, 171
+  orig: 261, 171
+  offset: 0, 0
+  index: -1
+body
+  rotate: 270
+  xy: 2, 1067
+  size: 261, 345
+  orig: 261, 345
+  offset: 0, 0
+  index: -1
+body cloth add
+  rotate: false
+  xy: 633, 866
+  size: 191, 111
+  orig: 191, 114
+  offset: 0, 0
+  index: -1
+body cloth add1
+  rotate: false
+  xy: 2, 369
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+body cloth add2
+  rotate: false
+  xy: 413, 60
+  size: 116, 141
+  orig: 116, 151
+  offset: 0, 10
+  index: -1
+cloak
+  rotate: false
+  xy: 1774, 1327
+  size: 272, 183
+  orig: 272, 183
+  offset: 0, 0
+  index: -1
+cloak back
+  rotate: false
+  xy: 475, 1389
+  size: 812, 225
+  orig: 812, 227
+  offset: 0, 2
+  index: -1
+eye
+  rotate: false
+  xy: 1248, 1930
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+feet
+  rotate: 270
+  xy: 1047, 1513
+  size: 438, 404
+  orig: 438, 404
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1468, 106
+  size: 146, 307
+  orig: 146, 307
+  offset: 0, 0
+  index: -1
+hair copy
+  rotate: false
+  xy: 922, 232
+  size: 237, 191
+  orig: 247, 191
+  offset: 10, 0
+  index: -1
+hair front 1
+  rotate: true
+  xy: 113, 606
+  size: 141, 254
+  orig: 141, 254
+  offset: 0, 0
+  index: -1
+hairBack
+  rotate: false
+  xy: 1453, 1517
+  size: 143, 177
+  orig: 143, 177
+  offset: 0, 0
+  index: -1
+hand back
+  rotate: false
+  xy: 1052, 1891
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1925, 1623
+  size: 103, 139
+  orig: 122, 139
+  offset: 1, 0
+  index: -1
+head cloak
+  rotate: false
+  xy: 29, 227
+  size: 266, 221
+  orig: 266, 221
+  offset: 0, 0
+  index: -1
+head cloak back
+  rotate: false
+  xy: 533, 1489
+  size: 129, 163
+  orig: 264, 191
+  offset: 135, 28
+  index: -1
+head cloak back2
+  rotate: false
+  xy: 1107, 113
+  size: 138, 191
+  orig: 264, 191
+  offset: 0, 0
+  index: -1
+lef feet 2
+  rotate: 270
+  xy: 1106, 355
+  size: 179, 329
+  orig: 179, 336
+  offset: 0, 0
+  index: -1
+left body cloth 1
+  rotate: 270
+  xy: 75, 475
+  size: 197, 693
+  orig: 197, 693
+  offset: 0, 0
+  index: -1
+left feet 1
+  rotate: true
+  xy: 10, 929
+  size: 166, 296
+  orig: 166, 296
+  offset: 0, 0
+  index: -1
+left hand 1
+  rotate: false
+  xy: 852, 1328
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+left hand 2
+  rotate: false
+  xy: 295, 1390
+  size: 181, 130
+  orig: 208, 130
+  offset: 27, 0
+  index: -1
+left hand 3
+  rotate: false
+  xy: 723, 934
+  size: 175, 161
+  orig: 175, 166
+  offset: 0, 5
+  index: -1
+mouth
+  rotate: false
+  xy: 615, 1922
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+necklace cover
+  rotate: false
+  xy: 489, 1929
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+right body cloth 2
+  rotate: false
+  xy: 1595, 98
+  size: 451, 387
+  orig: 451, 387
+  offset: 0, 0
+  index: -1
+right feet 1
+  rotate: false
+  xy: 1002, 13
+  size: 103, 187
+  orig: 103, 187
+  offset: 0, 0
+  index: -1
+right feet 2
+  rotate: false
+  xy: 1042, 1711
+  size: 174, 160
+  orig: 174, 160
+  offset: 0, 0
+  index: -1
+right hand 1
+  rotate: false
+  xy: 1577, 1086
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: false
+  xy: 1850, 137
+  size: 196, 130
+  orig: 196, 130
+  offset: 0, 0
+  index: -1
+right hand 3
+  rotate: false
+  xy: 1639, 47
+  size: 71, 152
+  orig: 71, 152
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 2, 1923
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+waist cloth
+  rotate: false
+  xy: 710, 400
+  size: 417, 180
+  orig: 417, 180
+  offset: 0, 0
+  index: -1
+waist cloth back
+  rotate: 180
+  xy: 1284, 1662
+  size: 650, 289
+  orig: 650, 289
+  offset: 0, 0
+  index: -1
+weapon gold
+  rotate: true
+  xy: 755, 55
+  size: 206, 354
+  orig: 206, 354
+  offset: 0, 0
+  index: -1
+weaponA
+  rotate: 180
+  xy: 577, 483
+  size: 1323, 956
+  orig: 1326, 956
+  offset: 0, 0
+  index: -1
+weaponB
+  rotate: false
+  xy: 1959, 834
+  size: 86, 253
+  orig: 86, 253
+  offset: 0, 0
+  index: -1
+weaponC
+  rotate: false
+  xy: 1191, 777
+  size: 237, 208
+  orig: 237, 208
+  offset: 0, 0
+  index: -1
+weaponGlow
+  rotate: false
+  xy: 1436, 830
+  size: 170, 164
+  orig: 170, 164
+  offset: 0, 0
+  index: -1
+yellow fur 1
+  rotate: false
+  xy: 1455, 1928
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+yellow fur 2
+  rotate: false
+  xy: 1663, 1909
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+yellow fur 3
+  rotate: false
+  xy: 1139, 1894
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+yellow fur 4
+  rotate: false
+  xy: 1159, 1910
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1

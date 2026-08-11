@@ -1,0 +1,332 @@
+Sigrun edit.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.15
+BG BlackBoard
+bounds:1779,875,141,210
+BG Magic air
+bounds:1007,1363,672,419
+rotate:90
+BG Magic floor L0
+bounds:1,1935,434,100
+BG Magic floor L1
+bounds:1339,106,555,138
+rotate:90
+BG Magic floor L1 glow
+bounds:1479,361,573,197
+offsets:0,37,573,257
+rotate:90
+BG Magic flow
+bounds:1,1015,887,575
+offsets:13,25,900,600
+rotate:90
+BG arrow1
+bounds:788,17,109,113
+offsets:19,0,128,113
+BG arrow2
+bounds:1,1,200,138
+offsets:5,5,205,148
+rotate:270
+BG arrow3
+bounds:332,1880,240,107
+offsets:0,0,247,107
+BG arrow4
+bounds:1007,1248,277,125
+offsets:0,26,277,151
+BG book
+bounds:1122,885,83,87
+offsets:21,0,104,172
+BG machine
+bounds:1635,391,199,210
+BG paper 1
+bounds:1720,500,162,290
+offsets:13,14,184,318
+BG paper 2
+bounds:1151,1243,90,82
+offsets:13,12,140,104
+BG paper 3
+bounds:789,890,46,74
+offsets:13,4,67,87
+BG paper 4
+bounds:1,1892,247,56
+offsets:23,14,290,79
+rotate:180
+BG spare
+bounds:31,48,862,439
+rotate:180
+Frame1
+bounds:1007,1211,67,67
+offsets:120,128,307,307
+Frame2
+bounds:1708,1260,230,175
+offsets:42,69,307,307
+Frame3
+bounds:1505,1116,289,237
+offsets:11,31,307,307
+rotate:270
+Frame4
+bounds:485,917,298,255
+offsets:4,23,307,307
+Frame5
+bounds:1418,1607,290,245
+offsets:8,33,307,307
+rotate:90
+Frame6
+bounds:1474,98,260,241
+offsets:28,47,307,307
+rotate:90
+Frame7
+bounds:1576,1380,241,223
+offsets:41,48,307,307
+rotate:90
+Frame8
+bounds:1626,905,209,200
+offsets:57,57,307,307
+Frame9
+bounds:419,286,179,151
+offsets:65,91,307,307
+Main Finger L1
+bounds:1,2013,24,22
+Main Finger L2
+bounds:35,1930,23,15
+Main Finger L3
+bounds:25,2020,25,11
+Main Finger L4
+bounds:60,1932,21,10
+Main Finger L5
+bounds:129,1919,15,13
+Main Finger R1
+bounds:341,1912,21,26
+Main Finger R2
+bounds:1,1840,27,25
+Main Finger R3
+bounds:437,1985,16,23
+Main Finger R4
+bounds:454,1837,11,22
+Main Hair pony
+bounds:1485,1972,92,63
+Main HandL
+bounds:1,1071,46,34
+offsets:0,5,47,41
+Main HandR MG1
+bounds:895,81,172,186
+offsets:214,414,900,600
+Main HandR MG2
+bounds:1682,56,171,213
+offsets:3,21,197,234
+Main HandR MG3
+bounds:896,293,141,128
+Main HandR MG4
+bounds:1121,254,212,134
+offsets:0,0,212,135
+Main P book
+bounds:600,322,111,96
+offsets:0,4,111,100
+Main P magic glass
+bounds:654,1160,53,34
+Main W Core base
+bounds:465,1801,105,101
+offsets:716,447,900,600
+Main W Core tip
+bounds:654,863,63,58
+Main W Gold dn1
+bounds:907,606,59,61
+offsets:420,146,900,600
+Main W Gold dn2
+bounds:1195,945,56,57
+offsets:399,127,900,600
+Main W Gold up
+bounds:1862,1892,138,143
+Main W WingB B1
+bounds:725,827,96,120
+Main W WingB W1
+bounds:345,907,145,120
+offsets:0,6,145,148
+Main W WingF B1
+bounds:1,513,39,122
+Main W WingF W1
+bounds:437,1999,111,36
+Main W eff01
+bounds:262,9,107,138
+offsets:0,5,107,143
+Main W eff02
+bounds:1787,1438,241,216
+offsets:0,2,246,218
+rotate:270
+Main W stick
+bounds:1684,297,340,331
+offsets:2,0,342,331
+rotate:90
+Main armL B
+bounds:787,700,80,55
+offsets:515,411,900,600
+Main armL F
+bounds:271,1886,67,48
+offsets:93,6,210,99
+Main armR
+bounds:960,733,191,97
+offsets:15,5,210,105
+Main back cloak L1
+bounds:1649,1622,337,299
+rotate:180
+Main body base
+bounds:1249,836,823,379
+offsets:54,126,900,600
+rotate:90
+Main chest rope
+bounds:1007,1349,64,35
+offsets:372,386,900,600
+Main eyebowL
+bounds:68,2028,16,7
+Main eyebowR
+bounds:1,2008,10,4
+Main eyelineL
+bounds:51,2024,16,11
+Main eyelineR
+bounds:1,1952,12,9
+Main face
+bounds:1186,1982,47,53
+offsets:0,2,47,55
+Main front Hair
+bounds:1243,1316,149,125
+rotate:180
+Main hair backR
+bounds:1,1869,116,44
+offsets:0,2,116,46
+Main hood
+bounds:726,1114,129,80
+Main mouth
+bounds:84,1925,16,10
+Main necklace
+bounds:1209,1366,68,29
+Main pants LegR
+bounds:1379,810,79,134
+Main pants base
+bounds:1018,52,218,260
+offsets:36,0,254,260
+Main pink ribbon L1
+bounds:1173,55,197,159
+offsets:518,222,900,600
+rotate:270
+Main pink ribbon L2
+bounds:524,2,180,173
+offsets:519,153,900,600
+Main pink ribbon R
+bounds:1826,1296,205,152
+offsets:195,354,900,600
+rotate:90
+Main pink ribbon dn
+bounds:1012,706,194,109
+rotate:180
+Main pink ribbon dn R
+bounds:885,814,107,91
+offsets:46,57,155,150
+Main purple leg
+bounds:1497,1783,321,252
+Main shoe left
+bounds:245,397,88,83
+offsets:0,0,88,105
+Main shoe right
+bounds:1376,674,144,146
+Main shoulder L
+bounds:1653,780,265,126
+offsets:8,8,288,152
+Main shoulder R
+bounds:1815,1500,125,88
+offsets:20,5,154,113
+Main shoulder silver
+bounds:390,1852,63,42
+offsets:0,0,63,48
+Main sleeveL
+bounds:526,1887,46,40
+offsets:139,0,214,100
+Main yellow ribbon1
+bounds:431,889,100,45
+Main yellow ribbon2
+bounds:1325,1642,90,87
+offsets:563,290,900,600
+Main yellow ribbon3
+bounds:756,570,73,143
+offsets:512,184,900,600
+Mid air
+bounds:1,421,800,592
+offsets:41,0,841,592
+Prop Bird base
+bounds:274,953,126,63
+Prop Bird fly
+bounds:187,1914,20,19
+Prop Bird paper
+bounds:849,1126,48,44
+Prop book floor
+bounds:1477,1900,48,59
+Prop book1
+bounds:1,894,90,57
+offsets:17,13,111,91
+Prop book2
+bounds:1045,830,89,117
+offsets:13,17,134,155
+Prop book3
+bounds:777,724,197,102
+offsets:34,16,243,137
+Prop book4
+bounds:1422,1866,76,70
+offsets:11,12,102,100
+Prop tube01
+bounds:1731,1707,79,91
+offsets:1,0,80,91
+Prop tube02
+bounds:532,1989,44,25
+offsets:11,3,65,32
+Prop tube03
+bounds:759,920,52,73
+offsets:7,14,63,100
+Prop tube04
+bounds:1244,1978,73,57
+offsets:19,3,113,77
+att eff 1
+bounds:396,77,228,176
+offsets:0,26,230,230
+att eff 2
+bounds:567,1168,83,25
+offsets:4,3,95,34
+att eff 3
+bounds:1,950,122,124
+offsets:3,5,130,134
+impact
+bounds:1330,1908,147,127
+offsets:3,0,150,127
+prop MG eff
+bounds:797,357,884,580
+offsets:0,20,884,600
+rotate:90
+prop MG glow
+bounds:579,1197,838,425
+offsets:0,0,839,425
+rotate:90
+prop book
+bounds:1297,1070,103,91
+offsets:0,1,103,92
+prop dia 1
+bounds:542,1749,32,50
+offsets:17,0,62,61
+prop dia 2
+bounds:247,1885,19,38
+offsets:22,0,51,58
+prop owl
+bounds:876,600,192,131
+prop paper1
+bounds:1007,1832,33,50
+offsets:12,5,63,63
+prop paper2
+bounds:1201,1141,65,111
+offsets:11,5,128,120
+prop paper3
+bounds:1,420,87,99
+offsets:9,6,103,107
+prop paper4
+bounds:1,519,93,158
+offsets:11,17,113,194
+prop reel
+bounds:1743,1062,239,225
+offsets:0,144,773,369
