@@ -1,0 +1,449 @@
+TL.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Attack/0
+bounds:428,70,78,78
+offsets:2,2,82,82
+Attack/C-00
+bounds:1696,244,183,86
+offsets:105,3,288,91
+Attack/C-01
+bounds:1059,570,234,89
+offsets:52,1,288,91
+Attack/C-02
+bounds:1357,441,232,84
+offsets:48,4,288,91
+Attack/C-03
+bounds:1838,332,208,85
+offsets:38,3,288,91
+Attack/LaserBig_00
+bounds:422,1040,232,218
+offsets:13,14,245,247
+rotate:90
+Attack/LaserBig_01
+bounds:1833,792,213,181
+offsets:32,33,245,247
+Attack/LaserBig_02
+bounds:224,463,176,117
+offsets:69,66,245,247
+rotate:90
+Attack/LaserBig_03
+bounds:1871,434,175,115
+offsets:70,67,245,247
+Attack/LaserBig_04
+bounds:13,1058,145,113
+offsets:100,67,245,247
+Attack/LaserBig_05
+bounds:1903,985,143,109
+offsets:102,70,245,247
+Attack/LaserBig_06
+bounds:430,905,133,88
+offsets:112,80,245,247
+rotate:90
+Attack/LaserBig_07
+bounds:163,96,141,88
+offsets:104,81,245,247
+Attack/LaserBig_08
+bounds:1591,447,89,74
+offsets:156,88,245,247
+Attack/Laser_00
+bounds:2,237,161,100
+offsets:3,3,164,105
+Attack/Laser_01
+bounds:745,260,161,100
+offsets:3,3,164,105
+Attack/Laser_02
+bounds:921,269,161,100
+offsets:3,3,164,105
+Attack/Laser_03
+bounds:921,269,161,100
+offsets:3,3,164,105
+Attack/Laser_04
+bounds:165,186,160,93
+offsets:4,6,164,105
+Attack/Laser_05
+bounds:2,155,159,80
+offsets:5,13,164,105
+Attack/Laser_06
+bounds:1373,1352,148,44
+offsets:16,31,164,105
+Attack/ring_01
+bounds:908,150,117,117
+offsets:5,5,127,127
+Attack/ring_02
+bounds:1084,272,127,127
+Attack/ring_03
+bounds:166,281,127,127
+Attack/ring_04
+bounds:562,208,125,125
+offsets:1,1,127,127
+Attack/sk2_shizi_00000
+bounds:1097,1720,142,90
+BG/BGCube_Gradient Map 2
+bounds:642,1060,71,107
+BG/BGCube_Layer 177
+bounds:1650,1745,69,65
+offsets:0,0,69,67
+BG/BGCube_Layer 178
+bounds:841,900,93,90
+BG/BGCube_Layer 179
+bounds:350,1564,48,56
+BG/BGCube_Layer 180
+bounds:884,14,79,90
+BG/BGCube_Layer 181
+bounds:1043,1762,60,48
+BG/BGCube_Layer 182
+bounds:211,1404,43,51
+BG/BGCube_Layer 183
+bounds:566,1736,55,74
+BG/BGCube_Layer 184
+bounds:1947,1729,45,39
+BG/BGCube_Layer 185
+bounds:1665,1432,44,42
+BG/BGCube_Layer 190
+bounds:347,1681,55,49
+BG/BGCubes_Layer 186
+bounds:343,1558,598,252
+offsets:2,3,629,256
+rotate:180
+BG/BGCubes_Layer 187
+bounds:852,665,184,313
+rotate:90
+BG/BGCubes_Layer 188
+bounds:2,84,148,69
+BG/BGCubes_Layer 189
+bounds:1654,1359,392,368
+offsets:0,3,392,371
+BG/BGLayer 124
+bounds:2,1457,355,353
+Robo/Robo_Gold
+bounds:1029,1064,84,172
+Robo/Robo_Hue/Saturation 3
+bounds:1629,489,241,139
+offsets:0,0,241,141
+Robo/Robo_Layer 10 copy 7
+bounds:651,9,154,152
+rotate:180
+Robo/Robo_Layer 11
+bounds:1204,63,75,73
+Robo/Robo_Layer 12
+bounds:359,1732,63,78
+Robo/Robo_Layer 139
+bounds:256,1403,182,207
+rotate:270
+Robo/Robo_Layer 146
+bounds:516,816,241,298
+rotate:90
+Robo/Robo_Layer 147
+bounds:744,1250,39,151
+offsets:0,0,42,154
+rotate:90
+Robo/Robo_Layer 148
+bounds:381,4,64,189
+rotate:90
+Robo/Robo_Layer 149
+bounds:2,339,162,156
+Robo/Robo_Layer 150
+bounds:1845,562,157,228
+Robo/Robo_Layer 151
+bounds:735,1284,353,310
+rotate:270
+Robo/Robo_Layer 152
+bounds:912,1184,115,116
+Robo/Robo_Layer 153
+bounds:301,1307,79,108
+Robo/Robo_Layer 154
+bounds:652,1019,324,409
+offsets:5,0,329,409
+rotate:270
+Robo/Robo_Layer 155 copy 5
+bounds:1125,661,387,213
+Robo/Robo_Layer 157
+bounds:813,362,179,214
+rotate:180
+Robo/Robo_Layer 158
+bounds:1015,1127,467,398
+offsets:0,0,470,398
+Robo/Robo_Layer 159
+bounds:278,1223,77,74
+Robo/Robo_Layer 160
+bounds:1343,911,62,77
+Robo/Robo_Layer 161
+bounds:1422,1291,67,59
+Robo/Robo_Layer 162
+bounds:1564,1515,92,42
+offsets:0,0,93,42
+Robo/Robo_Layer 163
+bounds:1720,1784,65,26
+Robo/Robo_Layer 164
+bounds:349,1053,66,82
+Robo/Robo_Layer 165
+bounds:1976,686,55,104
+Robo/Robo_Layer 166
+bounds:1741,1266,75,98
+Robo/Robo_Layer 167
+bounds:773,1765,105,45
+Robo/Robo_Layer 168
+bounds:1038,1319,77,34
+Robo/Robo_Layer 169
+bounds:194,722,93,92
+Robo/Robo_Layer 170
+bounds:752,872,48,96
+Robo/Robo_Layer 171
+bounds:1088,986,101,76
+Robo/Robo_Layer 172
+bounds:1627,76,57,103
+Robo/Robo_Layer 173
+bounds:783,1492,32,70
+Robo/Robo_Layer 174
+bounds:1668,1560,57,60
+Robo/Robo_Layer 175
+bounds:1040,1398,55,42
+Robo/Robo_Layer 176
+bounds:2,1460,22,72
+offsets:0,0,22,75
+Robo/Robo_Layer 177
+bounds:1505,39,256,80
+Robo/Robo_Layer 178
+bounds:1229,245,465,215
+Robo/Robo_Layer 179
+bounds:1261,1089,103,73
+Robo/Robo_Layer 180
+bounds:131,1781,28,29
+Robo/Robo_Layer 181
+bounds:1509,127,116,116
+Robo/Robo_Layer 182
+bounds:2,1726,127,84
+Robo/Robo_Layer 183
+bounds:930,1646,45,40
+Robo/Robo_Layer 184
+bounds:626,335,159,147
+offsets:33,0,192,176
+Robo/Robo_Layer 185
+bounds:1242,20,109,112
+Robo/Robo_Layer 186
+bounds:1739,1109,71,33
+Robo/Robo_Layer 187
+bounds:1241,1754,60,56
+Robo/Robo_Layer 188
+bounds:104,935,124,121
+Robo/Robo_Layer 189
+bounds:1832,64,117,108
+Robo/Robo_Layer 190
+bounds:378,402,107,98
+Robo/Robo_Layer 191
+bounds:707,1365,26,57
+Robo/Robo_Layer 2
+bounds:1211,1385,95,84
+Robo/Robo_Layer 3
+bounds:708,123,198,91
+Robo/Robo_Layer 4
+bounds:295,293,83,80
+Robo/Robo_Layer 5
+bounds:1047,1442,79,95
+Robo/Robo_Layer 6
+bounds:1221,105,195,114
+offsets:0,0,195,117
+Robo/Robo_Layer 7
+bounds:1741,900,81,89
+Robo/Robo_Layer 8
+bounds:1802,1582,80,83
+Robo/Robo_Layer 9
+bounds:1234,1051,69,78
+Robo/Robo_arm
+bounds:160,900,268,271
+Robo/Robo_bac mecha
+bounds:1436,975,161,460
+rotate:90
+Robo/Robo_back mecha
+bounds:900,1417,491,393
+rotate:180
+Robo/Robo_back wing
+bounds:1377,1463,605,347
+offsets:0,0,605,352
+Robo/Robo_back wing copy
+bounds:1006,885,471,351
+rotate:270
+Robo/Robo_body
+bounds:1478,798,201,305
+rotate:270
+Robo/Robo_bottom
+bounds:152,2,95,172
+offsets:0,0,95,179
+rotate:270
+Robo/Robo_cannon effectA
+bounds:1315,1366,43,49
+Robo/Robo_cannon effectD
+bounds:1386,1411,43,51
+Robo/Robo_cannonB
+bounds:529,1689,56,56
+Robo/Robo_cannonC
+bounds:570,31,81,98
+Robo/Robo_glow
+bounds:1727,1581,73,66
+Robo/Robo_head winga
+bounds:324,66,104,148
+offsets:1,0,107,149
+rotate:180
+Robo/Robo_head wingb
+bounds:2,1350,86,142
+Robo/Robo_head, shoulder
+bounds:382,149,130,178
+offsets:0,0,145,178
+rotate:270
+Robo/Robo_leg effectA
+bounds:654,466,172,216
+rotate:90
+Robo/Robo_leg effectB
+bounds:1213,249,156,179
+Robo/Robo_pipe
+bounds:778,838,747,229
+rotate:180
+Robo/Robo_wingA
+bounds:373,1274,420,288
+rotate:180
+Robo/Robo_wingb
+bounds:502,563,369,287
+rotate:180
+VFX/VFX_Layer 146
+bounds:155,375,324,86
+VFX/VFX_Layer 147
+bounds:2,478,214,177
+rotate:180
+VFX/VFX_Layer 148
+bounds:1591,363,278,132
+VFX/VFX_Layer 149
+bounds:492,414,167,169
+VFX/VFX_Layer 150
+bounds:1104,1137,169,155
+rotate:90
+VFX/VFX_Layer 151
+bounds:1307,616,107,110
+VFX/VFX_Layer 152
+bounds:1232,1679,131,312
+rotate:90
+VFX/VFX_Layer 153
+bounds:535,661,143,143
+VFX/VFX_effect
+bounds:372,253,258,169
+rotate:180
+VFX/VFX_screen
+bounds:1612,630,186,248
+rotate:270
+girl/Girl_Eye
+bounds:736,1074,66,45
+girl/Girl_EyeClose
+bounds:1267,1629,68,48
+girl/Girl_Face
+bounds:1340,1583,96,98
+girl/Girl_Hand_attack
+bounds:1959,559,87,88
+girl/Girl_Layer 108 copy
+bounds:1977,1733,69,73
+girl/Girl_Layer 145
+bounds:1654,92,193,164
+offsets:4,0,218,164
+rotate:180
+girl/Girl_Layer 1452
+bounds:1347,34,173,147
+offsets:3,0,194,147
+rotate:90
+girl/Girl_Layer 146
+bounds:2,1172,283,419
+rotate:90
+girl/Girl_Layer 148
+bounds:335,1136,86,95
+girl/Girl_Layer 149
+bounds:1545,725,78,100
+rotate:90
+girl/Girl_Layer 151
+bounds:1324,196,183,123
+rotate:180
+girl/Girl_Layer 152
+bounds:894,926,287,136
+girl/Girl_Layer 154
+bounds:432,1478,138,88
+girl/Girl_Layer 155
+bounds:1148,462,376,379
+girl/Girl_Layer 156
+bounds:297,688,272,193
+rotate:180
+girl/Girl_Layer 157
+bounds:1059,26,157,161
+rotate:90
+girl/Girl_Layer 160
+bounds:582,1270,68,31
+girl/Girl_Layer 161
+bounds:2,1792,21,18
+girl/Girl_Layer 162
+bounds:12,1800,10,10
+girl/Girl_Layer 166
+bounds:1315,944,182,175
+rotate:90
+girl/Girl_Layer 168
+bounds:1403,330,179,109
+girl/Girl_Layer 171
+bounds:295,483,218,225
+girl/Girl_Layer 172
+bounds:2,823,37,105
+girl/Girl_Layer 173
+bounds:513,82,176,306
+rotate:90
+girl/Girl_Layer 174
+bounds:1491,1006,84,35
+girl/Girl_Layer 176
+bounds:1848,163,198,128
+girl/Girl_Layer 177
+bounds:1871,1427,58,39
+girl/Girl_Layer 178
+bounds:1992,1385,54,62
+girl/Girl_Layer 179
+bounds:1546,1710,102,100
+girl/Girl_Layer 180
+bounds:765,523,294,208
+girl/Girl_Layer 181
+bounds:447,865,118,78
+girl/Girl_Layer 182
+bounds:432,1696,137,114
+girl/Girl_Layer 183
+bounds:1040,160,239,124
+girl/Girl_Layer 184
+bounds:2,816,293,231
+girl/Girl_Layer 185
+bounds:24,1789,16,21
+girl/Girl_Layer 187
+bounds:1693,343,143,41
+girl/Girl_Layer 188
+bounds:778,21,105,105
+offsets:0,0,107,108
+girl/Girl_Layer 189
+bounds:1461,525,169,203
+offsets:12,8,202,215
+girl/Girl_Layer 191 copy's Inner Glow
+bounds:1795,1073,93,142
+offsets:0,0,93,148
+girl/Girl_Layer 87
+bounds:1814,1095,232,321
+offsets:0,35,232,356
+girl/Girl_Layer 88
+bounds:1482,1134,317,257
+rotate:180
+girl/Girl_Layer 93
+bounds:2,616,198,241
+offsets:0,17,198,258
+rotate:90
+girl/Girl_Layer 94
+bounds:1439,1396,117,225
+offsets:48,13,210,267
+rotate:90
+girl/Girl_Layer 95
+bounds:989,398,149,232
+offsets:14,13,166,252
+rotate:270
+girl/Girl_Layer 96
+bounds:1941,32,105,119
+offsets:7,0,112,119
+girl/Girl_Layer 98
+bounds:898,10,136,192
+rotate:90

@@ -1,0 +1,303 @@
+ALYS_BG.png
+size:2048,1919
+filter:Linear,Linear
+pma:true
+BGPart/BGPart_Layer 106
+bounds:1617,925,172,172
+BGPart/BGPart_Layer 115
+bounds:2,563,401,199
+BGPart/BGPart_Layer 120
+bounds:1505,1347,570,528
+rotate:90
+BGPart/BGPart_Layer 183's Inner Glow
+bounds:1559,548,114,233
+offsets:0,11,114,244
+BGPart/BGPart_Layer 184
+bounds:1618,219,146,152
+BGPart/BGPart_Layer 185
+bounds:693,1657,64,75
+BGPart/BGPart_Layer 186
+bounds:1189,581,312,417
+rotate:270
+BGPart/BGPart_Layer 187
+bounds:400,473,280,424
+rotate:270
+BGPart/BGPart_Layer 188
+bounds:1676,597,328,370
+rotate:90
+BGPart/BGPart_Layer 189 copy 2
+bounds:403,1373,71,90
+BGPart/BGPart_Layer 41
+bounds:997,821,321,519
+rotate:90
+BGPart/BGPart_Layer 42
+bounds:1531,782,358,515
+rotate:270
+BGPart/BGPart_Layer 52
+bounds:774,1396,831,521
+BGPart/BGPart_Layer 54
+bounds:731,396,239,473
+rotate:270
+BGPart/Layer 190
+bounds:2,1747,41,68
+BGPart/Saturation 3
+bounds:1701,444,345,283
+rotate:180
+BGVFX/BGVFX_Layer 173
+bounds:1704,260,222,223
+BGVFX/BGVFX_Layer 174 copy 4
+bounds:53,443,343,143
+BGVFX/BGVFX_Layer 175
+bounds:1276,951,419,224
+BGVFX/BGVFX_Layer 183
+bounds:1262,445,343,143
+BGVFX/BGVFX_Layer 184
+bounds:87,1687,241,230
+BGVFX/BGVFX_Layer 185
+bounds:287,638,373,275
+BGVFX/BGVFX_Layer 186
+bounds:1387,300,316,252
+BGVFX/BGVFX_Layer 187
+bounds:1565,1771,221,146
+Char/EyeClosed
+bounds:1768,1883,59,34
+Char/Layer 219
+bounds:1520,1871,70,46
+Char/Layer 220
+bounds:830,1126,64,171
+Char/Layer 221 copy 3
+bounds:1268,268,104,180
+Char/Layer 222
+bounds:927,1210,62,129
+Char/Layer 223 copy 2
+bounds:1006,509,236,305
+rotate:90
+Char/Layer 224
+bounds:519,1004,121,137
+Char/Layer 225
+bounds:946,1430,81,88
+Char/Layer 227
+bounds:93,1631,112,131
+Char/Layer 229
+bounds:1859,1340,59,72
+Char/Layer 230
+bounds:1786,1795,109,122
+Char/Layer 232
+bounds:1909,1601,66,36
+Char/Layer 233
+bounds:2,1525,95,392
+Char/Layer 234
+bounds:1665,1871,49,46
+Char/Layer 237
+bounds:1523,1765,59,35
+Char/Layer 238
+bounds:1966,1530,80,76
+Char/Layer 239
+bounds:1492,1403,79,97
+Char/Layer 239 copy
+bounds:475,1511,64,71
+offsets:1,0,65,74
+Char/Layer 240 copy 4
+bounds:666,1204,75,88
+Char/Layer 242
+bounds:411,1452,87,77
+Char/Layer 243
+bounds:409,951,149,115
+Char/Layer 244
+bounds:1028,1896,44,21
+Char/Layer 245
+bounds:742,1849,33,36
+Char/Layer 246
+bounds:98,1858,66,59
+Char/Layer 248
+bounds:1764,1588,66,41
+Char/Layer 249
+bounds:28,1860,22,33
+Char/Layer 250
+bounds:2005,1650,41,98
+Char/Lip
+bounds:946,1897,25,20
+offsets:41,5,80,76
+CharCloth/Layer 178
+bounds:23,1294,929,623
+rotate:180
+CharCloth/Layer 226
+bounds:1518,48,339,528
+rotate:270
+CharCloth/Layer 228
+bounds:867,82,391,561
+rotate:90
+CharCloth/Layer 231
+bounds:126,992,539,538
+rotate:90
+FGHand/Group 7 copy 11
+bounds:327,1741,45,176
+FGHand/Group 7 copy 3
+bounds:485,915,510,407
+rotate:180
+FGHand/Group 7 copy 7
+bounds:474,309,215,393
+rotate:270
+FGHand/Group 7 copy 8
+bounds:2,184,357,387
+rotate:270
+FGHand/Group 7 copy 9
+bounds:251,178,280,279
+offsets:0,14,280,293
+rotate:90
+FGHand/Layer 181
+bounds:509,214,173,165
+FGHand/Layer 182
+bounds:1163,213,103,181
+FGHand/Layer 191
+bounds:593,201,221,227
+offsets:0,19,221,246
+FGHand/Layer 213
+bounds:826,661,297,361
+offsets:4,0,301,361
+rotate:90
+FGHand/Layer 265
+bounds:959,211,239,341
+rotate:90
+FGHand/Layer 279
+bounds:2,165,181,173
+FGHand/Layer 280
+bounds:2,1804,113,25
+rotate:90
+FGHand/Layer 281
+bounds:1419,1861,102,56
+FGHand/Layer 282
+bounds:1583,1680,41,92
+FGHand/Layer 283
+bounds:797,1627,79,67
+FGHand/Layer 284
+bounds:2,1081,93,158
+FGVFX/Group 7 copy 5
+bounds:1540,1088,506,227
+offsets:0,0,574,462
+FGVFX/Layer 268
+bounds:991,1160,569,330
+offsets:0,0,569,459
+rotate:180
+FGflower/Group 7 copy 14
+bounds:2,1197,327,95
+FGflower/Group 7 copy 2
+bounds:652,769,327,124
+FGflower/Layer 267
+bounds:2,846,498,232
+rotate:180
+Rope/Layer 136 copy
+bounds:393,167,148,357
+rotate:90
+Rope/Layer 137 copy
+bounds:310,566,171,167
+offsets:2,0,174,167
+Rope/Layer 138 copy
+bounds:349,538,89,172
+Rope/Layer 183
+bounds:1778,16,179,268
+rotate:90
+Rope/Layer 184
+bounds:1369,125,235,183
+Rope/Layer 186
+bounds:542,23,340,248
+rotate:180
+Rope/Layer 187
+bounds:1262,741,139,277
+offsets:6,0,145,310
+rotate:90
+Rope/Layer 188
+bounds:1576,919,146,123
+Rope/Layer 189
+bounds:872,464,126,226
+Rope/Layer 209
+bounds:1232,49,118,346
+rotate:90
+Rope/Layer 210
+bounds:647,721,181,95
+Rope/Layer 211
+bounds:2,93,114,454
+rotate:90
+Rope/Layer 215
+bounds:852,2,183,376
+offsets:0,36,206,412
+rotate:270
+Rope/Layer 216
+bounds:1065,160,166,208
+offsets:0,0,166,216
+Rope/Layer 217
+bounds:1607,150,140,257
+rotate:90
+Rope/Layer 252
+bounds:1791,105,236,255
+rotate:90
+Rope/Layer 253
+bounds:721,1639,82,93
+Rope/Layer 254
+bounds:1909,1257,136,90
+Rope/Layer 255
+bounds:2,31,150,537
+rotate:270
+Rope/Layer 256
+bounds:201,1174,140,62
+Rope/Layer 278
+bounds:538,35,346,345
+rotate:180
+Rope/Layer 285
+bounds:5,718,265,126
+Rope/Layer 2855
+bounds:1625,1740,70,52
+offsets:0,1,70,53
+Vfx/baoxin0001
+bounds:673,1853,68,64
+offsets:10,8,80,80
+Vfx/baoxin0002
+bounds:2,1284,71,70
+offsets:6,5,80,80
+Vfx/baoxin0003
+bounds:1562,1331,71,71
+offsets:4,4,80,80
+Vfx/guangdian
+bounds:1660,684,128,128
+offsets:6,6,140,140
+Vfx/guangquan
+bounds:656,1734,137,113
+offsets:1,1,140,114
+ball/Group 7 copy
+bounds:165,1905,12,12
+ball/Group 7 copy 4
+bounds:2005,1750,35,37
+ball/Layer 150
+bounds:2006,1789,36,37
+ball/Layer 194
+bounds:1994,1870,46,47
+ball/Layer 195
+bounds:1328,1880,36,37
+ball/Layer 196
+bounds:1300,1896,20,21
+ball/Layer 197
+bounds:743,1890,26,27
+ball/Layer 198
+bounds:633,1880,36,37
+ball/Layer 199
+bounds:2,1902,14,15
+ball/Layer 200
+bounds:1004,1894,22,23
+ball/Layer 263
+bounds:29,1898,19,19
+ball/Layer 269
+bounds:1369,1869,48,48
+ball/Layer 270
+bounds:147,1836,24,25
+ball/Layer 271
+bounds:1419,1891,25,26
+ball/Layer 272
+bounds:2006,1828,39,40
+ball/Layer 274
+bounds:78,1720,41,41
+ball/Layer 275
+bounds:859,1884,33,33
+ball/Layer 276
+bounds:310,1901,16,16
+ball/Layer 277
+bounds:795,1743,41,41

@@ -2528,6 +2528,30 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6723",
+        "monsterid": "11128",
+        "name": "生機佇足 ‧ 阿賴耶識",
+        "spinename": "ALYS_BG",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6724",
+        "monsterid": "11247",
+        "name": "無垠星河 ‧ 圖靈與百慕達",
+        "spinename": "TL",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6728",
+        "monsterid": "11247",
+        "name": "超越奇點 ‧ 圖靈與百慕達",
+        "spinename": "ZeenChin",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
