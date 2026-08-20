@@ -2548,7 +2548,7 @@
         "folder": "6728",
         "monsterid": "11247",
         "name": "超越奇點 ‧ 圖靈與百慕達",
-        "spinename": "ZeenChin",
+        "spinename": "ZeenChin.skel",
         "pma": true
     },
     {
@@ -2677,6 +2677,14 @@
         "monsterid": null,
         "name": "夢禍之核",
         "spinename": "dark_001",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "6728",
+        "monsterid": null,
+        "name": "超越奇點 ‧ 圖靈與百慕達",
+        "spinename": "ZeenChin",
         "pma": true
     },
     {
@@ -2821,6 +2829,22 @@
         "monsterid": null,
         "name": "Spine_AS5399",
         "spinename": "Spine_AS5399",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5482_Robot",
+        "monsterid": null,
+        "name": "Spine_AS5482_Robot",
+        "spinename": "Spine_AS5482_Robot",
+        "pma": true
+    },
+    {
+        "category": "other",
+        "folder": "Spine_AS5482_T0",
+        "monsterid": null,
+        "name": "Spine_AS5482_T0",
+        "spinename": "Spine_AS5482_T0",
         "pma": true
     }
 ]
