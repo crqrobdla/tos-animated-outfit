@@ -2545,6 +2545,14 @@
     },
     {
         "category": "monster",
+        "folder": "6727",
+        "monsterid": "2968",
+        "name": "初序的毀滅曲 ‧ 卡俄斯",
+        "spinename": "NineOfLord",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6728",
         "monsterid": "11247",
         "name": "超越奇點 ‧ 圖靈與百慕達",
