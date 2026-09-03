@@ -2545,6 +2545,22 @@
     },
     {
         "category": "monster",
+        "folder": "6725",
+        "monsterid": "11260",
+        "name": "獸道獨行 ‧ 凱撒",
+        "spinename": "Caesar",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6726",
+        "monsterid": "11261",
+        "name": "弒序絕裁 ‧ 凱撒",
+        "spinename": "ceser",
+        "pma": true
+    },
+    {
+        "category": "monster",
         "folder": "6727",
         "monsterid": "2968",
         "name": "初序的毀滅曲 ‧ 卡俄斯",
