@@ -2576,6 +2576,22 @@
         "pma": true
     },
     {
+        "category": "monster",
+        "folder": "6729",
+        "monsterid": "11288",
+        "name": "時梯逆轉 ‧ 翡冷翠",
+        "spinename": "florence",
+        "pma": true
+    },
+    {
+        "category": "monster",
+        "folder": "6730",
+        "monsterid": "11289",
+        "name": "護世熾盾 ‧ 阿爾卑斯",
+        "spinename": "fire",
+        "pma": true
+    },
+    {
         "category": "other",
         "folder": "2528",
         "monsterid": null,
